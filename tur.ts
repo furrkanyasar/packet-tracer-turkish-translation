@@ -89,10 +89,10 @@ Please refer to the Activity Wizard help files for more detailed information.</s
 Etkinlik Sihirbazı, diğer kullanıcılar için ayrıntılı ağ senaryoları oluşturmanıza olanak tanıyan bir değerlendirme aracıdır. Bir etkinlik oluşturmanın tipik sırası şöyledir:
 
 1) Cevap ağını oluşturun ve değerlendirme öğelerini ayarlayın.
-2) Kullanıcının başlangıç noktası olacak ilk ağı oluşturun. Boş bir ilk ağ da kullanılabilir. Doğru puanlama için, ilk ağdaki cihaz görüntü adları, cevap ağındakilerle eşleşmelidir.
+2) Kullanıcının başlangıç noktası olacak ilk ağı oluşturun. Boş bir başlangıç ağı da kullanılabilir. Doğru puanlama için, başlangıç ağındaki cihaz görüntü adları, cevap ağındakilerle eşleşmelidir.
 3) Etkinlik sırasında kullanıcının belirli özellikleri kullanma yeteneğine kısıtlamalar getirin.
 4) Etkinlik için açık ve net talimatlar yazın.
-5) Etkinlik parametrelerinde yetkisiz değişikliklerin yapılmasını önlemek için etkinliği şifre ile koruyun.
+5) Etkinlik parametrelerinde yetkisiz değişikliklerin yapılmasını önlemek için etkinliği parola ile koruyun.
 6) Etkinliği kaydedin.
 
 Daha ayrıntılı bilgi için lütfen Etkinlik Sihirbazı yardım dosyalarına bakın.</translation>
@@ -498,7 +498,7 @@ Daha ayrıntılı bilgi için lütfen Etkinlik Sihirbazı yardım dosyalarına b
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="352" />
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14556" />
         <source>Password</source>
-        <translation>Şifre</translation>
+        <translation>Parola</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="389" />
@@ -3954,19 +3954,19 @@ Silmek için: Silinecek satırın herhangi bir yerine tıklayın ve Delete tuşu
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13549" />
         <source>Initial Network Setup</source>
-        <translation>İlk Ağ Kurulumu</translation>
+        <translation>Başlangıç Ağı Kurulumu</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13561" />
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13564" />
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13567" />
         <source>This activity will use the initial values defined in the Initial Network. Alternatively, some initial values may be defined on the tree below. If checked, the value from the tree will be used.</source>
-        <translation>Bu etkinlik, İlk Ağ'da tanımlanan ilk değerleri kullanacaktır. Alternatif olarak, bazı ilk değerler aşağıdaki ağaçta tanımlanabilir. İşaretlenirse, ağaçtaki değer kullanılacaktır.</translation>
+        <translation>Bu etkinlik, Başlangıç Ağı'da tanımlanan ilk değerleri kullanacaktır. Alternatif olarak, bazı ilk değerler aşağıdaki ağaçta tanımlanabilir. İşaretlenirse, ağaçtaki değer kullanılacaktır.</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13641" />
         <source>Initial Network Setup tree</source>
-        <translation>İlk Ağ Kurulumu ağacı</translation>
+        <translation>Başlangıç Ağı Kurulumu ağacı</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14217" />
@@ -4004,38 +4004,38 @@ Silmek için: Silinecek satırın herhangi bir yerine tıklayın ve Delete tuşu
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14509" />
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14512" />
         <source>Setting a password prevents unauthorized changes to this activity's parameters. When a user is running this activity, the Activity Wizard cannot be accessed unless the correct password is entered.</source>
-        <translation>Şifre belirlemek, bu etkinliğin parametrelerinde yetkisiz değişikliklerin yapılmasını engeller. Bir kullanıcı bu etkinliği çalıştırırken, doğru şifre girilmedikçe Etkinlik Sihirbazı'na erişilemez.</translation>
+        <translation>Parola belirlemek, bu etkinliğin parametrelerinde yetkisiz değişikliklerin yapılmasını engeller. Bir kullanıcı bu etkinliği çalıştırırken, doğru parola girilmedikçe Etkinlik Sihirbazı'na erişilemez.</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14528" />
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14531" />
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14534" />
         <source>Password:</source>
-        <translation>Şifre:</translation>
+        <translation>Parola:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14569" />
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14572" />
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14575" />
         <source>Confirm Password:</source>
-        <translation>Şifreyi Onayla:</translation>
+        <translation>Parolayı Onayla:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14597" />
         <source>Confirm Password</source>
-        <translation>Şifreyi Onayla</translation>
+        <translation>Parolayı Onayla</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14618" />
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14621" />
         <source>Enable Password</source>
-        <translation>Şifreyi Etkinleştir</translation>
+        <translation>Parolayı Etkinleştir</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14637" />
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14640" />
         <source>Disable Password</source>
-        <translation>Şifreyi Devre Dışı Bırak</translation>
+        <translation>Parolayı Devre Dışı Bırak</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14707" />
@@ -4121,7 +4121,7 @@ Silmek için: Silinecek satırın herhangi bir yerine tıklayın ve Delete tuşu
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="361" />
         <source>&amp;Password</source>
-        <translation>&amp;Şifre</translation>
+        <translation>&amp;Parola</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="364" />
@@ -5254,7 +5254,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1638" />
         <source>WPA Password</source>
-        <translation>WPA Şifresi</translation>
+        <translation>WPA Parolası</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1664" />
@@ -5284,7 +5284,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1735" />
         <source>802.1x Password</source>
-        <translation>802.1x Şifre</translation>
+        <translation>802.1x Parola</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1781" />
@@ -5320,7 +5320,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2423" />
         <source>Link Local Address</source>
-        <translation>Bağlantı Yerel Adresi</translation>
+        <translation>Link-Local Adresi</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2516" />
@@ -5468,7 +5468,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2113" />
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2116" />
         <source>Password</source>
-        <translation>Şifre</translation>
+        <translation>Parola</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2299" />
@@ -5666,7 +5666,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2433" />
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2436" />
         <source>Link Local Address:</source>
-        <translation>Bağlantı Yerel Adresi:</translation>
+        <translation>Link-Local Adresi:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1976" />
@@ -6384,7 +6384,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Workstation/WorkstatonMailConfiguration.ui" line="263" />
         <location filename="../gui/DesignerFiles/Workstation/WorkstatonMailConfiguration.ui" line="266" />
         <source>Password:</source>
-        <translation>Şifre:</translation>
+        <translation>Parola:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstatonMailConfiguration.ui" line="303" />
@@ -6819,7 +6819,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1412" />
         <source>The password entered does not match.</source>
-        <translation>Girilen şifre eşleşmiyor.</translation>
+        <translation>Girilen parola eşleşmiyor.</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1618" />
@@ -6853,7 +6853,7 @@ Başlangıç Ağını Değiştirmek İster Misiniz?</translation>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1411" />
         <source>Password Does Not Match -- %1</source>
-        <translation>Şifre Eşleşmiyor -- %1</translation>
+        <translation>Parola Eşleşmiyor -- %1</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard.cpp" line="1631" />
@@ -7155,12 +7155,12 @@ Başlangıç Ağını Değiştirmek İster Misiniz?</translation>
     <message>
         <location filename="../gui/DeviceConfig/Router/AdminManagement.cpp" line="123" />
         <source>Re-Enter Confirm Password.</source>
-        <translation>Şifreyi Tekrar Girin.</translation>
+        <translation>Parolayı Tekrar Girin.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/AdminManagement.cpp" line="127" />
         <source>Enter Password.</source>
-        <translation>Şifreyi Girin.</translation>
+        <translation>Parolayı Girin.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/AdminManagement.cpp" line="132" />
@@ -7215,7 +7215,7 @@ Başlangıç Ağını Değiştirmek İster Misiniz?</translation>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="600" />
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="603" />
         <source>Router Password:</source>
-        <translation>Yönlendirici Şifresi:</translation>
+        <translation>Yönlendirici Parolası:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdminManagement.ui" line="636" />
@@ -7502,12 +7502,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="709" />
         <source>Please enter the password: </source>
-        <translation>Lütfen şifreyi girin:</translation>
+        <translation>Lütfen parolayı girin:</translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="730" />
         <source>The password you entered is incorrect!</source>
-        <translation>Girdiğiniz şifre yanlış!</translation>
+        <translation>Girdiğiniz parola yanlış!</translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="252" />
@@ -7562,12 +7562,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="708" />
         <source>Password? -- %1</source>
-        <translation>Şifre? -- %1</translation>
+        <translation>Parola? -- %1</translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="729" />
         <source>Incorrect Password -- %1</source>
-        <translation>Yanlış Şifre -- %1</translation>
+        <translation>Yanlış Parola -- %1</translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="1111" />
@@ -7592,7 +7592,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="1197" />
         <source>Password Does Not Match -- %1</source>
-        <translation>Şifre Eşleşmiyor -- %1</translation>
+        <translation>Parola Eşleşmiyor -- %1</translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/AdministrativeOptions.cpp" line="1692" />
@@ -7841,14 +7841,14 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="636" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="639" />
         <source>Choose Password</source>
-        <translation>Şifre Seç</translation>
+        <translation>Parola Seç</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="658" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="661" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="664" />
         <source>Password:</source>
-        <translation>Şifre:</translation>
+        <translation>Parola:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="687" />
@@ -7860,7 +7860,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="742" />
         <source>&amp;Enable Password</source>
-        <translation>&amp;Şifreyi Etkinleştir</translation>
+        <translation>&amp;Parolayı Etkinleştir</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="745" />
@@ -7870,7 +7870,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="773" />
         <source>&amp;Disable Password</source>
-        <translation>&amp;Şifreyi Devre Dışı Bırak</translation>
+        <translation>&amp;Parolayı Devre Dışı Bırak</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="776" />
@@ -9016,12 +9016,12 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="13496" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14169" />
         <source>Password</source>
-        <translation>Şifre</translation>
+        <translation>Parola</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="674" />
         <source>Confirm Password</source>
-        <translation>Şifreyi Onayla</translation>
+        <translation>Parolayı Onayla</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="919" />
@@ -9778,7 +9778,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="4181" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11002" />
         <source>VTP Password</source>
-        <translation>VTP Şifresi</translation>
+        <translation>VTP Parolası</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="4195" />
@@ -10065,7 +10065,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="4742" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11297" />
         <source>Security Password Min-Length</source>
-        <translation>Güvenlik Şifresi Minimum Uzunluğu</translation>
+        <translation>Güvenlik Parolası Minimum Uzunluğu</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="4756" />
@@ -10414,7 +10414,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="5609" />
         <source>SwitchPort</source>
-        <translation>Anahtar Bağlantı Noktası</translation>
+        <translation>Switch Portu (SwitchPort)</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="5623" />
@@ -10538,7 +10538,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="5973" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11562" />
         <source>Native VLAN</source>
-        <translation>Yerel VLAN</translation>
+        <translation>Yerel VLAN (Native VLAN)</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="5987" />
@@ -10589,7 +10589,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11632" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="13945" />
         <source>Link Local</source>
-        <translation>Yerel Bağlantı</translation>
+        <translation>Bağlantı-Yerel (Link-Local)</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6141" />
@@ -11410,7 +11410,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="8074" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12347" />
         <source>FTP Password</source>
-        <translation>FTP Şifresi</translation>
+        <translation>FTP Parolası</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="8088" />
@@ -12444,7 +12444,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14433" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14630" />
         <source>User Password</source>
-        <translation>Kullanıcı Şifresi</translation>
+        <translation>Kullanıcı Parolası</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14447" />
@@ -13824,13 +13824,13 @@ Bağlantı Noktası</translation>
         <location filename="../gui/AppWindow.cpp" line="4567" />
         <location filename="../gui/AppWindow.cpp" line="5094" />
         <source>Password? -- %1</source>
-        <translation>Şifre? -- %1</translation>
+        <translation>Parola? -- %1</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4681" />
         <location filename="../gui/AppWindow.cpp" line="5103" />
         <source>Incorrect Password -- %1</source>
-        <translation>Yanlış Şifre -- %1</translation>
+        <translation>Yanlış Parola -- %1</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4710" />
@@ -14113,13 +14113,13 @@ Bağlantı Noktası</translation>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4568" />
         <source>Please enter the password: </source>
-        <translation>Lütfen şifreyi girin:</translation>
+        <translation>Lütfen parolayı girin:</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4682" />
         <location filename="../gui/AppWindow.cpp" line="5104" />
         <source>The password you entered is incorrect!</source>
-        <translation>Girdiğiniz şifre yanlış!</translation>
+        <translation>Girdiğiniz parola yanlış!</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4711" />
@@ -16360,7 +16360,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Workstation/BaseAuthDialog.ui" line="28" />
         <location filename="../gui/DesignerFiles/Workstation/BaseAuthDialog.ui" line="31" />
         <source>Password:</source>
-        <translation>Şifre:</translation>
+        <translation>Parola:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BaseAuthDialog.ui" line="64" />
@@ -17859,7 +17859,7 @@ Yapılandırma</translation>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5251" />
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="5254" />
         <source>Password</source>
-        <translation>Şifre</translation>
+        <translation>Parola</translation>
     </message>
 </context>
 <context>
@@ -19657,13 +19657,13 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserConnectDlg.ui" line="118" />
         <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserConnectDlg.ui" line="120" />
         <source>Use Global Multiuser Password</source>
-        <translation>Genel Çok Kullanıcılı Şifreyi Kullan</translation>
+        <translation>Genel Çok Kullanıcılı Parolayı Kullan</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserConnectDlg.ui" line="94" />
         <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserConnectDlg.ui" line="96" />
         <source>Password:</source>
-        <translation>Şifre:</translation>
+        <translation>Parola:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserConnectDlg.ui" line="101" />
@@ -19713,7 +19713,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserListenDlg.ui" line="72" />
         <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserListenDlg.ui" line="74" />
         <source>Password</source>
-        <translation>Şifre</translation>
+        <translation>Parola</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserListenDlg.ui" line="120" />
@@ -22197,7 +22197,7 @@ Ayarı&lt;/p&gt;</translation>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="924" />
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="927" />
         <source>Password:</source>
-        <translation>Şifre:</translation>
+        <translation>Parola:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1004" />
@@ -24888,7 +24888,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="2480" />
         <source>Password</source>
-        <translation>Şifre</translation>
+        <translation>Parola</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="799" />
@@ -24959,7 +24959,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="1773" />
         <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="1776" />
         <source>Link Local Address</source>
-        <translation>Bağlantı Yerel Adresi</translation>
+        <translation>Link-Local Adresi</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="1994" />
@@ -25520,7 +25520,7 @@ Gönder/Al</translation>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationPCDialer.ui" line="140" />
         <location filename="../gui/DesignerFiles/Workstation/WorkstationPCDialer.ui" line="143" />
         <source>Password</source>
-        <translation>Şifre</translation>
+        <translation>Parola</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationPCDialer.ui" line="166" />
@@ -26475,12 +26475,12 @@ Publisher Certificate Information:
     <message>
         <location filename="../gui/scripting/CConfigScriptModules.cpp" line="437" />
         <source>Password? -- </source>
-        <translation>Şifre? --</translation>
+        <translation>Parola? --</translation>
     </message>
     <message>
         <location filename="../gui/scripting/CConfigScriptModules.cpp" line="446" />
         <source>Incorrect Password -- </source>
-        <translation>Yanlış Şifre --</translation>
+        <translation>Yanlış Parola --</translation>
     </message>
     <message>
         <location filename="../gui/scripting/CConfigScriptModules.cpp" line="341" />
@@ -26500,7 +26500,7 @@ Publisher Certificate Information:
     <message>
         <location filename="../gui/scripting/CConfigScriptModules.cpp" line="447" />
         <source>The password you entered is incorrect!</source>
-        <translation>Girdiğiniz şifre yanlış!</translation>
+        <translation>Girdiğiniz parola yanlış!</translation>
     </message>
 </context>
 <context>
@@ -31357,7 +31357,7 @@ etkinliği sıfırlamak istiyor musunuz?</translation>
         <location filename="../gui/DesignerFiles/Routing/BaseInternetCfg.ui" line="355" />
         <location filename="../gui/DesignerFiles/Routing/BaseInternetCfg.ui" line="363" />
         <source>Password</source>
-        <translation>Şifre</translation>
+        <translation>Parola</translation>
     </message>
 </context>
 <context>
@@ -31491,7 +31491,7 @@ etkinliği sıfırlamak istiyor musunuz?</translation>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="299" />
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="302" />
         <source>Pass Phrase</source>
-        <translation>Şifre İfadesi</translation>
+        <translation>Parola İfadesi</translation>
     </message>
 </context>
 <context>
@@ -32459,7 +32459,7 @@ etkinliği sıfırlamak istiyor musunuz?</translation>
     <message>
         <location filename="../gui/activity/LockingTree.cpp" line="1143" />
         <source>Password</source>
-        <translation>Şifre</translation>
+        <translation>Parola</translation>
     </message>
     <message>
         <location filename="../gui/activity/LockingTree.cpp" line="1210" />
@@ -33109,7 +33109,7 @@ etkinliği sıfırlamak istiyor musunuz?</translation>
     <message>
         <location filename="../gui/Multiuser/MultiUserConnectDlg.cpp" line="235" />
         <source>Enter Password.</source>
-        <translation>Şifreyi girin.</translation>
+        <translation>Parolayı girin.</translation>
     </message>
     <message>
         <location filename="../gui/Multiuser/MultiUserConnectDlg.cpp" line="274" />
@@ -33127,7 +33127,7 @@ etkinliği sıfırlamak istiyor musunuz?</translation>
     <message>
         <location filename="../gui/Multiuser/MultiUserListenDlg.cpp" line="150" />
         <source>This password can be used as a default password for all incoming devices</source>
-        <translation>Bu şifre, gelen tüm cihazlar için varsayılan şifre olarak kullanılabilir</translation>
+        <translation>Bu parola, gelen tüm cihazlar için varsayılan parola olarak kullanılabilir</translation>
     </message>
     <message>
         <location filename="../gui/Multiuser/MultiUserListenDlg.cpp" line="179" />
@@ -33781,7 +33781,7 @@ Lütfen farklı bir bağlantı noktası kullanmayı deneyin.</translation>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="1228" />
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="1251" />
         <source>Password</source>
-        <translation>Şifre</translation>
+        <translation>Parola</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="1229" />
@@ -34002,7 +34002,7 @@ Lütfen farklı bir bağlantı noktası kullanmayı deneyin.</translation>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="1460" />
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="1572" />
         <source>Please enter a login password.</source>
-        <translation>Lütfen bir oturum açma şifresi girin.</translation>
+        <translation>Lütfen bir oturum açma parolası girin.</translation>
     </message>
 </context>
 <context>
@@ -35864,7 +35864,7 @@ Bu katmanda cihaz kararı nedir?</translation>
         <location filename="../gui/DesignerFiles/Workstation/BasePCFirewallSettings.ui" line="396" />
         <location filename="../gui/DesignerFiles/Workstation/BasePCFirewallSettings.ui" line="399" />
         <source>Local Port</source>
-        <translation>Yerel Bağlantı Noktası</translation>
+        <translation>Bağlantı-Yerel (Link-Local) Noktası</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BasePCFirewallSettings.ui" line="483" />
@@ -35994,7 +35994,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Workstation/BasePCIPV6FirewallSettings.ui" line="414" />
         <location filename="../gui/DesignerFiles/Workstation/BasePCIPV6FirewallSettings.ui" line="417" />
         <source>Local Port</source>
-        <translation>Yerel Bağlantı Noktası</translation>
+        <translation>Bağlantı-Yerel (Link-Local) Noktası</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BasePCIPV6FirewallSettings.ui" line="441" />
@@ -38135,7 +38135,7 @@ Komut dosyasını yeniden imzalayıp düzenlemek mi, yoksa imzalanmamış halde 
     <message>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="579" />
         <source>Enter .p12 file pass phrase:</source>
-        <translation>.p12 dosyası şifre ifadesini girin:</translation>
+        <translation>.p12 dosyası parola ifadesini girin:</translation>
     </message>
     <message>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="591" />
@@ -38150,7 +38150,7 @@ Komut dosyasını yeniden imzalayıp düzenlemek mi, yoksa imzalanmamış halde 
     <message>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="606" />
         <source>The .p12 file or pass phrase is invalid.</source>
-        <translation>.p12 dosyası veya şifre ifadesi geçersiz.</translation>
+        <translation>.p12 dosyası veya parola ifadesi geçersiz.</translation>
     </message>
     <message>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="617" />
@@ -38830,13 +38830,13 @@ Ek Genişletmeler-&gt;Komut Dosyası-&gt;Komut Dosyası Modüllerini Yapılandı
         <location filename="../gui/DeviceConfig/Server/ServerFtp.cpp" line="161" />
         <location filename="../gui/DeviceConfig/Server/ServerFtp.cpp" line="270" />
         <source>Please input a password.</source>
-        <translation>Lütfen bir şifre girin.</translation>
+        <translation>Lütfen bir parola girin.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerFtp.cpp" line="161" />
         <location filename="../gui/DeviceConfig/Server/ServerFtp.cpp" line="270" />
         <source>Password is Empty! -- %1</source>
-        <translation>Şifre boş! -- %1</translation>
+        <translation>Parola boş! -- %1</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerFtp.cpp" line="192" />
@@ -38970,7 +38970,7 @@ Desteklenen dosya uzantıları: .html .htm .php .css .js</translation>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerMail.cpp" line="142" />
         <source>Password cannot be blank.</source>
-        <translation>Şifre boş bırakılamaz.</translation>
+        <translation>Parola boş bırakılamaz.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerMail.cpp" line="157" />
@@ -38980,22 +38980,22 @@ Desteklenen dosya uzantıları: .html .htm .php .css .js</translation>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerMail.cpp" line="206" />
         <source>Change Password</source>
-        <translation>Şifreyi Değiştir</translation>
+        <translation>Parolayı Değiştir</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerMail.cpp" line="207" />
         <source>Enter the new password</source>
-        <translation>Yeni şifreyi girin</translation>
+        <translation>Yeni parolayı girin</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerMail.cpp" line="212" />
         <source>Password cannot be blank</source>
-        <translation>Şifre alanı boş bırakılamaz</translation>
+        <translation>Parola alanı boş bırakılamaz</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerMail.cpp" line="225" />
         <source>Password changed successfully</source>
-        <translation>Şifre başarıyla değiştirildi</translation>
+        <translation>Parola başarıyla değiştirildi</translation>
     </message>
 </context>
 <context>
@@ -39029,7 +39029,7 @@ Desteklenen dosya uzantıları: .html .htm .php .css .js</translation>
         <location filename="../gui/DeviceConfig/Server/ServerPapChap.cpp" line="133" />
         <location filename="../gui/DeviceConfig/Server/ServerPapChap.cpp" line="179" />
         <source>Password should not be empty.</source>
-        <translation>Şifre boş bırakılmamalıdır.</translation>
+        <translation>Parola boş bırakılmamalıdır.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerPapChap.cpp" line="151" />
@@ -40008,7 +40008,7 @@ Desteklenen dosya uzantıları: .html .htm .php .css .js</translation>
         <location filename="../gui/DesignerFiles/Server/ServiceFtp.ui" line="122" />
         <location filename="../gui/DesignerFiles/Server/ServiceFtp.ui" line="204" />
         <source>Password</source>
-        <translation>Şifre</translation>
+        <translation>Parola</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceFtp.ui" line="134" />
@@ -40339,7 +40339,7 @@ Desteklenen dosya uzantıları: .html .htm .php .css .js</translation>
         <location filename="../gui/DesignerFiles/Server/ServiceMail.ui" line="241" />
         <location filename="../gui/DesignerFiles/Server/ServiceMail.ui" line="243" />
         <source>Password</source>
-        <translation>Şifre</translation>
+        <translation>Parola</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceMail.ui" line="320" />
@@ -40350,12 +40350,12 @@ Password</source>
         <translation>Değiştir 
 
 
-Şifre</translation>
+Parola</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceMail.ui" line="325" />
         <source>Change Password</source>
-        <translation>Şifreyi Değiştir</translation>
+        <translation>Parolayı Değiştir</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceMail.ui" line="294" />
@@ -40458,7 +40458,7 @@ Password</source>
         <location filename="../gui/DesignerFiles/Server/ServiceNtp.ui" line="160" />
         <location filename="../gui/DesignerFiles/Server/ServiceNtp.ui" line="162" />
         <source>Password:</source>
-        <translation>Şifre:</translation>
+        <translation>Parola:</translation>
     </message>
 </context>
 <context>
@@ -40520,7 +40520,7 @@ Password</source>
         <location filename="../gui/DesignerFiles/Server/ServicePapChap.ui" line="314" />
         <location filename="../gui/DesignerFiles/Server/ServicePapChap.ui" line="435" />
         <source>Password</source>
-        <translation>Şifre</translation>
+        <translation>Parola</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServicePapChap.ui" line="354" />
@@ -40729,7 +40729,7 @@ Password</source>
         <location filename="../gui/DesignerFiles/Server/SeviceAAA.ui" line="336" />
         <location filename="../gui/DesignerFiles/Server/SeviceAAA.ui" line="338" />
         <source>Password</source>
-        <translation>Şifre</translation>
+        <translation>Parola</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/SeviceAAA.ui" line="195" />
@@ -41790,7 +41790,7 @@ Please wait until it is finished.</source>
         <location filename="../gui/CTranslationDB.cpp" line="3475" />
         <location filename="../gui/CTranslationDB.cpp" line="3479" />
         <source>Password</source>
-        <translation>Şifre</translation>
+        <translation>Parola</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="240" />
@@ -42572,7 +42572,7 @@ Please wait until it is finished.</source>
         <location filename="../gui/CTranslationDB.cpp" line="609" />
         <location filename="../gui/CTranslationDB.cpp" line="3480" />
         <source>Enable Password</source>
-        <translation>Şifreyi Etkinleştir</translation>
+        <translation>Parolayı Etkinleştir</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="610" />
@@ -42601,7 +42601,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="615" />
         <source>Security Password Min-Length</source>
-        <translation>Güvenlik Şifresi Minimum Uzunluğu</translation>
+        <translation>Güvenlik Parolası Minimum Uzunluğu</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="616" />
@@ -43260,7 +43260,7 @@ Please wait until it is finished.</source>
         <location filename="../gui/CTranslationDB.cpp" line="926" />
         <location filename="../gui/CTranslationDB.cpp" line="971" />
         <source>Native VLAN</source>
-        <translation>Yerel VLAN</translation>
+        <translation>Yerel VLAN (Native VLAN)</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="927" />
@@ -43355,7 +43355,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="991" />
         <source>VTP Password</source>
-        <translation>VTP Şifresi</translation>
+        <translation>VTP Parolası</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="992" />
@@ -44366,7 +44366,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1453" />
         <source>Invalid username/password.</source>
-        <translation>Geçersiz kullanıcı adı/şifre.</translation>
+        <translation>Geçersiz kullanıcı adı/parola.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1463" />
@@ -45188,7 +45188,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="983" />
         <source>Switchport Protected</source>
-        <translation>Korunan Anahtar Portu</translation>
+        <translation>Korunan Switch Portu</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="984" />
@@ -45233,7 +45233,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1072" />
         <source>PPP PAP Password</source>
-        <translation>PPP PAP Şifresi</translation>
+        <translation>PPP PAP Parolası</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1092" />
@@ -45471,17 +45471,17 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1446" />
         <source>This is a Response packet. The CHAP process encrypts it and compares with encrypted string in the Response packet.</source>
-        <translation>Bu bir Yanıt paketidir. CHAP işlemi bunu şifreler ve Yanıt paketindeki şifrelenmiş dizeyle karşılaştırır.</translation>
+        <translation>Bu bir Yanıt paketidir. CHAP işlemi bunu parolalar ve Yanıt paketindeki şifrelenmiş dizeyle karşılaştırır.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1447" />
         <source>The username exists in the user database. It encrypts the CHAP Challenge with the corresponding password and sends back the Response packet.</source>
-        <translation>Kullanıcı adı, kullanıcı veritabanında mevcuttur. CHAP Meydan Okumasını ilgili şifre ile şifreler ve Yanıt paketini geri gönderir.</translation>
+        <translation>Kullanıcı adı, kullanıcı veritabanında mevcuttur. CHAP Meydan Okumasını ilgili parola ile parolalar ve Yanıt paketini geri gönderir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1448" />
         <source>The password size is equal to zero, start a timer.</source>
-        <translation>Şifre boyutu sıfırsa, bir zamanlayıcı başlatılır.</translation>
+        <translation>Parola boyutu sıfırsa, bir zamanlayıcı başlatılır.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1449" />
@@ -45511,12 +45511,12 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1456" />
         <source>The PAP process receives a dial-in. It examines the username and password that are sent along.</source>
-        <translation>PAP işlemi bir çevirmeli bağlantı alır. Birlikte gönderilen kullanıcı adını ve şifreyi inceler.</translation>
+        <translation>PAP işlemi bir çevirmeli bağlantı alır. Birlikte gönderilen kullanıcı adını ve parolayı inceler.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1457" />
         <source>The username and password match. The PAP process sends back an Authentication Ack.</source>
-        <translation>Kullanıcı adı ve şifre eşleşir. PAP işlemi bir Kimlik Doğrulama Onayı gönderir.</translation>
+        <translation>Kullanıcı adı ve parola eşleşir. PAP işlemi bir Kimlik Doğrulama Onayı gönderir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1458" />
@@ -45526,7 +45526,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1459" />
         <source>The username and password do not match. The PAP process sends back an Authentication Nack.</source>
-        <translation>Kullanıcı adı ve şifre eşleşmez. PAP işlemi bir Kimlik Doğrulama Reddi gönderir.</translation>
+        <translation>Kullanıcı adı ve parola eşleşmez. PAP işlemi bir Kimlik Doğrulama Reddi gönderir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1460" />
@@ -45566,7 +45566,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1492" />
         <source>The device sends an Authentication Request with username and password.</source>
-        <translation>Cihaz, kullanıcı adı ve şifre içeren bir Kimlik Doğrulama İsteği gönderir.</translation>
+        <translation>Cihaz, kullanıcı adı ve parola içeren bir Kimlik Doğrulama İsteği gönderir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1493" />
@@ -45576,7 +45576,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1494" />
         <source>The device authenticates its peer using the provided username and password. It sends back the Authentication Ack.</source>
-        <translation>Cihaz, sağlanan kullanıcı adı ve şifreyi kullanarak eşini doğrular. Kimlik Doğrulama Onayını geri gönderir.</translation>
+        <translation>Cihaz, sağlanan kullanıcı adı ve parolayı kullanarak eşini doğrular. Kimlik Doğrulama Onayını geri gönderir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1495" />
@@ -46799,7 +46799,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1935" />
         <source>The native VLAN ID does not match, putting the port into PVID-inconsistent state.</source>
-        <translation>Yerel VLAN kimliği eşleşmiyor, bu da bağlantı noktasını PVID tutarsız durumuna geçiriyor.</translation>
+        <translation>Yerel VLAN (Native VLAN) kimliği eşleşmiyor, bu da bağlantı noktasını PVID tutarsız durumuna geçiriyor.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1936" />
@@ -47167,7 +47167,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
         <location filename="../gui/CTranslationDB.cpp" line="2791" />
         <location filename="../gui/CTranslationDB.cpp" line="2796" />
         <source>(deprecated) Password</source>
-        <translation>(kullanımdan kaldırıldı) Şifre</translation>
+        <translation>(kullanımdan kaldırıldı) Parola</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2792" />
@@ -47227,7 +47227,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3441" />
         <source>IoT Server Password</source>
-        <translation>IoT sunucu şifresi</translation>
+        <translation>IoT sunucu parolası</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3442" />
@@ -47983,7 +47983,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2611" />
         <source>Pass Phrase</source>
-        <translation>Şifre Cümlesi</translation>
+        <translation>Parola Cümlesi</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2613" />
@@ -48543,7 +48543,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2297" />
         <source>ESP encrypts the received packet.</source>
-        <translation>ESP, alınan paketi şifreler.</translation>
+        <translation>ESP, alınan paketi parolalar.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2298" />
@@ -48593,7 +48593,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2312" />
         <source>Bad username and/or password.</source>
-        <translation>Hatalı kullanıcı adı ve/veya şifre.</translation>
+        <translation>Hatalı kullanıcı adı ve/veya parola.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2313" />
@@ -48628,7 +48628,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2324" />
         <source>Mismatch ppp configuration or invalid username/password</source>
-        <translation>PPP yapılandırması uyuşmazlığı veya geçersiz kullanıcı adı/şifre</translation>
+        <translation>PPP yapılandırması uyuşmazlığı veya geçersiz kullanıcı adı/parola</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2328" />
@@ -48788,22 +48788,22 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2364" />
         <source>Server sends request for username and password.</source>
-        <translation>Sunucu, kullanıcı adı ve şifre isteği gönderir.</translation>
+        <translation>Sunucu, kullanıcı adı ve parola isteği gönderir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2365" />
         <source>Client process receives username and password query by server.</source>
-        <translation>İstemci işlemi, sunucu tarafından gönderilen kullanıcı adı ve şifre sorgusunu alır.</translation>
+        <translation>İstemci işlemi, sunucu tarafından gönderilen kullanıcı adı ve parola sorgusunu alır.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2366" />
         <source>Client process sends username and password response packet.</source>
-        <translation>İstemci işlemi, kullanıcı adı ve şifre yanıt paketini gönderir.</translation>
+        <translation>İstemci işlemi, kullanıcı adı ve parola yanıt paketini gönderir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2367" />
         <source>Username and password packet received on server. Server requests authentication from AAA server</source>
-        <translation>Sunucuya kullanıcı adı ve şifre paketi alınır. Sunucu, AAA sunucusundan kimlik doğrulama talebinde bulunur</translation>
+        <translation>Sunucuya kullanıcı adı ve parola paketi alınır. Sunucu, AAA sunucusundan kimlik doğrulama talebinde bulunur</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2368" />
@@ -48859,7 +48859,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2383" />
         <source>The username and password in the HTTP request is not correct. The server sends back an unauthorized error message to the client.</source>
-        <translation>HTTP isteğindeki kullanıcı adı ve şifre doğru değildir. Sunucu, istemciye yetkisiz erişim hatası mesajı gönderir.</translation>
+        <translation>HTTP isteğindeki kullanıcı adı ve parola doğru değildir. Sunucu, istemciye yetkisiz erişim hatası mesajı gönderir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2384" />
@@ -48894,7 +48894,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2394" />
         <source>The username and password in the HTTPS request is not correct. The server sends back an unauthorized error message to the client.</source>
-        <translation>HTTPS isteğindeki kullanıcı adı ve şifre doğru değildir. Sunucu, istemciye yetkisiz erişim hata mesajı gönderir.</translation>
+        <translation>HTTPS isteğindeki kullanıcı adı ve parola doğru değildir. Sunucu, istemciye yetkisiz erişim hata mesajı gönderir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2395" />
@@ -49564,7 +49564,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
         <location filename="../gui/CTranslationDB.cpp" line="2974" />
         <location filename="../gui/CTranslationDB.cpp" line="2987" />
         <source>User Password</source>
-        <translation>Kullanıcı Şifresi</translation>
+        <translation>Kullanıcı Parolası</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2845" />
@@ -52196,17 +52196,17 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3118" />
         <source>TACACS CLIENT:Send request for password prompt</source>
-        <translation>TACACS İSTEMCİSİ: Şifre sorusu isteği gönderildi</translation>
+        <translation>TACACS İSTEMCİSİ: Parola sorusu isteği gönderildi</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3119" />
         <source>TACACS CLIENT:Receive password: as password prompt</source>
-        <translation>TACACS İSTEMCİSİ: Şifre istemini "şifre:" olarak aldı</translation>
+        <translation>TACACS İSTEMCİSİ: Parola istemini "parola:" olarak aldı</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3120" />
         <source>TACACS CLIENT:Send the password to tacacs server</source>
-        <translation>TACACS İSTEMCİSİ: Şifreyi TACACS sunucusuna gönder</translation>
+        <translation>TACACS İSTEMCİSİ: Parolayı TACACS sunucusuna gönder</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3121" />
@@ -52236,17 +52236,17 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3128" />
         <source>TACACS SERVER: Receive request for password prompt</source>
-        <translation>TACACS SUNUCUSU: Şifre sorusu isteği alındı</translation>
+        <translation>TACACS SUNUCUSU: Parola sorusu isteği alındı</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3129" />
         <source>TACACS SERVER: Send password: as password prompt</source>
-        <translation>TACACS SUNUCUSU: Şifre: komut satırını gönderdi</translation>
+        <translation>TACACS SUNUCUSU: Parola: komut satırını gönderdi</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3130" />
         <source>TACACS SERVER: Receive the password to tacacs server</source>
-        <translation>TACACS SUNUCUSU: TACACS sunucusuna şifre alındı</translation>
+        <translation>TACACS SUNUCUSU: TACACS sunucusuna parola alındı</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3131" />
@@ -53266,7 +53266,7 @@ ipRouteDest değeri 0.0.0.0 (varsayılan yol) ise, maske değeri de 0.0.0.0 olur
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="625" />
         <source>FTP Password</source>
-        <translation>FTP Şifresi</translation>
+        <translation>FTP Parolası</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="671" />
@@ -53424,7 +53424,7 @@ ipRouteDest değeri 0.0.0.0 (varsayılan yol) ise, maske değeri de 0.0.0.0 olur
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1068" />
         <source>PPP CHAP Password</source>
-        <translation>PPP CHAP Şifresi</translation>
+        <translation>PPP CHAP Parolası</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="938" />
@@ -53687,7 +53687,7 @@ ipRouteDest değeri 0.0.0.0 (varsayılan yol) ise, maske değeri de 0.0.0.0 olur
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2476" />
         <source>The FTP client sends the password to the FTP server.</source>
-        <translation>FTP istemcisi, şifreyi FTP sunucusuna gönderir.</translation>
+        <translation>FTP istemcisi, parolayı FTP sunucusuna gönderir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2477" />
@@ -53757,7 +53757,7 @@ ipRouteDest değeri 0.0.0.0 (varsayılan yol) ise, maske değeri de 0.0.0.0 olur
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2492" />
         <source>The FTP client receives the response for the password. Password is valid.</source>
-        <translation>FTP istemcisi, şifreye ilişkin yanıtı alır. Şifre geçerlidir.</translation>
+        <translation>FTP istemcisi, şifreye ilişkin yanıtı alır. Parola geçerlidir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2494" />
@@ -53837,7 +53837,7 @@ ipRouteDest değeri 0.0.0.0 (varsayılan yol) ise, maske değeri de 0.0.0.0 olur
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2516" />
         <source>The FTP server receives the password from the FTP client.</source>
-        <translation>FTP sunucusu, FTP istemcisinden şifreyi alır.</translation>
+        <translation>FTP sunucusu, FTP istemcisinden parolayı alır.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2517" />
@@ -53897,7 +53897,7 @@ ipRouteDest değeri 0.0.0.0 (varsayılan yol) ise, maske değeri de 0.0.0.0 olur
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2533" />
         <source>The FTP server sends the response for the password command to the FTP client.</source>
-        <translation>FTP sunucusu, şifre komutuna ilişkin yanıtı FTP istemcisine gönderir.</translation>
+        <translation>FTP sunucusu, parola komutuna ilişkin yanıtı FTP istemcisine gönderir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2535" />
@@ -54775,7 +54775,7 @@ FTP sunucusu, dosyanın var olup olmadığını kontrol eder ve yeniden adlandı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="852" />
         <source>Link Local</source>
-        <translation>Bağlantı Yerel</translation>
+        <translation>Link-Local</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="854" />
@@ -55276,7 +55276,7 @@ FTP sunucusu, dosyanın var olup olmadığını kontrol eder ve yeniden adlandı
         <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1481" />
         <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1484" />
         <source>Password:</source>
-        <translation>Şifre:</translation>
+        <translation>Parola:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1502" />
@@ -55407,7 +55407,7 @@ FTP sunucusu, dosyanın var olup olmadığını kontrol eder ve yeniden adlandı
         <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1379" />
         <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1385" />
         <source>Password</source>
-        <translation>Şifre</translation>
+        <translation>Parola</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1437" />
@@ -55946,25 +55946,25 @@ komut dosyalarınızı gözden geçirip güncelleyin. Söz konusu komut dosyalar
         <location filename="../gui/DeviceConfig/Templates/CWirelessDeviceDialog.cpp" line="958" />
         <location filename="../gui/DeviceConfig/Templates/CWirelessDeviceDialog.cpp" line="1611" />
         <source>Password is not valid.</source>
-        <translation>Şifre geçersiz.</translation>
+        <translation>Parola geçersiz.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CWirelessDeviceDialog.cpp" line="1038" />
         <location filename="../gui/DeviceConfig/Templates/CWirelessDeviceDialog.cpp" line="1673" />
         <source>Password should be minimum 1 and maximum 16 ascii chars long.</source>
-        <translation>Şifre en az 1, en fazla 16 ASCII karakter uzunluğunda olmalıdır.</translation>
+        <translation>Parola en az 1, en fazla 16 ASCII karakter uzunluğunda olmalıdır.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CWirelessDeviceDialog.cpp" line="1049" />
         <location filename="../gui/DeviceConfig/Templates/CWirelessDeviceDialog.cpp" line="1684" />
         <source>Password should not be empty.</source>
-        <translation>Şifre boş bırakılmamalıdır.</translation>
+        <translation>Parola boş bırakılmamalıdır.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CWirelessDeviceDialog.cpp" line="1060" />
         <location filename="../gui/DeviceConfig/Templates/CWirelessDeviceDialog.cpp" line="1695" />
         <source>Password should consist of ascii chars only.</source>
-        <translation>Şifre yalnızca ASCII karakterlerden oluşmalıdır.</translation>
+        <translation>Parola yalnızca ASCII karakterlerden oluşmalıdır.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CWirelessDeviceDialog.cpp" line="1071" />
@@ -57054,7 +57054,7 @@ End the expression with: ")</source>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationDialog.cpp" line="693" />
         <location filename="../gui/DeviceConfig/Workstation/WorkstationDialog.cpp" line="1788" />
         <source>Password cannot be empty.</source>
-        <translation>Şifre boş bırakılamaz.</translation>
+        <translation>Parola boş bırakılamaz.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationDialog.cpp" line="238" />
@@ -57309,7 +57309,7 @@ End the expression with: ")</source>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="191" />
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="194" />
         <source>Password:</source>
-        <translation>Şifre:</translation>
+        <translation>Parola:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="240" />
@@ -57447,7 +57447,7 @@ Bağlantı Noktası</translation>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="366" />
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="375" />
         <source>Invalid Local Port -- %1</source>
-        <translation>Geçersiz Yerel Bağlantı Noktası -- %1</translation>
+        <translation>Geçersiz Bağlantı-Yerel (Link-Local) Noktası -- %1</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="546" />
@@ -57479,7 +57479,7 @@ Bağlantı Noktası</translation>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="366" />
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="375" />
         <source>Enter a valid Number for Local Port. Valid range is 1 to 65535. Keyword "any" is supported.</source>
-        <translation>Yerel Bağlantı Noktası için geçerli bir sayı girin. Geçerli aralık 1 ile 65535 arasındadır. "any" anahtar sözcüğü desteklenmektedir.</translation>
+        <translation>Bağlantı-Yerel (Link-Local) Noktası için geçerli bir sayı girin. Geçerli aralık 1 ile 65535 arasındadır. "any" anahtar sözcüğü desteklenmektedir.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="546" />
@@ -57706,7 +57706,7 @@ Bağlantı Noktası</translation>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="366" />
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="375" />
         <source>Invalid Local Port -- %1</source>
-        <translation>Geçersiz Yerel Bağlantı Noktası -- %1</translation>
+        <translation>Geçersiz Bağlantı-Yerel (Link-Local) Noktası -- %1</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="553" />
@@ -57733,7 +57733,7 @@ Bağlantı Noktası</translation>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="366" />
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="375" />
         <source>Enter a valid Number for Local Port. Valid range is 1 to 65535. Keyword "any" is supported.</source>
-        <translation>Yerel Bağlantı Noktası için geçerli bir sayı girin. Geçerli aralık 1 ile 65535 arasındadır. "any" anahtar sözcüğü desteklenir.</translation>
+        <translation>Bağlantı-Yerel (Link-Local) Noktası için geçerli bir sayı girin. Geçerli aralık 1 ile 65535 arasındadır. "any" anahtar sözcüğü desteklenir.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="553" />
@@ -57981,7 +57981,7 @@ Bağlantı Noktası</translation>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMailConfiguration.cpp" line="199" />
         <source>Please fill in the password.</source>
-        <translation>Lütfen şifreyi girin.</translation>
+        <translation>Lütfen parolayı girin.</translation>
     </message>
 </context>
 <context>
@@ -58874,7 +58874,7 @@ Değişikliklerinizi kaydetmek istiyor musunuz?</translation>
         <location filename="../gui/DesignerFiles/Workstation/WorkStationVpn.ui" line="206" />
         <location filename="../gui/DesignerFiles/Workstation/WorkStationVpn.ui" line="209" />
         <source>Password</source>
-        <translation>Şifre</translation>
+        <translation>Parola</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkStationVpn.ui" line="236" />
@@ -58915,7 +58915,7 @@ Değişikliklerinizi kaydetmek istiyor musunuz?</translation>
         <location filename="../gui/DesignerFiles/Workstation/WorkStationVpnClient.ui" line="36" />
         <location filename="../gui/DesignerFiles/Workstation/WorkStationVpnClient.ui" line="38" />
         <source>Password</source>
-        <translation>Şifre</translation>
+        <translation>Parola</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkStationVpnClient.ui" line="62" />
@@ -58975,7 +58975,7 @@ Değişikliklerinizi kaydetmek istiyor musunuz?</translation>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationWebBrowser.cpp" line="893" />
         <source>&lt;font face='sans-serif'&gt;&lt;h3&gt;Incorrect password&lt;/h3&gt;You've entered incorrect login credentials. The default login is the serial number (e.g. Qxxx-xxxx-xxxx), with no password. The serial number is on the bottom or back of the device. For </source>
-        <translation>&lt;font face='sans-serif'&gt;&lt;h3&gt;Yanlış şifre&lt;/h3&gt;Yanlış oturum açma bilgilerini girdiniz. Varsayılan oturum açma bilgisi, şifre gerektirmeyen seri numarasıdır (örn. Qxxx-xxxx-xxxx). Seri numarası, cihazın altında veya arkasında bulunur.</translation>
+        <translation>&lt;font face='sans-serif'&gt;&lt;h3&gt;Yanlış parola&lt;/h3&gt;Yanlış oturum açma bilgilerini girdiniz. Varsayılan oturum açma bilgisi, parola gerektirmeyen seri numarasıdır (örn. Qxxx-xxxx-xxxx). Seri numarası, cihazın altında veya arkasında bulunur.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationWebBrowser.cpp" line="893" />
@@ -61254,7 +61254,7 @@ Bir komut dosyası modülü oluşturmanın genel sırası şöyledir:</translati
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="134" />
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="137" />
         <source>Set this script module's general info such as name, description, author info, password, startup option, and security privileges.</source>
-        <translation>Bu komut dosyası modülünün adı, açıklaması, yazar bilgileri, şifre, başlatma seçeneği ve güvenlik ayrıcalıkları gibi genel bilgilerini ayarlayın.</translation>
+        <translation>Bu komut dosyası modülünün adı, açıklaması, yazar bilgileri, parola, başlatma seçeneği ve güvenlik ayrıcalıkları gibi genel bilgilerini ayarlayın.</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="147" />
@@ -61541,34 +61541,34 @@ Bir komut dosyası modülü oluşturmanın genel sırası şöyledir:</translati
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="975" />
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="981" />
         <source>Password</source>
-        <translation>Şifre</translation>
+        <translation>Parola</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="926" />
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="929" />
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="932" />
         <source>Setting a password prevents unauthorized changes or viewing of this file's scripts and custom interfaces. When a user is running this file, the Scripting interface cannot be accessed unless the correct password is entered.  If the file is an activity file, the password used to access the Scripting interface is the Activity Wizard password.</source>
-        <translation>Şifre belirlemek, bu dosyanın komut dosyalarının ve özel arayüzlerinin yetkisiz olarak değiştirilmesini veya görüntülenmesini önler. Bir kullanıcı bu dosyayı çalıştırırken, doğru şifre girilmedikçe Komut Dosyası arayüzüne erişilemez.  Dosya bir etkinlik dosyasıysa, Komut Dosyası arayüzüne erişmek için kullanılan şifre, Etkinlik Sihirbazı şifresidir.</translation>
+        <translation>Parola belirlemek, bu dosyanın komut dosyalarının ve özel arayüzlerinin yetkisiz olarak değiştirilmesini veya görüntülenmesini önler. Bir kullanıcı bu dosyayı çalıştırırken, doğru parola girilmedikçe Komut Dosyası arayüzüne erişilemez.  Dosya bir etkinlik dosyasıysa, Komut Dosyası arayüzüne erişmek için kullanılan parola, Etkinlik Sihirbazı şifresidir.</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="947" />
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="950" />
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="953" />
         <source>Password:</source>
-        <translation>Şifre:</translation>
+        <translation>Parola:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="960" />
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="963" />
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="966" />
         <source>Confirmed Password:</source>
-        <translation>Şifreyi Onayla:</translation>
+        <translation>Parolayı Onayla:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="1005" />
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="1011" />
         <source>Confirm Password</source>
-        <translation>Şifreyi Onayla</translation>
+        <translation>Parolayı Onayla</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="1037" />
@@ -61580,7 +61580,7 @@ Bir komut dosyası modülü oluşturmanın genel sırası şöyledir:</translati
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="1047" />
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="1050" />
         <source>Disable Password</source>
-        <translation>Şifreyi Devre Dışı Bırak</translation>
+        <translation>Parolayı Devre Dışı Bırak</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="1078" />
@@ -61753,13 +61753,13 @@ Bir komut dosyası modülü oluşturmanın genel sırası şöyledir:</translati
         <location filename="../gui/DeviceConfig/Server/ServerAAA.cpp" line="422" />
         <location filename="../gui/DeviceConfig/Server/ServerAAA.cpp" line="493" />
         <source>Enter a valid password.</source>
-        <translation>Geçerli bir şifre girin.</translation>
+        <translation>Geçerli bir parola girin.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerAAA.cpp" line="422" />
         <location filename="../gui/DeviceConfig/Server/ServerAAA.cpp" line="493" />
         <source>Password is empty -- %1</source>
-        <translation>Şifre boş -- %1</translation>
+        <translation>Parola boş -- %1</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerAAA.cpp" line="451" />
