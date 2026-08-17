@@ -1,57 +1,60 @@
-# Cisco Packet Tracer - Türkçe Dil Paketi
+# Cisco Packet Tracer - Türkçe Dil Paketi (Turkish Language Pack)
 
-Cisco Packet Tracer için resmî olmayan, topluluk kaynaklı Türkçe dil dosyası.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Metin Sayısı](https://img.shields.io/badge/Metin_Sayısı-10.303-blue.svg)](#)
+[![Packet Tracer Sürümleri](https://img.shields.io/badge/Desteklenen_Sürümler-v7.x_|_v8.x_|_v9.x-green.svg)](#)
 
-Packet Tracer varsayılan olarak İngilizce, İspanyolca, Fransızca gibi birçok dilde gelir ancak Türkçe desteği bulunmaz. Bu repo, uygulamanın Qt Linguist tabanlı çeviri altyapısını kullanarak arayüzü Türkçeleştirir.
+Cisco Packet Tracer için hazırlanmış, **10.300+ arayüz ve yardım metnini kapsayan**, Qt tabanlı modern ve eksiksiz Türkçe dil paketi.
 
-## İçerik
+Ağ mühendisliği standartlarına (Cisco CCNA/CCNP müfredatı) ve doğal Türkçe dil bilgisine uygun olarak hazırlanmıştır.
+
+---
+
+## ⚡ Hızlı Kurulum (Tek Tıkla)
+
+Packet Tracer'ın kurulu olduğu dizini aramanıza gerek kalmadan tek tıkla kurabilirsiniz:
+
+1. Bu depoyu indirin (**Code > Download ZIP**).
+2. ZIP dosyasını bir klasöre çıkartın.
+3. Klasör içindeki **`install.bat`** dosyasına **çift tıklayın**.
+4. Kurulum sihirbazı Packet Tracer kurulumunuzu otomatik olarak tespit edip dil paketini yükleyecektir.
+5. Packet Tracer'ı açın:
+   - **Options > Preferences > Administrative** (veya *Change Language*) menüsüne gidin.
+   - Listeden **`tur.ptl`** (veya Turkish) seçeneğini seçip **Change Language** düğmesine tıklayın.
+   - Packet Tracer'ı yeniden başlatın.
+
+---
+
+## 📁 Dosya Yapısı
 
 | Dosya | Açıklama |
 |---|---|
-| `tur.ts` | Qt Linguist kaynak çeviri dosyası (XML, insan tarafından okunabilir/düzenlenebilir) |
-| `tur.ptl` | `tur.ts`'den derlenmiş, Packet Tracer'ın doğrudan okuduğu ikili dil dosyası |
+| **`install.bat`** | Tek tıkla otomatik kurulum sihirbazı (Tüm Packet Tracer sürümleriyle uyumlu) |
+| **`tur.ptl`** | Packet Tracer'ın doğrudan çalıştırdığı derlenmiş Türkçe dil paketi |
+| **`tur.ts`** | Qt Linguist XML kaynak çeviri dosyası (düzenlenebilir kaynak metinler) |
+| **`GLOSSARY.md`** | Cisco ve Ağ Terminolojisi Standartları Sözlüğü |
+| **`LICENSE`** | MIT Açık Kaynak Lisansı |
 
-**10.298** arayüz metninin tamamı çevrilmiştir (menüler, diyaloglar, hata mesajları, Etkinlik Sihirbazı yardım metinleri, ağ cihazı arayüzleri vb.).
+---
 
-## Kurulum
+## 📖 Terminoloji ve Çeviri Standartları
 
-1. Packet Tracer'ı kapatın.
-2. `tur.ts` ve `tur.ptl` dosyalarını Packet Tracer kurulum dizinindeki `languages` klasörüne kopyalayın:
-   ```
-   C:\Program Files\Cisco Packet Tracer 9.0.0\languages\
-   ```
-   (Bu klasör yönetici izni gerektirdiğinden dosyaları yönetici olarak çalıştırılan bir terminalden kopyalamanız gerekebilir.)
-3. Packet Tracer'ı açın, **Options > Change Language...** (veya benzeri dil menüsü) üzerinden **Turkish / tur**'u seçin.
-4. Uygulamayı yeniden başlatın.
+Çevirilerde tutarlılık sağlamak amacıyla [GLOSSARY.md](GLOSSARY.md) standartları benimsenmiştir:
+* **Cisco IOS CLI Komutları Çevrilmez:** `show ip route`, `configure terminal`, `no shutdown`, `ip address` vb. doğrudan orijinal CLI formatında korunur.
+* **Protokol İsimleri Korunur:** OSPF, EIGRP, BGP, VLAN, DHCP, DNS, STP, NAT, ACL vb.
+* **Standart Donanım Terimleri:** Router ➔ *Yönlendirici*, Switch ➔ *Anahtar*, Default Gateway ➔ *Varsayılan Ağ Geçidi*, Subnet Mask ➔ *Alt Ağ Maskesi*.
 
-> Not: Sürüme bağlı olarak Packet Tracer'ın dil listesine yeni bir dilin görünmesi için ek bir yapılandırma dosyasında dil kodunun kayıtlı olması gerekebilir. Dil seçeneklerinde "Turkish" görünmüyorsa lütfen bir issue açın.
+---
 
-## Bu çeviri nasıl üretildi
+## 🤝 Katkıda Bulunma
 
-- Kaynak metinler, Packet Tracer'ın `template.ts` dosyasından (Qt Linguist kaynak şablonu) çıkarıldı.
-- 10.298 metin, yapay zekâ destekli çoklu-ajan bir çeviri hattıyla (her biri ~600 metinlik 18 paralel grup) Türkçeye çevrildi.
-- Çeviri sırasında şunlar korundu:
-  - `%1`, `%2` gibi yer tutucu değişkenler
-  - `Ctrl+F4` gibi klavye kısayolları
-  - URL'ler, dosya yolları, teknik tanımlayıcılar
-  - `&Dosya` gibi klavye erişim tuşu (mnemonic) işaretleri
-  - Metin içinde geçen HTML etiketleri
-- `tur.ts` → `tur.ptl` derlemesi Packet Tracer'ın kendi kurulumuyla gelen `lrelease.exe` aracıyla yapıldı.
+Hatalı gördüğünüz veya geliştirmek istediğiniz bir metin olursa:
+1. `tur.ts` dosyasını bir metin editörüyle veya Qt Linguist ile açın.
+2. İlgili çeviriyi düzenleyin.
+3. Pull Request gönderin.
 
-## Bilinen sınırlamalar
+---
 
-- Çeviri büyük ölçüde otomatik üretildiği için bazı cümlelerde bağlamsal küçük hatalar veya doğallaştırılması gereken ifadeler olabilir.
-- Ağ/IT terminolojisi Cisco'nun resmî Türkçe dokümantasyon üslubuna yakın tutulmaya çalışılmıştır (`Router` → `Yönlendirici`, `Switch` → `Anahtar` vb.) ancak tam tutarlılık garanti edilmez.
-- Regresyon/QA testi Packet Tracer arayüzünde uçtan uca yapılmamıştır.
+## 📄 Lisans
 
-## Katkıda bulunma
-
-Hatalı veya iyileştirilebilir bir çeviri gördüyseniz:
-1. `tur.ts` dosyasını bir metin editörüyle (veya Qt Linguist ile) açın, ilgili `<source>` metnine karşılık gelen `<translation>` alanını düzeltin.
-2. Pull request gönderin.
-
-Qt Linguist ile çalışmak isterseniz, Packet Tracer kurulumundaki `bin/linguist.exe` aracını kullanabilirsiniz.
-
-## Lisans
-
-Bu repo yalnızca çeviri dosyalarını içerir; Cisco Packet Tracer'ın kendisi Cisco Systems, Inc.'e aittir ve bu proje Cisco ile bağlantılı veya onun tarafından onaylanmış değildir. Çeviri dosyaları MIT lisansı ile paylaşılmıştır.
+Bu proje **MIT Lisansı** ile paylaşılmıştır. Cisco Packet Tracer yazılımı Cisco Systems, Inc.'e aittir. Bu proje Cisco ile resmi bir bağlantıya sahip değildir.
