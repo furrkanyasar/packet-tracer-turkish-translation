@@ -9,7 +9,7 @@ Bu belge, Cisco Packet Tracer arayüzü, diyalogları ve yardım metinlerinde T�
 1. **CLI Komutları ve Çıktıları ASLA Çevrilmez:**
    * Örnek: `show ip route`, `configure terminal`, `ping`, `traceroute`, `interface FastEthernet0/1`, `no shutdown`, `switchport mode access` doğrudan orijinal haliyle kalmalıdır.
 2. **Protokol İsimleri ve Kısaltmaları:**
-   * Protokol adları ve kısaltmaları (OSPF, EIGRP, BGP, RIP, STP, VLAN, DHCP, DNS, NAT, ACL, ICMP, TCP, UDP vb.) orijinal haliyle korunur.
+   * Protokol adları ve kısaltmaları (OSPF, EIGRP, BGP, RIP, STP, VLAN, Frame Relay, DHCP, DNS, NAT, ACL, ICMP, TCP, UDP vb.) orijinal haliyle korunur.
 3. **Değişkenler ve Parametreler:**
    * `%1`, `%2`, `%n` gibi Qt değişkenleri değiştirilmez, sırası korunur.
    * Türkçedeki `%100`, `%50` gibi yüzdelik ifadelerin Qt tarafından değişken sanılmaması için `% 100` veya `%%100` formatında yazılır.
@@ -28,6 +28,15 @@ Bu belge, Cisco Packet Tracer arayüzü, diyalogları ve yardım metinlerinde T�
 | **Access Point (AP)** | Erişim Noktası | |
 | **Default Gateway** | Varsayılan Ağ Geçidi | IP yapılandırma alanı |
 | **Subnet Mask** | Alt Ağ Maskesi | IP yapılandırma alanı |
+| **Routing / Routes** | Yönlendirme / Rotalar | "Yol" yerine "Rota" standardı |
+| **Running Config** | Çalışan Yapılandırma | `Startup Config` (Başlangıç Yapılandırması) ile uyumlu |
+| **Default Information Originate** | Varsayılan Bilgi Yayını (Default Information Originate) | OSPF varsayılan rota yayını |
+| **Accounting (AAA)** | Muhasebe (Accounting) | "Hesaplama" değil; denetim ve kayıt tutma |
+| **Frame Relay** | Frame Relay | Protokol adı korunur |
+| **Hello / Beacon Interval** | Hello / Beacon Aralığı | Paket adı korunur ("Selam" vb. yapılmaz) |
+| **Shared Secret** | Paylaşılan Gizli Parola (Shared Secret) | RADIUS / TACACS kimlik doğrulama |
+| **Rack** | Kabin (Rack) | "Raf" yerine ağ sistem kabini |
+| **Coverage Range** | Kapsama Menzili | Kablosuz ağ menzili |
 | **Broadcast** | Yayın / Genel Yayın | |
 | **Unicast** | Teke Gönderim (Unicast) | |
 | **Multicast** | Çoka Gönderim (Multicast) | |
@@ -70,4 +79,4 @@ Bu belge, Cisco Packet Tracer arayüzü, diyalogları ve yardım metinlerinde T�
 * **CLI Komutları:** `enable`, `disable`, `exit`, `end`, `write memory`, `reload`, `debug ...`
 * **Port İsimleri:** `FastEthernet0/0`, `GigabitEthernet0/0/0`, `Serial0/1/0`, `Vlan1`
 * **Dosya Uzantıları:** `.pkt`, `.pka`, `.pkz`, `.pts`, `.ptl`
-* **Kalıplaşmış Kısaltmalar:** `PDU`, `CLI`, `GUI`, `IOS`, `NVRAM`, `RAM`, `ROM`, `TFTP`, `FTP`, `SSH`, `Telnet`
+* **Kalıplaşmış Kısaltmalar:** `PDU`, `CLI`, `GUI`, `IOS`, `NVRAM`, `RAM`, `ROM`, `TFTP`, `FTP`, `SSH`, `Telnet`, `Frame Relay`, `Easy VPN`

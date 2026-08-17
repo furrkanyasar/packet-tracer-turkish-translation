@@ -5089,7 +5089,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="758" />
         <source>Frame Relay LMI</source>
-        <translation>Çerçeve Aktarımı LMI</translation>
+        <translation>Frame Relay LMI</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="762" />
@@ -5505,12 +5505,12 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1024" />
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1040" />
         <source>2.4 GHz Channel</source>
-        <translation>2,4 GHz Kanal</translation>
+        <translation>2,4 GHz Kanalı</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1075" />
         <source>5 GHz Channel</source>
-        <translation>5 GHz Kanal</translation>
+        <translation>5 GHz Kanalı</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1111" />
@@ -5633,7 +5633,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1756" />
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1759" />
         <source>Shared Secret</source>
-        <translation>Paylaşılan Gizli Anahtar</translation>
+        <translation>Paylaşılan Gizli Parola (Shared Secret)</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2345" />
@@ -10288,7 +10288,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="5287" />
         <source>Default Information Originate</source>
-        <translation>Varsayılan Bilgi Kaynağı</translation>
+        <translation>Varsayılan Bilgi Yayını (Default Information Originate)</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="5301" />
@@ -10496,7 +10496,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="5861" />
         <source>OSPF Hello-Interval</source>
-        <translation>OSPF Selam Aralığı</translation>
+        <translation>OSPF Hello Aralığı</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="5875" />
@@ -10740,7 +10740,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6505" />
         <source>EIGRP Hello Interval</source>
-        <translation>EIGRP Selam Aralığı</translation>
+        <translation>EIGRP Hello Aralığı</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6519" />
@@ -11310,12 +11310,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7821" />
         <source>IPv6 Crypto Map Sets</source>
-        <translation>IPv6 Şifreleme Harita Kümeleri</translation>
+        <translation>IPv6 Crypto Map Kümeleri</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7835" />
         <source>IPv6 Crypto ISAKMP Key Address Pairs</source>
-        <translation>IPv6 Şifreleme ISAKMP Anahtar Adres Çiftleri</translation>
+        <translation>IPv6 Crypto ISAKMP Anahtar-Adres Çiftleri</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7849" />
@@ -12028,7 +12028,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="9908" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="13229" />
         <source>Clock Timezone</source>
-        <translation>Saat Zaman Dilimi</translation>
+        <translation>Saat Dilimi (Timezone)</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="9922" />
@@ -16035,7 +16035,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="822" />
         <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="825" />
         <source>Beacon Interval:</source>
-        <translation>İşaret Aralığı:</translation>
+        <translation>Beacon Aralığı:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="835" />
@@ -23837,7 +23837,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1463" />
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1466" />
         <source>Shared Secret:</source>
-        <translation>Paylaşılan Gizli Anahtar:</translation>
+        <translation>Paylaşılan Gizli Parola (Shared Secret):</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="777" />
@@ -24261,7 +24261,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1334" />
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1337" />
         <source>Shared Secret:</source>
-        <translation>Paylaşılan Gizli Anahtar:</translation>
+        <translation>Paylaşılan Gizli Parola (Shared Secret):</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="860" />
@@ -25932,13 +25932,13 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/DesignerFiles/Cloud/CloudConnectionsBase.ui" line="25" />
         <source>Frame Relay Connections</source>
-        <translation>Çerçeve Aktarım Bağlantıları</translation>
+        <translation>Frame Relay Bağlantıları</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Cloud/CloudConnectionsBase.ui" line="40" />
         <location filename="../gui/DesignerFiles/Cloud/CloudConnectionsBase.ui" line="45" />
         <source>Frame Relay</source>
-        <translation>Çerçeve Aktarımı</translation>
+        <translation>Frame Relay</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Cloud/CloudConnectionsBase.ui" line="97" />
@@ -26055,7 +26055,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/DeviceConfig/Cloud/CloudDialog.cpp" line="117" />
         <source>Frame Relay</source>
-        <translation>Çerçeve Aktarımı</translation>
+        <translation>Frame Relay</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Cloud/CloudDialog.cpp" line="118" />
@@ -26070,7 +26070,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/DeviceConfig/Cloud/CloudDialog.cpp" line="453" />
         <source>Frame Relay: </source>
-        <translation>Çerçeve Aktarımı:</translation>
+        <translation>Frame Relay:</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Cloud/CloudDialog.cpp" line="531" />
@@ -28435,13 +28435,13 @@ ve önceki tüm ayarlar silinecektir.</translation>
     <message>
         <location filename="../gui/DesignerFiles/Cloud/FrameRelaySettings.ui" line="13" />
         <source>Frame Relay Configuration</source>
-        <translation>Çerçeve Aktarımı Yapılandırması</translation>
+        <translation>Frame Relay Yapılandırması</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Cloud/FrameRelaySettings.ui" line="25" />
         <location filename="../gui/DesignerFiles/Cloud/FrameRelaySettings.ui" line="36" />
         <source>Frame Relay</source>
-        <translation>Çerçeve Aktarımı</translation>
+        <translation>Frame Relay</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Cloud/FrameRelaySettings.ui" line="56" />
@@ -31442,7 +31442,7 @@ etkinliği sıfırlamak istiyor musunuz?</translation>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="415" />
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="418" />
         <source>Shared Secret</source>
-        <translation>Paylaşılan Gizli Anahtar</translation>
+        <translation>Paylaşılan Gizli Parola (Shared Secret)</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="465" />
@@ -35276,7 +35276,7 @@ Hedef: %3</translation>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1099" />
         <source>Frame Relay</source>
-        <translation>Çerçeve Aktarımı</translation>
+        <translation>Frame Relay</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="1110" />
@@ -41096,7 +41096,7 @@ Ağı sıfırlamak ister misiniz?</translation>
     <message>
         <location filename="../gui/switches/SimulationToolbar.cpp" line="172" />
         <source>Capture the Forward</source>
-        <translation>Forveti Yakala</translation>
+        <translation>Yakala ve İlet</translation>
     </message>
     <message>
         <location filename="../gui/switches/SimulationToolbar.cpp" line="173" />
@@ -42582,7 +42582,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="611" />
         <source>Clock Timezone</source>
-        <translation>Saat Zaman Dilimi</translation>
+        <translation>Saat Dilimi (Timezone)</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="612" />
@@ -42734,7 +42734,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="661" />
         <source>Frame-Relay Connections</source>
-        <translation>Çerçeve Aktarım Bağlantıları</translation>
+        <translation>Frame Relay Bağlantıları</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="662" />
@@ -42806,7 +42806,7 @@ Please wait until it is finished.</source>
         <location filename="../gui/CTranslationDB.cpp" line="719" />
         <location filename="../gui/CTranslationDB.cpp" line="920" />
         <source>Frame Relay</source>
-        <translation>Çerçeve Aktarımı</translation>
+        <translation>Frame Relay</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="720" />
@@ -43043,7 +43043,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="836" />
         <source>Default Information Originate</source>
-        <translation>Varsayılan Bilgi Kaynağı</translation>
+        <translation>Varsayılan Bilgi Yayını (Default Information Originate)</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="602" />
@@ -43107,7 +43107,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="880" />
         <source>EIGRP Hello Interval</source>
-        <translation>EIGRP Selam Aralığı</translation>
+        <translation>EIGRP Hello Aralığı</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="882" />
@@ -43188,7 +43188,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="905" />
         <source>OSPF Hello-Interval</source>
-        <translation>OSPF Selam Aralığı</translation>
+        <translation>OSPF Hello Aralığı</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="906" />
@@ -47064,12 +47064,12 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2614" />
         <source>2.4Ghz Channel</source>
-        <translation>2,4 GHz Kanal</translation>
+        <translation>2,4 GHz Kanalı</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2615" />
         <source>5Ghz Channel</source>
-        <translation>5 GHz Kanal</translation>
+        <translation>5 GHz Kanalı</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2677" />
@@ -49971,7 +49971,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="88" />
         <source>The dual-serial port WAN interface cards (WICs) feature Cisco`s new, compact, high-density Smart Serial connector to support a wide variety of electrical interfaces when used with the appropriate transition cable. Two cables are required to support the two ports on the WIC. Each port on a WIC is a different physical interface and can support different protocols such as Point-to-Point protocol (PPP) or Frame Relay and Data Terminal Equipment/Data Communications Equipment (DTE/DCE).</source>
-        <translation>Çift seri bağlantı noktalı WAN arabirim kartları (WIC'ler), uygun geçiş kablosuyla kullanıldığında çok çeşitli elektriksel arabirimleri desteklemek üzere Cisco'nun yeni, kompakt, yüksek yoğunluklu Akıllı Seri konektörüne sahiptir. WIC üzerindeki iki bağlantı noktasını desteklemek için iki kablo gereklidir. WIC üzerindeki her bağlantı noktası farklı bir fiziksel arabirimdir ve Noktadan Noktaya protokolü (PPP) veya Çerçeve Aktarımı ve Veri Terminali Ekipmanı/Veri İletişim Ekipmanı (DTE/DCE) gibi farklı protokolleri destekleyebilir.</translation>
+        <translation>Çift seri bağlantı noktalı WAN arabirim kartları (WIC'ler), uygun geçiş kablosuyla kullanıldığında çok çeşitli elektriksel arabirimleri desteklemek üzere Cisco'nun yeni, kompakt, yüksek yoğunluklu Akıllı Seri konektörüne sahiptir. WIC üzerindeki iki bağlantı noktasını desteklemek için iki kablo gereklidir. WIC üzerindeki her bağlantı noktası farklı bir fiziksel arabirimdir ve Noktadan Noktaya protokolü (PPP) veya Frame Relay ve Veri Terminali Ekipmanı/Veri İletişim Ekipmanı (DTE/DCE) gibi farklı protokolleri destekleyebilir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="99" />
@@ -50433,7 +50433,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="934" />
         <source>IPv6 Crypto Map</source>
-        <translation>IPv6 Şifreleme Haritası</translation>
+        <translation>IPv6 Crypto Haritası (Crypto Map)</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="951" />
@@ -52031,7 +52031,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2826" />
         <source>Accounting Command</source>
-        <translation>Hesaplama Komutu</translation>
+        <translation>Muhasebe Komutu (Accounting)</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2886" />
@@ -52051,17 +52051,17 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2896" />
         <source>Crypto IKEv1 Policy</source>
-        <translation>Şifreleme IKEv1 Politikası</translation>
+        <translation>Crypto IKEv1 Politikası</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2899" />
         <source>IPv6 Crypto ISAKMP Key Address Pairs</source>
-        <translation>IPv6 Şifreleme ISAKMP Anahtar-Adres Çiftleri</translation>
+        <translation>IPv6 Crypto ISAKMP Anahtar-Adres Çiftleri</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2902" />
         <source>IPv6 Crypto Map Sets</source>
-        <translation>IPv6 Şifreleme Harita Kümeleri</translation>
+        <translation>IPv6 Crypto Map Kümeleri</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2910" />
@@ -52271,12 +52271,12 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3135" />
         <source>TACACS SERVER: Receive accounting request from client</source>
-        <translation>TACACS SUNUCUSU: İstemciden hesaplama isteği alındı</translation>
+        <translation>TACACS SUNUCUSU: İstemciden muhasebe (accounting) isteği alındı</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3136" />
         <source>TACACS SERVER: Send accounting response to the client</source>
-        <translation>TACACS SUNUCUSU: İstemciye hesaplama yanıtı gönderildi</translation>
+        <translation>TACACS SUNUCUSU: İstemciye muhasebe (accounting) yanıtı gönderildi</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3139" />
@@ -52291,7 +52291,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3142" />
         <source>RADIUS CLIENT: Send accounting request</source>
-        <translation>RADIUS İSTEMCİSİ: Hesaplama isteği gönderildi</translation>
+        <translation>RADIUS İSTEMCİSİ: Muhasebe (accounting) isteği gönderildi</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3146" />
@@ -52306,12 +52306,12 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3149" />
         <source>RADIUS SERVER: Receive accounting request from client</source>
-        <translation>RADIUS SUNUCUSU: İstemciden hesaplama isteği alındı</translation>
+        <translation>RADIUS SUNUCUSU: İstemciden muhasebe (accounting) isteği alındı</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3150" />
         <source>RADIUS SERVER: Send accounting response to the client</source>
-        <translation>RADIUS SUNUCUSU: İstemciye hesaplama yanıtı gönderildi</translation>
+        <translation>RADIUS SUNUCUSU: İstemciye muhasebe (accounting) yanıtı gönderildi</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3147" />
@@ -52566,7 +52566,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3422" />
         <source>The protocol field in the Ip Header is 41. The IPv4 header of the packet is removed and sent to port [[PORT_NAME]].</source>
-        <translation>IPv başlığındaki protokol alanı 41'dir. Paketin IPv4 başlığı kaldırılır ve [[PORT_NAME]] bağlantı noktasına gönderilir.</translation>
+        <translation>IPv4 başlığındaki protokol alanı 41'dir. Paketin IPv4 başlığı kaldırılır ve [[PORT_NAME]] bağlantı noktasına gönderilir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3423" />
@@ -52787,7 +52787,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3205" />
         <source>The destination IP address of this route. An entry with a value of 0.0.0.0 is considered a default route. Multiple routes to a single destination can appear in the table, but access to sch multiple entries is dependent on the table- access mechanisms defined by the network management protocol in use.</source>
-        <translation>Bu yolun hedef IP adresi. Değeri 0.0.0.0 olan bir giriş, varsayılan yol olarak kabul edilir. Tabloda tek bir hedefe giden birden fazla yol görünebilir, ancak bu girişlere erişim, kullanılan ağ yönetim protokolü tarafından tanımlanan tablo erişim mekanizmalarına bağlıdır.</translation>
+        <translation>Bu rotanın hedef IP adresi. Değeri 0.0.0.0 olan bir giriş, varsayılan rota olarak kabul edilir. Tabloda tek bir hedefe giden birden fazla rota görünebilir, ancak bu girişlere erişim, kullanılan ağ yönetim protokolü tarafından tanımlanan tablo erişim mekanizmalarına bağlıdır.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3206" />
@@ -52913,7 +52913,7 @@ ipRouteDest değeri 0.0.0.0 (varsayılan yol) ise, maske değeri de 0.0.0.0 olur
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3253" />
         <source>The number of routes from this peer that were ignored because the entry format was invalid.</source>
-        <translation>Giriş biçimi geçersiz olduğu için bu eşten gelen ve göz ardı edilen yol sayısı.</translation>
+        <translation>Giriş biçimi geçersiz olduğu için bu eşten gelen ve göz ardı edilen rota sayısı.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3256" />
@@ -53282,7 +53282,7 @@ ipRouteDest değeri 0.0.0.0 (varsayılan yol) ise, maske değeri de 0.0.0.0 olur
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="933" />
         <source>Crypto Map</source>
-        <translation>Şifreleme Haritası</translation>
+        <translation>Crypto Haritası (Crypto Map)</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1017" />
@@ -54065,7 +54065,7 @@ FTP sunucusu, dosyanın var olup olmadığını kontrol eder ve yeniden adlandı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2660" />
         <source>Mode Cipher</source>
-        <translation>Mod Şifreleme</translation>
+        <translation>Şifreleme Modu</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2832" />
@@ -57338,7 +57338,7 @@ End the expression with: ")</source>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="298" />
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="301" />
         <source>Disconnect</source>
-        <translation>Bağlantıyı kes</translation>
+        <translation>Bağlantıyı Kes</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="330" />
@@ -58213,7 +58213,7 @@ Akış bilgisi:</translation>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationPCDialer.cpp" line="171" />
         <location filename="../gui/DeviceConfig/Workstation/WorkstationPCDialer.cpp" line="227" />
         <source>Disconnect</source>
-        <translation>Bağlantı kesildi</translation>
+        <translation>Bağlantıyı Kes</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationPCDialer.cpp" line="274" />
@@ -58957,7 +58957,7 @@ Değişikliklerinizi kaydetmek istiyor musunuz?</translation>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkStationVpn.cpp" line="160" />
         <source>Disconnect</source>
-        <translation>Bağlantıyı kes</translation>
+        <translation>Bağlantıyı Kes</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkStationVpn.cpp" line="92" />
@@ -59043,7 +59043,7 @@ ve önceki tüm ayarlar silinecektir.</translation>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationWebBrowser.cpp" line="2014" />
         <source>Disconnected</source>
-        <translation>Bağlantı kesildi</translation>
+        <translation>Bağlantı Kesildi</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationWebBrowser.cpp" line="2015" />
@@ -59058,7 +59058,7 @@ ve önceki tüm ayarlar silinecektir.</translation>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationWebBrowser.cpp" line="2027" />
         <source>Disconnect</source>
-        <translation>Bağlantı kesildi</translation>
+        <translation>Bağlantıyı Kes</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationWebBrowser.cpp" line="2325" />
@@ -59464,7 +59464,7 @@ Tablodaki hücreleri tek tek işaretleyip işaretini kaldırarak birden fazla et
     <message>
         <location filename="../gui/DesignerFiles/Controller/RealWorldPortsBase.ui" line="26" />
         <source>Frame Relay Connections</source>
-        <translation>Çerçeve Aktarım Bağlantıları</translation>
+        <translation>Frame Relay Bağlantıları</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Controller/RealWorldPortsBase.ui" line="32" />
@@ -61783,7 +61783,7 @@ Bir komut dosyası modülü oluşturmanın genel sırası şöyledir:</translati
         <location filename="../gui/DesignerFiles/Server/ServerAaaViewer.ui" line="882" />
         <location filename="../gui/DesignerFiles/Server/ServerAaaViewer.ui" line="884" />
         <source>AAA Accounting Records</source>
-        <translation>AAA Hesap Kayıtları</translation>
+        <translation>AAA Muhasebe Kayıtları (Accounting)</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServerAaaViewer.ui" line="914" />
@@ -61794,12 +61794,12 @@ Bir komut dosyası modülü oluşturmanın genel sırası şöyledir:</translati
     <message>
         <location filename="../gui/DesignerFiles/Server/ServerAaaViewer.ui" line="928" />
         <source>TACACS+ Accounting</source>
-        <translation>TACACS+ Hesaplama</translation>
+        <translation>TACACS+ Muhasebe (Accounting)</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServerAaaViewer.ui" line="960" />
         <source>RADIUS Accounting</source>
-        <translation>RADIUS Hesaplama</translation>
+        <translation>RADIUS Muhasebe (Accounting)</translation>
     </message>
 </context>
 <context>
@@ -62033,17 +62033,17 @@ Bir komut dosyası modülü oluşturmanın genel sırası şöyledir:</translati
     <message>
         <location filename="../gui/DeviceConfig/CiscoWireless/WirelessWlans.cpp" line="110" />
         <source>An existing WLAN has the same name.</source>
-        <translation>Mevcut bir kablosuz ağın adı aynı.</translation>
+        <translation>Aynı ada sahip bir WLAN zaten mevcut.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/CiscoWireless/WirelessWlans.cpp" line="117" />
         <source>Duplicate SSID</source>
-        <translation>Çift SSID</translation>
+        <translation>Yinelenen SSID (SSID Çakışması)</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/CiscoWireless/WirelessWlans.cpp" line="117" />
         <source>An existing WLAN named %1 has the same SSID.</source>
-        <translation>%1 adlı mevcut bir kablosuz ağın SSID'si aynı.</translation>
+        <translation>%1 adlı mevcut bir WLAN zaten aynı SSID'ye sahip.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/CiscoWireless/WirelessWlans.cpp" line="123" />
@@ -62053,7 +62053,7 @@ Bir komut dosyası modülü oluşturmanın genel sırası şöyledir:</translati
     <message>
         <location filename="../gui/DeviceConfig/CiscoWireless/WirelessWlans.cpp" line="123" />
         <source>Valid VLAN values are 0 to 1024. 0 for untagged.</source>
-        <translation>Geçerli VLAN değerleri 0 ile 1024 arasındadır. Etiketlenmemiş için 0.</translation>
+        <translation>Geçerli VLAN değerleri 0 ile 1024 arasındadır. Etiketsiz trafik için 0 kullanılır.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/CiscoWireless/WirelessWlans.cpp" line="132" />
@@ -62065,12 +62065,12 @@ Bir komut dosyası modülü oluşturmanın genel sırası şöyledir:</translati
     <message>
         <location filename="../gui/DeviceConfig/CiscoWireless/WirelessWlans.cpp" line="132" />
         <source>RADIUS shared secret value is invalid.</source>
-        <translation>RADIUS paylaşılan gizli anahtar değeri geçersiz.</translation>
+        <translation>RADIUS paylaşılan gizli parola değeri geçersiz.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/CiscoWireless/WirelessWlans.cpp" line="139" />
         <source>RADIUS shared secret value must contain alphanumeric characters only.</source>
-        <translation>RADIUS paylaşılan gizli anahtar değeri yalnızca alfasayısal karakterler içermelidir.</translation>
+        <translation>RADIUS paylaşılan gizli parola değeri yalnızca alfasayısal karakterler içermelidir.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/CiscoWireless/WirelessWlans.cpp" line="144" />
@@ -62265,7 +62265,7 @@ Bir komut dosyası modülü oluşturmanın genel sırası şöyledir:</translati
         <location filename="../gui/DesignerFiles/WlcProfiles.ui" line="138" />
         <location filename="../gui/DesignerFiles/WlcWlans.ui" line="428" />
         <source>Shared Secret</source>
-        <translation>Paylaşılan Gizli Anahtar</translation>
+        <translation>Paylaşılan Gizli Parola (Shared Secret)</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcProfiles.ui" line="175" />
