@@ -3185,7 +3185,7 @@ Yorumlar:</translation>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1936" />
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="1939" />
         <source>To Add: Fill in the required Name, Minimum and Maximum Values. To Edit: Double-Click in the cell and change the value To Remove: Click anywhere in the row to be deleted and press the Delete key. Range: Positive and negative Integer numbers. Seed variables can be substituted for integers using [[variablename]].</source>
-        <translation>Ekleme: Gerekli Ad, Minimum ve Maksimum Değerleri girin. Düzenleme: Hücreye çift tıklayın ve değeri değiştirin. Silme: Silinecek satırın herhangi bir yerine tıklayın ve Delete tuşuna basın. Aralık: Pozitif ve negatif tamsayılar. Tohum değişkenleri, [[değişkenadı]] kullanılarak tamsayılarla ikame edilebilir.</translation>
+        <translation>Ekleme: Gerekli Ad, Minimum ve Maksimum Değerleri girin. Düzenleme: Hücreye çift tıklayın ve değeri değiştirin. Silme: Silinecek satırın herhangi bir yerine tıklayın ve Delete tuşuna basın. Aralık: Pozitif ve negatif tamsayılar. Tohum değişkenleri, [[variablename]] kullanılarak tamsayılarla ikame edilebilir.</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="2995" />
@@ -3237,7 +3237,7 @@ Yorumlar:</translation>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="4213" />
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="4216" />
         <source>To Add: Fill in the required Name and Text FieldsThe Text field can contain text, numbers, Seeds and Number Variables data, separated by semi-colons to create the data pool. Seed and Number variables can be substituted for text data using [[variablename]].To Edit: Double-Click in the cell and change the valueTo Remove: Click anywhere in the row to be deleted and press the Delete key</source>
-        <translation>Ekleme: Gerekli Ad ve Metin alanlarını doldurun. Metin alanı, veri havuzunu oluşturmak için noktalı virgülle ayrılmış metin, sayı, Tohum ve Sayı Değişkenleri verilerini içerebilir. Tohum ve Sayı değişkenleri, [[değişkenadı]] kullanılarak metin verilerinin yerine kullanılabilir. Düzenleme: Hücreye çift tıklayın ve değeri değiştirin. Silme: Silinecek satırın herhangi bir yerine tıklayın ve Delete tuşuna basın</translation>
+        <translation>Ekleme: Gerekli Ad ve Metin alanlarını doldurun. Metin alanı, veri havuzunu oluşturmak için noktalı virgülle ayrılmış metin, sayı, Tohum ve Sayı Değişkenleri verilerini içerebilir. Tohum ve Sayı değişkenleri, [[variablename]] kullanılarak metin verilerinin yerine kullanılabilir. Düzenleme: Hücreye çift tıklayın ve değeri değiştirin. Silme: Silinecek satırın herhangi bir yerine tıklayın ve Delete tuşuna basın</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="4206" />
@@ -3297,7 +3297,7 @@ Yorumlar:</translation>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="6473" />
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="6476" />
         <source>To Add: Fill in the required Name, Network Address, and Mask ValuesThe First and Last IP Address fields will automatically filled in based on the Network and Mask fields if no variables are used. Seed, Number, and String variables can be substituted for address data using [[variablename]].To Edit:Double-Click in the cell and change the valueThe First and Last IP Address fields can be edited to specify a smaller range of addresses that is set by defaultTo Remove: Click anywhere in the row to be deleted and press the Delete key</source>
-        <translation>Ekleme: Gerekli Ad, Ağ Adresi ve Maske Değerlerini girin. Değişken kullanılmadığında, İlk ve Son IP Adresi alanları Ağ ve Maske alanlarına göre otomatik olarak doldurulur. Adres verilerinin yerine [[değişkenadı]] kullanılarak Seed, Number ve String değişkenleri kullanılabilir. Düzenlemek için: Hücreye çift tıklayın ve değeri değiştirin. Varsayılan olarak ayarlanan adres aralığından daha küçük bir aralık belirtmek için İlk ve Son IP Adresi alanları düzenlenebilir. Silmek için: Silinecek satırın herhangi bir yerine tıklayın ve Delete tuşuna basın</translation>
+        <translation>Ekleme: Gerekli Ad, Ağ Adresi ve Maske Değerlerini girin. Değişken kullanılmadığında, İlk ve Son IP Adresi alanları Ağ ve Maske alanlarına göre otomatik olarak doldurulur. Adres verilerinin yerine [[variablename]] kullanılarak Seed, Number ve String değişkenleri kullanılabilir. Düzenlemek için: Hücreye çift tıklayın ve değeri değiştirin. Varsayılan olarak ayarlanan adres aralığından daha küçük bir aralık belirtmek için İlk ve Son IP Adresi alanları düzenlenebilir. Silmek için: Silinecek satırın herhangi bir yerine tıklayın ve Delete tuşuna basın</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="6466" />
@@ -3594,7 +3594,7 @@ Range: Positive and negative Integer numbers. Seed variables can be substituted 
         <translation>Ekleme: Gerekli Ad, Minimum ve Maksimum Değerleri girin. 
 Düzenlemek için: Hücreye çift tıklayın ve değeri değiştirin 
 Silmek için: Silinecek satırın herhangi bir yerine tıklayın ve Delete tuşuna basın. 
-Aralık: Pozitif ve negatif tamsayılar. Tohum değişkenleri, [[değişkenadı]] kullanılarak tamsayılarla ikame edilebilir.</translation>
+Aralık: Pozitif ve negatif tamsayılar. Tohum değişkenleri, [[variablename]] kullanılarak tamsayılarla ikame edilebilir.</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="3080" />
@@ -3616,7 +3616,7 @@ The Text field can contain text, numbers, Seeds and Number Variables data, separ
 To Edit: Double-Click in the cell and change the value
 To Remove: Click anywhere in the row to be deleted and press the Delete key</source>
         <translation>Ekleme: Gerekli Ad ve Metin alanlarını doldurun
-Metin alanı, veri havuzunu oluşturmak için noktalı virgülle ayrılmış metin, sayı, Tohum ve Sayı Değişkenleri verilerini içerebilir. Tohum ve Sayı değişkenleri, [[değişkenadı]] kullanılarak metin verilerinin yerine kullanılabilir.
+Metin alanı, veri havuzunu oluşturmak için noktalı virgülle ayrılmış metin, sayı, Tohum ve Sayı Değişkenleri verilerini içerebilir. Tohum ve Sayı değişkenleri, [[variablename]] kullanılarak metin verilerinin yerine kullanılabilir.
 Düzenlemek için: Hücreye çift tıklayın ve değeri değiştirin
 Silmek için: Silinecek satırın herhangi bir yerine tıklayın ve Delete tuşuna basın</translation>
     </message>
@@ -3641,7 +3641,7 @@ To Edit:Double-Click in the cell and change the value
 The First and Last IP Address fields can be edited to specify a smaller range of addresses that is set by default
 To Remove: Click anywhere in the row to be deleted and press the Delete key</source>
         <translation>Ekleme: Gerekli Ad, Ağ Adresi ve Maske Değerlerini girin
-Değişken kullanılmadığında, İlk ve Son IP Adresi alanları Ağ ve Maske alanlarına göre otomatik olarak doldurulur. [[değişkenadı]] kullanılarak adres verilerinin yerine Tohum, Sayı ve Dize değişkenleri kullanılabilir.
+Değişken kullanılmadığında, İlk ve Son IP Adresi alanları Ağ ve Maske alanlarına göre otomatik olarak doldurulur. [[variablename]] kullanılarak adres verilerinin yerine Tohum, Sayı ve Dize değişkenleri kullanılabilir.
 Düzenlemek için: Hücreye çift tıklayın ve değeri değiştirin
 Varsayılan olarak ayarlanan adres aralığından daha dar bir aralık belirtmek için İlk ve Son IP Adresi alanları düzenlenebilir
 Silmek için: Silinecek satırın herhangi bir yerine tıklayın ve Delete tuşuna basın</translation>
@@ -10059,7 +10059,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="4728" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11283" />
         <source>Service Password Encryption</source>
-        <translation>Hizmet Parolası Şifrelemesi (Service Password Encryption)</translation>
+        <translation>Service Password Encryption (Hizmet Parolası Şifrelemesi)</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="4742" />
@@ -10538,7 +10538,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="5973" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11562" />
         <source>Native VLAN</source>
-        <translation>Yerel VLAN (Native VLAN)</translation>
+        <translation>Native VLAN (Yerel VLAN)</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="5987" />
@@ -10724,7 +10724,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6463" />
         <source>EIGRPv6 Hello Interval</source>
-        <translation>EIGRPv6 Selam Aralığı</translation>
+        <translation>EIGRPv6 Hello Aralığı</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6477" />
@@ -11531,7 +11531,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="8354" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12417" />
         <source>Enable Secret</source>
-        <translation>Enable Gizli Parolası (Enable Secret)</translation>
+        <translation>Enable Secret Parolası</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="8396" />
@@ -12808,7 +12808,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="286" />
         <source>Broadcast storm control multiplier</source>
-        <translation>Yayın fırtına kontrol çarpanı</translation>
+        <translation>Broadcast Storm Denetim Çarpanı</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="329" />
@@ -16241,7 +16241,7 @@ Aralık: 256-2346)</translation>
     <message>
         <location filename="../gui/DesignerFiles/GlobalSettings/BaseAlgorithmSettings.ui" line="397" />
         <source>Broadcast storm control multiplier</source>
-        <translation>Yayın fırtına kontrol çarpanı</translation>
+        <translation>Broadcast Storm Denetim Çarpanı</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/GlobalSettings/BaseAlgorithmSettings.ui" line="258" />
@@ -27486,7 +27486,7 @@ damgası</translation>
     <message>
         <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="368" />
         <source>Successors</source>
-        <translation>Halefler</translation>
+        <translation>Successor (Halefler)</translation>
     </message>
     <message>
         <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="369" />
@@ -41441,17 +41441,17 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="73" />
         <source>The [[MODULE_NAME]] Module provides one Fast-Ethernet interface for use with fiber media. Ideal for a wide range of LAN applications, the Fast Ethernet network modules support many internetworking features and standards. Single port network modules offer autosensing 10/100BaseTX or 100BaseFX Ethernet.</source>
-        <translation>[[MODULE_NAME]] Modülü, fiber ortamlarla kullanım için bir adet Hızlı Ethernet arabirimi sunar. Çok çeşitli LAN uygulamaları için ideal olan Hızlı Ethernet ağ modülleri, birçok ağ iletişimi özelliğini ve standardını destekler. Tek bağlantı noktalı ağ modülleri, otomatik algılamalı 10/100BaseTX veya 100BaseFX Ethernet sunar.</translation>
+        <translation>[[MODULE_NAME]] Modülü, fiber ortamlarla kullanım için bir adet Fast Ethernet arabirimi sunar. Çok çeşitli LAN uygulamaları için ideal olan Fast Ethernet ağ modülleri, birçok ağ iletişimi özelliğini ve standardını destekler. Tek bağlantı noktalı ağ modülleri, otomatik algılamalı 10/100BaseTX veya 100BaseFX Ethernet sunar.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="74" />
         <source>The [[MODULE_NAME]] Module provides one Fast-Ethernet interface for use with copper media. Ideal for a wide range of LAN applications, the Fast Ethernet network modules support many internetworking features and standards. Single port network modules offer autosensing 10/100BaseTX or 100BaseFX Ethernet. The TX (copper) version supports virtual LAN (VLAN) deployment.</source>
-        <translation>[[MODULE_NAME]] Modülü, bakır ortamlarla kullanım için bir adet Hızlı Ethernet arabirimi sağlar. Çok çeşitli LAN uygulamaları için ideal olan Hızlı Ethernet ağ modülleri, birçok ağ iletişimi özelliğini ve standardını destekler. Tek bağlantı noktalı ağ modülleri, otomatik algılamalı 10/100BaseTX veya 100BaseFX Ethernet sunar. TX (bakır) sürümü, sanal LAN (VLAN) dağıtımını destekler.</translation>
+        <translation>[[MODULE_NAME]] Modülü, bakır ortamlarla kullanım için bir adet Fast Ethernet arabirimi sağlar. Çok çeşitli LAN uygulamaları için ideal olan Fast Ethernet ağ modülleri, birçok ağ iletişimi özelliğini ve standardını destekler. Tek bağlantı noktalı ağ modülleri, otomatik algılamalı 10/100BaseTX veya 100BaseFX Ethernet sunar. TX (bakır) sürümü, sanal LAN (VLAN) dağıtımını destekler.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="75" />
         <source>The [[MODULE_NAME]] Module provides one Fast-Ethernet interface for use with copper media, in addition to two Wan Interface Card expansion slots. Ideal for a wide range of LAN applications, the Fast Ethernet network modules support many internetworking features and standards. Single port network modules offer autosensing 10/100BaseTX or 100BaseFX Ethernet. The TX (copper) version supports virtual LAN (VLAN) deployment.</source>
-        <translation>[[MODULE_NAME]] Modülü, iki WAN Arabirim Kartı genişletme yuvasına ek olarak, bakır ortamla kullanım için bir adet Hızlı Ethernet arabirimi sağlar. Çok çeşitli LAN uygulamaları için ideal olan Hızlı Ethernet ağ modülleri, birçok ağ iletişimi özelliğini ve standardını destekler. Tek bağlantı noktalı ağ modülleri, otomatik algılamalı 10/100BaseTX veya 100BaseFX Ethernet sunar. TX (bakır) sürümü, sanal LAN (VLAN) dağıtımını destekler.</translation>
+        <translation>[[MODULE_NAME]] Modülü, iki WAN Arabirim Kartı genişletme yuvasına ek olarak, bakır ortamla kullanım için bir adet Fast Ethernet arabirimi sağlar. Çok çeşitli LAN uygulamaları için ideal olan Fast Ethernet ağ modülleri, birçok ağ iletişimi özelliğini ve standardını destekler. Tek bağlantı noktalı ağ modülleri, otomatik algılamalı 10/100BaseTX veya 100BaseFX Ethernet sunar. TX (bakır) sürümü, sanal LAN (VLAN) dağıtımını destekler.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="76" />
@@ -41471,7 +41471,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="79" />
         <source>The [[MODULE_NAME]] Module provides two Fast-Ethernet interfaces for use with copper media, in addition to two Wan Interface Card expansion slots. Ideal for a wide range of LAN applications, the Fast Ethernet network modules support many internetworking features and standards.</source>
-        <translation>[[MODULE_NAME]] Modülü, iki WAN Arabirim Kartı genişletme yuvasına ek olarak, bakır ortamlarla kullanım için iki adet Hızlı Ethernet arabirimi sunar. Çok çeşitli LAN uygulamaları için ideal olan Hızlı Ethernet ağ modülleri, birçok ağ iletişimi özelliğini ve standardını destekler.</translation>
+        <translation>[[MODULE_NAME]] Modülü, iki WAN Arabirim Kartı genişletme yuvasına ek olarak, bakır ortamlarla kullanım için iki adet Fast Ethernet arabirimi sunar. Çok çeşitli LAN uygulamaları için ideal olan Fast Ethernet ağ modülleri, birçok ağ iletişimi özelliğini ve standardını destekler.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="80" />
@@ -42577,7 +42577,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="610" />
         <source>Service Password Encryption</source>
-        <translation>Hizmet Parolası Şifrelemesi (Service Password Encryption)</translation>
+        <translation>Service Password Encryption (Hizmet Parolası Şifrelemesi)</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="611" />
@@ -42631,7 +42631,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="642" />
         <source>Enable Secret</source>
-        <translation>Enable Gizli Parolası (Enable Secret)</translation>
+        <translation>Enable Secret Parolası</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="643" />
@@ -43163,7 +43163,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="896" />
         <source>EIGRPv6 Hello Interval</source>
-        <translation>EIGRPv6 Merhaba Aralığı</translation>
+        <translation>EIGRPv6 Hello Aralığı</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="897" />
@@ -43260,7 +43260,7 @@ Please wait until it is finished.</source>
         <location filename="../gui/CTranslationDB.cpp" line="926" />
         <location filename="../gui/CTranslationDB.cpp" line="971" />
         <source>Native VLAN</source>
-        <translation>Yerel VLAN (Native VLAN)</translation>
+        <translation>Native VLAN (Yerel VLAN)</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="927" />
@@ -46799,7 +46799,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1935" />
         <source>The native VLAN ID does not match, putting the port into PVID-inconsistent state.</source>
-        <translation>Yerel VLAN (Native VLAN) kimliği eşleşmiyor, bu da bağlantı noktasını PVID tutarsız durumuna geçiriyor.</translation>
+        <translation>Native VLAN (Yerel VLAN) kimliği eşleşmiyor, bu da bağlantı noktasını PVID tutarsız durumuna geçiriyor.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1936" />
@@ -47029,7 +47029,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2429" />
         <source>The DNS server receives an [[query-type]] DNS query.</source>
-        <translation>DNS sunucusu, bir [[sorgu-türü]] DNS sorgusu alır.</translation>
+        <translation>DNS sunucusu, bir [[query-type]] DNS sorgusu alır.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2434" />
@@ -47049,12 +47049,12 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2437" />
         <source>The received [[query-type]] DNS response does not contain a resolved IP address for the queried domain.</source>
-        <translation>Alınan [[sorgu-türü]] DNS yanıtı, sorgulanan etki alanı için çözümlenmiş bir IP adresi içermez.</translation>
+        <translation>Alınan [[query-type]] DNS yanıtı, sorgulanan etki alanı için çözümlenmiş bir IP adresi içermez.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2439" />
         <source>The DNS client receives an [[query-type]] DNS response.</source>
-        <translation>DNS istemcisi bir [[sorgu-türü]] DNS yanıtı alır.</translation>
+        <translation>DNS istemcisi bir [[query-type]] DNS yanıtı alır.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2440" />
@@ -50003,7 +50003,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
         <location filename="../gui/CTranslationDB.cpp" line="111" />
         <location filename="../gui/CTranslationDB.cpp" line="133" />
         <source>The [[MODULE_NAME]] features a single Fast-Ethernet port.</source>
-        <translation>[[MODULE_NAME]], tek bir Hızlı Ethernet bağlantı noktasına sahiptir.</translation>
+        <translation>[[MODULE_NAME]], tek bir Fast Ethernet bağlantı noktasına sahiptir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="112" />
@@ -50643,7 +50643,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1329" />
         <source>Record [[Name]]</source>
-        <translation>[[Ad]]'ı kaydeder</translation>
+        <translation>Record [[Name]] kaydı</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1331" />
@@ -50694,7 +50694,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1342" />
         <source>Exporter [[Name]]</source>
-        <translation>İhracatçı [[Ad]]</translation>
+        <translation>Exporter [[Name]]</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1343" />
@@ -50709,7 +50709,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1347" />
         <source>Monitor [[Name]]</source>
-        <translation>İzleyici [[Ad]]</translation>
+        <translation>Monitor [[Name]]</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1348" />
@@ -54245,7 +54245,7 @@ FTP sunucusu, dosyanın var olup olmadığını kontrol eder ve yeniden adlandı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3243" />
         <source>The value to be placed in the router lifetime field of Router advertisements sent from this interface. This value MUST be either 0 or between ipv6RouterAdvertMaxInterval and 9000 seconds. A value of zero indicates that the Router is not to be used as a default Router. The default is 3 * ipv6RouterAdvertMaxInterval.</source>
-        <translation>Bu arayüzden gönderilen Yönlendirici duyurularının yönlendirici ömrü alanına yerleştirilecek değer. Bu değer İLLA ki 0 olmalı ya da ipv6RouterAdvertMaxInterval ile 9000 saniye arasında olmalıdır. Sıfır değeri, Yönlendiricinin varsayılan Yönlendirici olarak kullanılmayacağını belirtir. Varsayılan değer 3 * ipv6RouterAdvertMaxInterval'dir.</translation>
+        <translation>Bu arayüzden gönderilen Yönlendirici duyurularının yönlendirici ömrü alanına yerleştirilecek değer. Bu değer 0 olmalı veya ipv6RouterAdvertMaxInterval ile 9000 saniye arasında bulunmalıdır. Sıfır değeri, Yönlendiricinin varsayılan Yönlendirici olarak kullanılmayacağını belirtir. Varsayılan değer 3 * ipv6RouterAdvertMaxInterval'dir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3260" />
@@ -55046,7 +55046,7 @@ FTP sunucusu, dosyanın var olup olmadığını kontrol eder ve yeniden adlandı
     <message>
         <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="14" />
         <source>Switch Global Settings</source>
-        <translation>Switch Genel Ayarları</translation>
+        <translation>Anahtar Genel Ayarları</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="89" />
@@ -57191,7 +57191,7 @@ End the expression with: ")</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationDialog.cpp" line="2771" />
         <source>Cannot tether while it is trying to tether to another Bluetooth device.</source>
-        <translation>Başka bir Bluetooth cihazına bağlanmaya çalışırken tethering yapılamaz.</translation>
+        <translation>Başka bir Bluetooth cihazına bağlanmaya çalışırken internet paylaşımı (tethering) yapılamaz.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationDialog.cpp" line="2776" />
@@ -61302,7 +61302,7 @@ Bir komut dosyası modülü oluşturmanın genel sırası şöyledir:</translati
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="287" />
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="290" />
         <source>Add and edit data files with xml, csv, or any plain text data. They can be treated as files or as a hash table. Data can also be dynamically added or removed in code during runtime, and they are saved with the Packet Tracer options file for persistence. Saving or exporting the script module also saves the data.</source>
-        <translation>XML, CSV veya herhangi bir düz metin verisiyle veri dosyaları ekleyin ve düzenleyin. Bu dosyalar, dosya veya karma tablo olarak işlenebilir. Veriler, çalışma zamanı sırasında kodda dinamik olarak eklenebilir veya kaldırılabilir ve kalıcılık amacıyla Packet Tracer seçenekleri dosyasıyla birlikte kaydedilir. Komut dosyası modülünün kaydedilmesi veya dışa aktarılması da verilerin kaydedilmesini sağlar.</translation>
+        <translation>XML, CSV veya herhangi bir düz metin verisiyle veri dosyaları ekleyin ve düzenleyin. Bu dosyalar, dosya veya hash tablosu olarak işlenebilir. Veriler, çalışma zamanı sırasında kodda dinamik olarak eklenebilir veya kaldırılabilir ve kalıcılık amacıyla Packet Tracer seçenekleri dosyasıyla birlikte kaydedilir. Komut dosyası modülünün kaydedilmesi veya dışa aktarılması da verilerin kaydedilmesini sağlar.</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="313" />
