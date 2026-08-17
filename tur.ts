@@ -261,7 +261,7 @@ Daha ayrıntılı bilgi için lütfen Etkinlik Sihirbazı yardım dosyalarına b
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="9704" />
         <source>Remove Page</source>
-        <translation>Sayfayı Sil</translation>
+        <translation>Sayfayı Kaldır</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="8813" />
@@ -4888,7 +4888,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/IoE/DeviceFileManager_edit.ui" line="68" />
         <source>Remove Page</source>
-        <translation>Sayfayı Sil</translation>
+        <translation>Sayfayı Kaldır</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IoE/DeviceFileManager_edit.ui" line="71" />
@@ -5023,7 +5023,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="443" />
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="446" />
         <source>Duplex</source>
-        <translation>Çift Yönlü</translation>
+        <translation>Çift Yönlü (Duplex)</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="481" />
@@ -5244,7 +5244,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1341" />
         <source>Beacon Frequency</source>
-        <translation>İşaret Frekansı</translation>
+        <translation>Beacon Frekansı</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1577" />
@@ -5633,7 +5633,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1756" />
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1759" />
         <source>Shared Secret</source>
-        <translation>Paylaşılan Gizli Parola (Shared Secret)</translation>
+        <translation>Paylaşılan Gizli Parola</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2345" />
@@ -7038,7 +7038,7 @@ Başlangıç Ağını Değiştirmek İster Misiniz?</translation>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="259" />
         <source>Import Number Pools</source>
-        <translation>Numara Havuzlarını İçe Aktar</translation>
+        <translation>Sayı Havuzlarını İçe Aktar</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ActivityWizard_VariableManager.cpp" line="311" />
@@ -13453,7 +13453,7 @@ Bağlantı Noktası</translation>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1029" />
         <source>Edit File Script Module ...</source>
-        <translation>Dosya Komut Dosyası Modülünü Düzenle ...</translation>
+        <translation>Dosyaya Özel Komut Dosyası Modülünü Düzenle ...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1034" />
@@ -23837,7 +23837,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1463" />
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1466" />
         <source>Shared Secret:</source>
-        <translation>Paylaşılan Gizli Parola (Shared Secret):</translation>
+        <translation>Paylaşılan Gizli Parola:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="777" />
@@ -24261,7 +24261,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1334" />
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1337" />
         <source>Shared Secret:</source>
-        <translation>Paylaşılan Gizli Parola (Shared Secret):</translation>
+        <translation>Paylaşılan Gizli Parola:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="860" />
@@ -26848,7 +26848,7 @@ Publisher Certificate Information:
     <message>
         <location filename="../gui/scripting/DebugDialog.cpp" line="72" />
         <source>Debug - File Script Module</source>
-        <translation>Hata Ayıklama - Dosya Komut Dosyası Modülü</translation>
+        <translation>Hata Ayıklama - Dosyaya Özel Komut Dosyası Modülü</translation>
     </message>
     <message>
         <location filename="../gui/scripting/DebugDialog.cpp" line="74" />
@@ -31442,7 +31442,7 @@ etkinliği sıfırlamak istiyor musunuz?</translation>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="415" />
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="418" />
         <source>Shared Secret</source>
-        <translation>Paylaşılan Gizli Parola (Shared Secret)</translation>
+        <translation>Paylaşılan Gizli Parola</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="465" />
@@ -40168,7 +40168,7 @@ Desteklenen dosya uzantıları: .html .htm .php .css .js</translation>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceHttp_edit.ui" line="68" />
         <source>Remove Page</source>
-        <translation>Sayfayı Sil</translation>
+        <translation>Sayfayı Kaldır</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceHttp_edit.ui" line="71" />
@@ -40693,7 +40693,7 @@ Parola</translation>
         <location filename="../gui/DesignerFiles/Server/SeviceAAA.ui" line="223" />
         <location filename="../gui/DesignerFiles/Server/SeviceAAA.ui" line="225" />
         <source>Secret</source>
-        <translation>Gizli Anahtar</translation>
+        <translation>Gizli Parola</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/SeviceAAA.ui" line="286" />
@@ -55842,7 +55842,7 @@ Kablo Türü: %6</translation>
     <message>
         <location filename="../gui/scripting/WebView.cpp" line="541" />
         <source>Custom Interface (%1) not found in file script module.</source>
-        <translation>Dosya komut dosyası modülünde Özel Arayüz (%1) bulunamadı.</translation>
+        <translation>Dosyaya özel komut dosyası modülünde Özel Arayüz (%1) bulunamadı.</translation>
     </message>
     <message>
         <location filename="../gui/scripting/WebView.cpp" line="545" />
@@ -61216,14 +61216,14 @@ Gelecekte bu etkinlikle ilgili olası sorunları önlemek için komut dosyaları
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="51" />
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="54" />
         <source>The Scripting Interface allows users to create script modules for adding new functionalities to Packet Tracer. Unlike ExApps, script modules are developed directly in Packet Tracer with no external development environment needed. Each pka/pkt file has its own file script module. The file script module is stopped once the file is closed. PT script modules are running as long as Packet Tracer is running and can be started and stopped manually. Please refer to the Scripting Interface help files for more detailed information.The typical sequence in creating a script module is as follows:</source>
-        <translation>Komut Dosyası Arayüzü, kullanıcıların Packet Tracer'a yeni işlevler eklemek için komut dosyası modülleri oluşturmasına olanak tanır. ExApps'ten farklı olarak, komut dosyası modülleri harici bir geliştirme ortamına gerek kalmadan doğrudan Packet Tracer içinde geliştirilir. Her pka/pkt dosyasının kendine ait bir dosya komut dosyası modülü vardır. Dosya kapatıldığında dosya komut dosyası modülü durdurulur. PT komut dosyası modülleri, Packet Tracer çalışır durumda olduğu sürece çalışır ve manuel olarak başlatılıp durdurulabilir. Daha ayrıntılı bilgi için lütfen Komut Dosyası Arayüzü yardım dosyalarına bakın. Bir komut dosyası modülü oluşturmanın tipik sırası şöyledir:</translation>
+        <translation>Komut Dosyası Arayüzü, kullanıcıların Packet Tracer'a yeni işlevler eklemek için komut dosyası modülleri oluşturmasına olanak tanır. ExApps'ten farklı olarak, komut dosyası modülleri harici bir geliştirme ortamına gerek kalmadan doğrudan Packet Tracer içinde geliştirilir. Her pka/pkt dosyasının kendine ait bir dosyaya özel komut dosyası modülü vardır. Dosya kapatıldığında dosyaya özel komut dosyası modülü durdurulur. PT komut dosyası modülleri, Packet Tracer çalışır durumda olduğu sürece çalışır ve manuel olarak başlatılıp durdurulabilir. Daha ayrıntılı bilgi için lütfen Komut Dosyası Arayüzü yardım dosyalarına bakın. Bir komut dosyası modülü oluşturmanın tipik sırası şöyledir:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="57" />
         <source>The Scripting Interface allows users to create script modules for adding new functionalities to Packet Tracer. Unlike ExApps, script modules are developed directly in Packet Tracer with no external development environment needed. Each pka/pkt file has its own file script module. The file script module is stopped once the file is closed. PT script modules are running as long as Packet Tracer is running and can be started and stopped manually. Please refer to the Scripting Interface help files for more detailed information.
 
 The typical sequence in creating a script module is as follows:</source>
-        <translation>Komut Dosyası Arayüzü, kullanıcıların Packet Tracer'a yeni işlevler eklemek için komut dosyası modülleri oluşturmasına olanak tanır. ExApps'ten farklı olarak, komut dosyası modülleri harici bir geliştirme ortamına gerek kalmadan doğrudan Packet Tracer içinde geliştirilir. Her pka/pkt dosyasının kendine ait bir dosya komut dosyası modülü vardır. Dosya kapatıldığında dosya komut dosyası modülü durdurulur. PT komut dosyası modülleri, Packet Tracer çalıştığı sürece çalışır ve manuel olarak başlatılıp durdurulabilir. Daha ayrıntılı bilgi için lütfen Komut Dosyası Arayüzü yardım dosyalarına bakın.
+        <translation>Komut Dosyası Arayüzü, kullanıcıların Packet Tracer'a yeni işlevler eklemek için komut dosyası modülleri oluşturmasına olanak tanır. ExApps'ten farklı olarak, komut dosyası modülleri harici bir geliştirme ortamına gerek kalmadan doğrudan Packet Tracer içinde geliştirilir. Her pka/pkt dosyasının kendine ait bir dosyaya özel komut dosyası modülü vardır. Dosya kapatıldığında dosyaya özel komut dosyası modülü durdurulur. PT komut dosyası modülleri, Packet Tracer çalıştığı sürece çalışır ve manuel olarak başlatılıp durdurulabilir. Daha ayrıntılı bilgi için lütfen Komut Dosyası Arayüzü yardım dosyalarına bakın.
 
 Bir komut dosyası modülü oluşturmanın genel sırası şöyledir:</translation>
     </message>
@@ -61314,7 +61314,7 @@ Bir komut dosyası modülü oluşturmanın genel sırası şöyledir:</translati
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="334" />
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="337" />
         <source>Save this script module to file. If this is the file script module, this button is disabled. Saving the current pkt/pka file will save the file script module changes.</source>
-        <translation>Bu komut dosyası modülünü dosyaya kaydedin. Bu, dosya komut dosyası modülüyse, bu düğme devre dışıdır. Mevcut pkt/pka dosyasını kaydetmek, dosya komut dosyası modülündeki değişiklikleri de kaydeder.</translation>
+        <translation>Bu komut dosyası modülünü dosyaya kaydedin. Bu, dosyaya özel komut dosyası modülüyse, bu düğme devre dışıdır. Mevcut pkt/pka dosyasını kaydetmek, dosyaya özel komut dosyası modülündeki değişiklikleri de kaydeder.</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="347" />
@@ -61592,7 +61592,7 @@ Bir komut dosyası modülü oluşturmanın genel sırası şöyledir:</translati
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="1094" />
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="1097" />
         <source>How does this script module start?  If this is the file script module, it will always be on opening of the file (On Startup).</source>
-        <translation>Bu komut dosyası modülü nasıl başlatılır?  Bu bir dosya komut dosyası modülüyse, her zaman dosya açıldığında (Başlangıçta) çalışır.</translation>
+        <translation>Bu komut dosyası modülü nasıl başlatılır?  Bu bir dosyaya özel komut dosyası modülüyse, her zaman dosya açıldığında (Başlangıçta) çalışır.</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="1109" />
@@ -61700,7 +61700,7 @@ Bir komut dosyası modülü oluşturmanın genel sırası şöyledir:</translati
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="1339" />
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="1342" />
         <source>Allow opening file even if security privileges are not granted. This option is only for the file script module.</source>
-        <translation>Güvenlik ayrıcalıkları verilmemiş olsa bile dosyanın açılmasına izin ver. Bu seçenek yalnızca dosya komut dosyası modülü içindir.</translation>
+        <translation>Güvenlik ayrıcalıkları verilmemiş olsa bile dosyanın açılmasına izin ver. Bu seçenek yalnızca dosyaya özel komut dosyası modülü içindir.</translation>
     </message>
 </context>
 <context>
@@ -62265,7 +62265,7 @@ Bir komut dosyası modülü oluşturmanın genel sırası şöyledir:</translati
         <location filename="../gui/DesignerFiles/WlcProfiles.ui" line="138" />
         <location filename="../gui/DesignerFiles/WlcWlans.ui" line="428" />
         <source>Shared Secret</source>
-        <translation>Paylaşılan Gizli Parola (Shared Secret)</translation>
+        <translation>Paylaşılan Gizli Parola</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcProfiles.ui" line="175" />
