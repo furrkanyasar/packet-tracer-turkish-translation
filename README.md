@@ -2,7 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Metin Sayısı](https://img.shields.io/badge/Metin_Sayısı-10.303-blue.svg)](#)
-[![Packet Tracer Sürümleri](https://img.shields.io/badge/Desteklenen_Sürümler-v7.x_|_v8.x_|_v9.x-green.svg)](#)
 
 Cisco Packet Tracer için hazırlanmış, **10.300+ arayüz ve yardım metnini kapsayan**, Qt tabanlı modern ve eksiksiz Türkçe dil paketi.
 
@@ -29,7 +28,7 @@ Packet Tracer'ın kurulu olduğu dizini aramanıza gerek kalmadan tek tıkla kur
 
 | Dosya | Açıklama |
 |---|---|
-| **`install.bat`** | Tek tıkla otomatik kurulum sihirbazı (Tüm Packet Tracer sürümleriyle uyumlu) |
+| **`install.bat`** | Tek tıkla otomatik kurulum sihirbazı |
 | **`tur.ptl`** | Packet Tracer'ın doğrudan çalıştırdığı derlenmiş Türkçe dil paketi |
 | **`tur.ts`** | Qt Linguist XML kaynak çeviri dosyası (düzenlenebilir kaynak metinler) |
 | **`GLOSSARY.md`** | Cisco ve Ağ Terminolojisi Standartları Sözlüğü |
