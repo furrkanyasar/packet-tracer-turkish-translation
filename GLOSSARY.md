@@ -1,82 +1,144 @@
-# Cisco Packet Tracer - Ağ Terimleri ve Çeviri Standartları (Glossary)
+# Cisco Packet Tracer - Ağ Terminolojisi ve Yerelleştirme Sözlüğü (Glossary)
 
-Bu belge, Cisco Packet Tracer arayüzü, diyalogları ve yardım metinlerinde Türkçe dil tutarlılığını sağlamak için kullanılan standart terminoloji sözlüğüdür.
+Bu belge; **Cisco Packet Tracer Türkçe Dil Paketi** projesinde kullanılan teknik ağ terminolojisi, yazılım arayüzü eylem standartları, protokol kuralları ve yerelleştirme kılavuzudur. 
 
----
-
-## 📌 Genel Çeviri Kuralları
-
-1. **CLI Komutları ve Çıktıları ASLA Çevrilmez:**
-   * Örnek: `show ip route`, `configure terminal`, `ping`, `traceroute`, `interface FastEthernet0/1`, `no shutdown`, `switchport mode access` doğrudan orijinal haliyle kalmalıdır.
-2. **Protokol İsimleri ve Kısaltmaları:**
-   * Protokol adları ve kısaltmaları (OSPF, EIGRP, BGP, RIP, STP, VLAN, Frame Relay, DHCP, DNS, NAT, ACL, ICMP, TCP, UDP vb.) orijinal haliyle korunur.
-3. **Değişkenler ve Parametreler:**
-   * `%1`, `%2`, `%n` gibi Qt değişkenleri değiştirilmez, sırası korunur.
-   * Türkçedeki `%100`, `%50` gibi yüzdelik ifadelerin Qt tarafından değişken sanılmaması için `% 100` veya `%%100` formatında yazılır.
-4. **Mnemonic (Kısayol) Karakterleri:**
-   * `&File` -> `&Dosya`, `&Edit` -> `&Düzenle`, `&Options` -> `&Seçenekler`.
+Çevirilerde tutarlılık sağlamak amacıyla tüm metinler bu sözlükteki standartlara göre düzenlenmiştir.
 
 ---
 
-## 📖 Temel Ağ ve Arayüz Terimler Tablosu
+## 📌 1. Temel Yerelleştirme İlkeleri
 
-| İngilizce Terim | Türkçe Karşılığı | Notlar / Örnek Kullanım |
+1. **Cisco IOS CLI Komutları ve Çıktıları ASLA Çevrilmez:**
+   * Örnek: `show ip route`, `configure terminal`, `interface FastEthernet0/1`, `no shutdown`, `switchport mode access`, `ip address`, `router ospf` doğrudan orijinal CLI formatında korunur.
+2. **Runtime Token ve Değişken Güvenliği (`[[...]]` & `%n`):**
+   * Packet Tracer motorunun çalışma zamanında aradığı `[[variablename]]`, `[[query-type]]`, `[[Name]]`, `[[PORT]]`, `[[SIZE]]`, `[[IP]]`, `[[FLAGS]]` gibi token'lar **kesinlikle çevrilmez**.
+   * `%1`, `%2` gibi Qt değişkenlerinin sırası cümle yapısına göre değişebilir ancak değişken isimleri bozulmaz.
+   * Yüzdelik ifadelerin (`%100`, `%50`) Qt tarafından değişken sanılmaması için `% 100` veya `%%100` formatı kullanılır.
+3. **Standart Eylem Ayrımı:**
+   * `Delete` ➔ **Sil** *(Kalıcı veri silme)*
+   * `Remove` ➔ **Kaldır** *(Listeden veya panelden çıkarma)*
+   * `Disconnect` ➔ **Bağlantıyı Kes** *(Eylem / Fiil)*
+   * `Disconnected` ➔ **Bağlantı Kesildi** *(Durum / Sıfat)*
+
+---
+
+## 🔀 2. Yönlendirme ve Anahtarlama (Routing & Switching)
+
+| İngilizce Terim | Türkçe Standart Karşılık | Açıklama ve Kullanım Notları |
 |---|---|---|
-| **Router** | Yönlendirici | Cihaz türü olarak |
-| **Switch** | Anahtar | Cihaz türü olarak |
-| **Hub** | Hub / Dağıtıcı | Hub olarak bırakılabilir |
-| **Access Point (AP)** | Erişim Noktası | |
-| **Default Gateway** | Varsayılan Ağ Geçidi | IP yapılandırma alanı |
-| **Subnet Mask** | Alt Ağ Maskesi | IP yapılandırma alanı |
-| **Routing / Routes** | Yönlendirme / Rotalar | "Yol" yerine "Rota" standardı |
-| **Running Config** | Çalışan Yapılandırma | `Startup Config` (Başlangıç Yapılandırması) ile uyumlu |
-| **Default Information Originate** | Varsayılan Bilgi Yayını (Default Information Originate) | OSPF varsayılan rota yayını |
-| **Accounting (AAA)** | Muhasebe (Accounting) | "Hesaplama" değil; denetim ve kayıt tutma |
-| **Frame Relay** | Frame Relay | Protokol adı korunur |
-| **Hello / Beacon Interval** | Hello / Beacon Aralığı | Paket adı korunur ("Selam" vb. yapılmaz) |
-| **Shared Secret** | Paylaşılan Gizli Parola (Shared Secret) | RADIUS / TACACS kimlik doğrulama |
-| **Rack** | Kabin (Rack) | "Raf" yerine ağ sistem kabini |
-| **Coverage Range** | Kapsama Menzili | Kablosuz ağ menzili |
-| **Broadcast** | Yayın / Genel Yayın | |
-| **Unicast** | Teke Gönderim (Unicast) | |
-| **Multicast** | Çoka Gönderim (Multicast) | |
-| **Packet** | Paket | |
-| **Frame** | Çerçeve | Veri bağlantı katmanı birimi |
-| **Payload** | Yük / Veri Yükü | |
-| **Throughput** | İş Hacmi / Verim | |
-| **Bandwidth** | Bant Genişliği | |
-| **Delay / Latency** | Gecikme | |
-| **Collision Domain** | Çarpışma Alanı | |
-| **Broadcast Domain** | Yayın Alanı | |
-| **Topology** | Topoloji | |
-| **Workspace** | Çalışma Alanı | Logical/Physical Workspace |
-| **Realtime Mode** | Gerçek Zamanlı Mod | |
-| **Simulation Mode** | Simülasyon Modu | |
-| **Event List** | Olay Listesi | Simülasyon paneli |
-| **Activity Wizard** | Etkinlik Sihirbazı | |
-| **Cluster** | Küme / Kümeleme | |
-| **Inspect** | İncele | Büyüteç aracı |
-| **Cable** | Kablo | Bağlantı türleri |
-| **Straight-Through** | Düz Kablo | Bakır kablo türü |
-| **Crossover** | Çapraz Kablo | Bakır kablo türü |
-| **Fiber** | Fiber / Fiber Optik | |
-| **Serial** | Seri | Seri kablo / Port |
-| **Console** | Konsol | Konsol kablosu / Portu |
-| **Port Forwarding** | Port Yönlendirme | |
-| **Firewall** | Güvenlik Duvarı | |
-| **Access Control List (ACL)** | Erişim Kontrol Listesi | |
-| **Routing Table** | Yönlendirme Tablosu | |
-| **MAC Address Table** | MAC Adres Tablosu | |
-| **Neighbor** | Komşu | Yönlendirme protokollerinde |
-| **Adjacency** | Bitişiklik / Komşuluk | OSPF vb. |
-| **Metric** | Metrik | Yönlendirme maliyeti |
-| **Hop Count** | Atlama Sayısı | RIP vb. |
+| **Router** | Yönlendirici | Temel ağ yönlendirme cihazı |
+| **Switch** | Anahtar | Katman 2/Katman 3 anahtarlama cihazı |
+| **Routing / Routes** | Yönlendirme / Rotalar | "Yol" yerine teknik ağ terimi olan **"Rota"** kullanılır |
+| **Routing Table** | Yönlendirme Tablosu | Cihaz üzerindeki rota tablosu |
+| **Default Route** | Varsayılan Rota | `0.0.0.0/0` rotası |
+| **Default Information Originate** | Varsayılan Bilgi Yayını (Default Information Originate) | OSPF/yönlendirme varsayılan rota yayını |
+| **Successor** | Successor | EIGRP birincil yönlendirici terimi (halef) |
+| **Feasible Successor** | Feasible Successor | EIGRP yedek yönlendirici terimi |
+| **Hello Interval** | Hello Aralığı | OSPF/EIGRP Hello paket zamanlayıcısı ("Selam" yapılmaz) |
+| **Dead Interval** | Dead Aralığı | OSPF komşuluk düşme zamanlayıcısı |
+| **VTP (VLAN Trunking Protocol)** | VTP | Protokol adı korunur |
+| **Summary / Subset Advertisement** | Özet / Alt Küme Duyurusu | VTP/yönlendirme mesajları ("İlan" yerine **"Duyuru"**) |
+| **Router Advertisement (RA)** | Yönlendirici Duyurusu | IPv6 ND/SLAAC duyurusu |
+| **Native VLAN** | Native VLAN (Yerel VLAN) | 802.1Q etiketsiz VLAN |
+| **Trunk / Trunk Port** | Trunk / Trunk Portu | Çoklu VLAN taşıyan port |
+| **Access Port** | Erişim Portu | Tek VLAN'a bağlı uç kullanıcı portu |
+| **SwitchPort** | Switch Portu (SwitchPort) | Anahtar arayüzü ayarı |
+| **Frame Relay** | Frame Relay | WAN protokol adı korunur |
+| **Spanning Tree Protocol (STP)** | Kapsayan Ağaç Protokolü (STP) | Katman 2 döngü önleme protokolü |
+| **Bridge Protocol Data Unit (BPDU)**| BPDU | STP kontrol çerçevesi |
 
 ---
 
-## 🚫 Çevrilmemesi Gerekenler (Do Not Translate)
+## 🔐 3. Güvenlik, Kimlik Doğrulama ve AAA
+
+| İngilizce Terim | Türkçe Standart Karşılık | Açıklama ve Kullanım Notları |
+|---|---|---|
+| **Enable Secret** | Enable Secret Parolası | Cisco Privileged EXEC yetkili şifreli parolası |
+| **Service Password Encryption** | Service Password Encryption (Hizmet Parolası Şifrelemesi) | Düz metin parolaları şifreleyen IOS hizmeti |
+| **Shared Secret** | Paylaşılan Gizli Parola | RADIUS/TACACS+ paylaşılan parolası |
+| **AAA (Authentication, Authorization, Accounting)** | AAA (Kimlik Doğrulama, Yetkilendirme, Muhasebe) | Cisco AAA çerçevesi |
+| **Accounting** | Muhasebe (Accounting) | Denetim ve kayıt tutma ("Hesaplama" yapılmaz) |
+| **Passphrase / Pass Phrase** | Parola İfadesi | WPA/WPA2 anahtarı veya güvenlik cümlesi |
+| **Password** | Parola | Giriş parolaları ("Şifre" kriptografi için ayrılmıştır) |
+| **Encryption / Cipher** | Şifreleme | Kriptografik veri koruma işlemi |
+| **802.1X / dot1x** | 802.1X | Port tabanlı ağ erişim kontrol standardı |
+| **Access Control List (ACL)** | Erişim Kontrol Listesi (ACL) | Paket filtreleme kuralları |
+| **Port Security** | Port Güvenliği (Port-Security) | MAC adresi sınırlandırma özelliği |
+
+---
+
+## 🌐 4. Temel Ağ Kavramları ve IP Mimarisi
+
+| İngilizce Terim | Türkçe Standart Karşılık | Açıklama ve Kullanım Notları |
+|---|---|---|
+| **Default Gateway** | Varsayılan Ağ Geçidi | Yerel ağdan dış ağa çıkış IP'si |
+| **Subnet Mask** | Alt Ağ Maskesi | IP adresini ağ ve ana bilgisayar kısmına ayıran maske |
+| **Link-Local Address** | Link-Local Adresi (Bağlantı-Yerel) | `FE80::/10` veya `169.254.0.0/16` yerel adresi |
+| **Broadcast** | Yayın / Genel Yayın | Ağdaki tüm cihazlara gönderim |
+| **Unicast** | Teke Gönderim (Unicast) | Tek bir hedefe gönderim |
+| **Multicast** | Çoka Gönderim (Multicast) | Belirli bir abone grubuna gönderim |
+| **Broadcast Storm Control** | Broadcast Storm Denetimi | Yayın fırtınası önleme mekanizması |
+| **Throughput** | İş Hacmi / Verim | Birim zamanda iletilen gerçek veri miktarı |
+| **Bandwidth** | Bant Genişliği | Hattın maksimum veri taşıma kapasitesi |
+| **Latency / Delay** | Gecikme | Verinin kaynaktan hedefe ulaşma süresi |
+| **Payload** | Veri Yükü (Payload) | Paketin taşıdığı asıl kullanıcı verisi |
+| **Hash Table** | Hash Tablosu | Bilgisayar bilimi veri yapısı ("Karma tablo" yapılmaz) |
+
+---
+
+## 🏢 5. Fiziksel Donanım, Kabin ve Kablolama
+
+| İngilizce Terim | Türkçe Standart Karşılık | Açıklama ve Kullanım Notları |
+|---|---|---|
+| **Rack** | Kabin (Rack) | Sistem cihazlarının takıldığı ağ kabini ("Raf" yapılmaz) |
+| **Shelf (Inventory Shelf)** | Envanter Rafı | Cihazların durduğu raf |
+| **Table** | Masa | Fiziksel çalışma alanındaki çalışma masası |
+| **Straight-Through Cable** | Düz Kablo | Farklı türdeki cihazları bağlayan bakır kablo |
+| **Crossover Cable** | Çapraz Kablo | Benzer cihazları bağlayan bakır kablo |
+| **Fiber Optic** | Fiber / Fiber Optik | Yüksek hızlı optik kablo |
+| **Console Cable** | Konsol Kablosu | Cihaz yönetimi için kullanılan mavi kablo |
+| **Fast Ethernet** | Fast Ethernet | 100 Mbps Ethernet port/teknolojisi |
+| **Gigabit Ethernet** | Gigabit Ethernet | 1000 Mbps Ethernet port/teknolojisi |
+| **Coverage Range** | Kapsama Menzili | Kablosuz sinyal alanı ("metre / fit") |
+| **Beacon Interval / Frequency** | Beacon Aralığı / Frekansı | AP sinyal yayma periyodu |
+
+---
+
+## 📊 6. Simülasyon, Olaylar ve PDU Paneli
+
+| İngilizce Terim | Türkçe Standart Karşılık | Açıklama ve Kullanım Notları |
+|---|---|---|
+| **PDU (Protocol Data Unit)** | PDU (Protokol Veri Birimi) | Katmanlar arası taşınan veri birimi |
+| **Capture then Forward** | Yakala ve İlet | Simülasyon paneli tek adım ilerletme eylemi |
+| **In Progress** | Devam Ediyor | Devam eden paket veya işlem durumu |
+| **Event List** | Olay Listesi | Simülasyon adım geçmişi tablosu |
+| **Inbound PDU** | Gelen PDU | Cihaza giriş yapan paket |
+| **Outbound PDU** | Giden PDU | Cihazdan çıkış yapan paket |
+
+---
+
+## 🖱️ 7. Yazılım Arayüzü (UI) Buton ve Eylem Standartları
+
+| İngilizce Terim | Türkçe Standart Karşılık | Açıklama |
+|---|---|---|
+| **Rename** | Yeniden Adlandır | Tüm diyalog ve dosya yöneticilerinde standarttır |
+| **Remove** | Kaldır | Listeden veya tablodan çıkarma |
+| **Delete** | Sil | Kalıcı olarak silme |
+| **Dialog** | İletişim Kutusu | Açılır pencere/diyalog |
+| **Scripting** | Komut Dosyası | Packet Tracer script arayüzü |
+| **Tether** | İnternet Paylaşımı | Bluetooth/mobil tethering |
+| **Untether** | İnternet Paylaşımını Sonlandır | Tethering bağlantısını kapatma |
+| **Upgrade Firmware** | Firmware'i Yükselt | Cihaz yazılımı güncelleme |
+| **Wireless Mode** | Kablosuz Modu | 802.11 b/g/n modu |
+| **Cancel** | İptal | İptal düğmesi |
+| **Save / Apply** | Kaydet / Uygula | Kaydet ve uygula düğmeleri |
+
+---
+
+## 🚫 8. Çevrilmeyecek Kalıplar (Do Not Translate)
 
 * **CLI Komutları:** `enable`, `disable`, `exit`, `end`, `write memory`, `reload`, `debug ...`
 * **Port İsimleri:** `FastEthernet0/0`, `GigabitEthernet0/0/0`, `Serial0/1/0`, `Vlan1`
 * **Dosya Uzantıları:** `.pkt`, `.pka`, `.pkz`, `.pts`, `.ptl`
-* **Kalıplaşmış Kısaltmalar:** `PDU`, `CLI`, `GUI`, `IOS`, `NVRAM`, `RAM`, `ROM`, `TFTP`, `FTP`, `SSH`, `Telnet`, `Frame Relay`, `Easy VPN`
+* **Tescilli İsimler ve Kısaltmalar:** `Cisco`, `Packet Tracer`, `Easy VPN`, `Frame Relay`, `IOS`, `NVRAM`, `TFTP`, `FTP`, `SSH`, `Telnet`
+* **Runtime Değişkenleri:** `[[variablename]]`, `[[query-type]]`, `[[Name]]`, `[[PORT]]`, `[[SIZE]]`, `%1`, `%2`, `%n`
