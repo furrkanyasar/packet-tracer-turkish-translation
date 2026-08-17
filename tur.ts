@@ -487,7 +487,7 @@ Daha ayrıntılı bilgi için lütfen Etkinlik Sihirbazı yardım dosyalarına b
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="290" />
         <source>Scripting</source>
-        <translation>Komut Dosyası Oluşturma</translation>
+        <translation>Komut Dosyası (Scripting)</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="321" />
@@ -4760,7 +4760,7 @@ Yazar: Michael Wang
     <message>
         <location filename="../gui/DesignerFiles/scripting/BaseDebugDialog.ui" line="14" />
         <source>Dialog</source>
-        <translation>İletişim kutusu</translation>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/scripting/BaseDebugDialog.ui" line="62" />
@@ -6396,7 +6396,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstatonMailConfiguration.ui" line="316" />
         <source>Remove</source>
-        <translation>Sil</translation>
+        <translation>Kaldır</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstatonMailConfiguration.ui" line="367" />
@@ -11531,7 +11531,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="8354" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12417" />
         <source>Enable Secret</source>
-        <translation>Enable Secret Parolası</translation>
+        <translation>Enable Secret</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="8396" />
@@ -12279,7 +12279,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="13510" />
         <source>Pass Phrase</source>
-        <translation>Parola</translation>
+        <translation>Parola İfadesi</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="13524" />
@@ -14400,7 +14400,7 @@ Bağlantı Noktası</translation>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="59" />
         <source>Rename</source>
-        <translation>Adını değiştir</translation>
+        <translation>Yeniden Adlandır</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="66" />
@@ -20006,7 +20006,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="14" />
         <source>Dialog</source>
-        <translation>Diyalog</translation>
+        <translation>İletişim Kutusu</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="329" />
@@ -23906,7 +23906,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1807" />
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="1810" />
         <source>Passphrase:</source>
-        <translation>Parola:</translation>
+        <translation>Parola İfadesi:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurity.ui" line="578" />
@@ -24102,7 +24102,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1398" />
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="1401" />
         <source>Passphrase:</source>
-        <translation>Parola:</translation>
+        <translation>Parola İfadesi:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityForm.ui" line="304" />
@@ -27486,7 +27486,7 @@ damgası</translation>
     <message>
         <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="368" />
         <source>Successors</source>
-        <translation>Successor (Halefler)</translation>
+        <translation>Successor</translation>
     </message>
     <message>
         <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="369" />
@@ -27786,7 +27786,7 @@ Adresi</translation>
         <location filename="../gui/DeviceConfig/Router/DhcpReservation.cpp" line="254" />
         <location filename="../gui/DeviceConfig/Router/DhcpReservation.cpp" line="361" />
         <source>Remove</source>
-        <translation>Sil</translation>
+        <translation>Kaldır</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/DhcpReservation.cpp" line="179" />
@@ -28396,7 +28396,7 @@ ve önceki tüm ayarlar silinecektir.</translation>
     <message>
         <location filename="../gui/FileTreeView.cpp" line="190" />
         <source>Upgrade Firmware</source>
-        <translation>Yazılımı Yükselt</translation>
+        <translation>Firmware'i Yükselt</translation>
     </message>
 </context>
 <context>
@@ -33764,7 +33764,7 @@ Lütfen farklı bir bağlantı noktası kullanmayı deneyin.</translation>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="1201" />
         <source>Pass Phrase</source>
-        <translation>Parola</translation>
+        <translation>Parola İfadesi</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="1202" />
@@ -34446,7 +34446,7 @@ Lütfen farklı bir bağlantı noktası kullanmayı deneyin.</translation>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="90" />
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="218" />
         <source>Wireless Mode</source>
-        <translation>Kablosuz Mod</translation>
+        <translation>Kablosuz Modu</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="91" />
@@ -34752,7 +34752,7 @@ Lütfen farklı bir bağlantı noktası kullanmayı deneyin.</translation>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessProfiles.cpp" line="129" />
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessProfiles.cpp" line="229" />
         <source>Wireless Mode</source>
-        <translation>Kablosuz Mod</translation>
+        <translation>Kablosuz Modu</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessProfiles.cpp" line="130" />
@@ -39423,7 +39423,7 @@ Desteklenen dosya uzantıları: .html .htm .php .css .js</translation>
         <location filename="../gui/DesignerFiles/Server/ServiceDhcpv6.ui" line="999" />
         <location filename="../gui/DesignerFiles/Server/ServiceDhcpv6.ui" line="1002" />
         <source>Remove</source>
-        <translation>Sil</translation>
+        <translation>Kaldır</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceDhcpv6.ui" line="872" />
@@ -42631,7 +42631,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="642" />
         <source>Enable Secret</source>
-        <translation>Enable Secret Parolası</translation>
+        <translation>Enable Secret</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="643" />
@@ -47983,7 +47983,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2611" />
         <source>Pass Phrase</source>
-        <translation>Parola Cümlesi</translation>
+        <translation>Parola İfadesi</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2613" />
@@ -49431,7 +49431,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2769" />
         <source>Update Calendar</source>
-        <translation>Takvimi güncelle</translation>
+        <translation>Güncelleme Takvimi</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2770" />
@@ -56752,7 +56752,7 @@ End the expression with: ")</source>
         <location filename="../gui/MainWindow/WorkspaceList.cpp" line="791" />
         <location filename="../gui/MainWindow/WorkspaceList.cpp" line="865" />
         <source>Remove</source>
-        <translation>Çıkar</translation>
+        <translation>Kaldır</translation>
     </message>
     <message>
         <location filename="../gui/MainWindow/WorkspaceList.cpp" line="878" />
@@ -61143,7 +61143,7 @@ Gelecekte bu etkinlikle ilgili olası sorunları önlemek için komut dosyaları
     <message>
         <location filename="../gui/DesignerFiles/scripting/ScriptEditor.ui" line="120" />
         <source>Rename</source>
-        <translation>Adını Değiştir</translation>
+        <translation>Yeniden Adlandır</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/scripting/ScriptEditor.ui" line="140" />
