@@ -6522,13 +6522,13 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DeviceConfig/AccessPoint/APDialog.cpp" line="115" />
         <location filename="../gui/DeviceConfig/AccessPoint/APDialog.cpp" line="192" />
         <source>Coverage Range (meters)</source>
-        <translation>Kapsama Aralığı (metre)</translation>
+        <translation>Kapsama Menzili (metre)</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/AccessPoint/APDialog.cpp" line="120" />
         <location filename="../gui/DeviceConfig/AccessPoint/APDialog.cpp" line="197" />
         <source>Coverage Range (feet)</source>
-        <translation>Kapsama Aralığı (fit)</translation>
+        <translation>Kapsama Menzili (fit)</translation>
     </message>
 </context>
 <context>
@@ -9908,7 +9908,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="4434" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11073" />
         <source>Trap Debug</source>
-        <translation>Tuzak Hata Ayıklama</translation>
+        <translation>Trap Hata Ayıklama (Trap Debug)</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="4448" />
@@ -20578,7 +20578,7 @@ Hedef:</translation>
         <location filename="../gui/DesignerFiles/Switches/BasePhysicalToolbar.ui" line="299" />
         <location filename="../gui/DesignerFiles/Switches/BasePhysicalToolbar.ui" line="302" />
         <source>Create New Rack</source>
-        <translation>Yeni Raf Oluştur</translation>
+        <translation>Yeni Kabin (Rack) Oluştur</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Switches/BasePhysicalToolbar.ui" line="65" />
@@ -25102,7 +25102,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="436" />
         <source>Coverage Range (meters)</source>
-        <translation>Kapsama Alanı (metre)</translation>
+        <translation>Kapsama Menzili (metre)</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="462" />
@@ -31190,12 +31190,12 @@ etkinliği sıfırlamak istiyor musunuz?</translation>
     <message>
         <location filename="../gui/DeviceConfig/CiscoWireless/LightWeightAPDialog.cpp" line="181" />
         <source>Coverage Range (meters)</source>
-        <translation>Kapsama Aralığı (metre)</translation>
+        <translation>Kapsama Menzili (metre)</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/CiscoWireless/LightWeightAPDialog.cpp" line="186" />
         <source>Coverage Range (feet)</source>
-        <translation>Kapsama Aralığı (fit)</translation>
+        <translation>Kapsama Menzili (fit)</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/CiscoWireless/LightWeightAPDialog.cpp" line="239" />
@@ -32547,7 +32547,7 @@ etkinliği sıfırlamak istiyor musunuz?</translation>
     <message>
         <location filename="../gui/Workspace/LogicalClustersListView.cpp" line="349" />
         <source>Moving Rack is not allowed</source>
-        <translation>Rafın taşınmasına izin verilmiyor</translation>
+        <translation>Kabinin taşınmasına izin verilmiyor</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/LogicalClustersListView.cpp" line="356" />
@@ -32683,7 +32683,7 @@ etkinliği sıfırlamak istiyor musunuz?</translation>
         <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="2917" />
         <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="3079" />
         <source>Devices on the inventory shelf cannot be connected. Please move it to a rack or table first.</source>
-        <translation>Envanter rafındaki cihazlar bağlanamaz. Lütfen önce bir rafa veya masaya taşıyın.</translation>
+        <translation>Envanter rafındaki cihazlar bağlanamaz. Lütfen önce bir kabine veya masaya taşıyın.</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="4128" />
@@ -32989,7 +32989,7 @@ etkinliği sıfırlamak istiyor musunuz?</translation>
     <message>
         <location filename="../gui/DeviceConfig/Physical/ModuleTarget.cpp" line="689" />
         <source>Devices on the inventory shelf cannot be powered on. Please move it to a rack or table first.</source>
-        <translation>Envanter rafındaki cihazların gücü açılamaz. Lütfen önce bir rafa veya masaya taşıyın.</translation>
+        <translation>Envanter rafındaki cihazların gücü açılamaz. Lütfen önce bir kabine veya masaya taşıyın.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Physical/ModuleTarget.cpp" line="689" />
@@ -36086,7 +36086,7 @@ Kablo Türü: %6</translation>
     <message>
         <location filename="../gui/Workspace/PhysicalLocationDialog.cpp" line="110" />
         <source>Rack</source>
-        <translation>Raf</translation>
+        <translation>Kabin (Rack)</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/PhysicalLocationDialog.cpp" line="111" />
@@ -36174,12 +36174,12 @@ Kablo Türü: %6</translation>
     <message>
         <location filename="../gui/Workspace/PhysicalLocationListView.cpp" line="342" />
         <source> is only allowed via drag and drop within its rack.</source>
-        <translation>yalnızca kendi kabini/rafı içinde sürükle-bırak ile taşınabilir.</translation>
+        <translation>yalnızca kendi kabini içinde sürükle-bırak ile taşınabilir.</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/PhysicalLocationListView.cpp" line="354" />
         <source>Moving Rack is not allowed</source>
-        <translation>Rafın taşınması yasaktır</translation>
+        <translation>Kabinin taşınması yasaktır</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/PhysicalLocationListView.cpp" line="361" />
@@ -36237,7 +36237,7 @@ Kablo Türü: %6</translation>
     <message>
         <location filename="../gui/switches/PhysicalToolbar.cpp" line="742" />
         <source>New Rack</source>
-        <translation>Yeni Raf</translation>
+        <translation>Yeni Kabin (Rack)</translation>
     </message>
     <message>
         <location filename="../gui/switches/PhysicalToolbar.cpp" line="753" />
@@ -36872,7 +36872,7 @@ Bluetooth Tether AP: %1
     <message>
         <location filename="../gui/Workspace/Physical/RackView/Rack.cpp" line="429" />
         <source>%1 is not rack mountable.</source>
-        <translation>%1, rafa monte edilemez.</translation>
+        <translation>%1, kabine monte edilemez.</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/RackView/Rack.cpp" line="544" />
@@ -36882,7 +36882,7 @@ Bluetooth Tether AP: %1
     <message>
         <location filename="../gui/Workspace/Physical/RackView/Rack.cpp" line="1027" />
         <source>Removing the rack will also delete all the devices. Continue?</source>
-        <translation>Rafı kaldırmak, tüm cihazları da silecektir. Devam etmek istiyor musunuz?</translation>
+        <translation>Kabini kaldırmak tüm cihazları da silecektir. Devam etmek istiyor musunuz?</translation>
     </message>
 </context>
 <context>
@@ -42641,7 +42641,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="644" />
         <source>Trap Debug</source>
-        <translation>Hata Ayıklama Tuzağı</translation>
+        <translation>Trap Hata Ayıklama (Trap Debug)</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="645" />
@@ -44938,7 +44938,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="630" />
         <source>Running Configuration</source>
-        <translation>Çalışma Yapılandırması</translation>
+        <translation>Çalışan Yapılandırma (Running Config)</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="631" />
@@ -45771,7 +45771,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1538" />
         <source>Fewer than FOREIGN_MASTER_THRESHOLD(2) nonidentical Announce messages from the advertised clock have been received within the most recent FOREIGN_MASTER_TIME_WINDOW(4) interval. The process disqualifies this announce.</source>
-        <translation>En son FOREIGN_MASTER_TIME_WINDOW(4) aralığı içinde, ilan edilen saatten FOREIGN_MASTER_THRESHOLD(2) değerinden daha az sayıda farklı Announce mesajı alınmıştır. İşlem bu duyuruyu geçersiz kılar.</translation>
+        <translation>En son FOREIGN_MASTER_TIME_WINDOW(4) aralığı içinde, duyurulan saatten FOREIGN_MASTER_THRESHOLD(2) değerinden daha az sayıda farklı Announce mesajı alınmıştır. İşlem bu duyuruyu geçersiz kılar.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1539" />
@@ -46478,7 +46478,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1861" />
         <source>The config revision in the Summary Advertisement is lower than the local config revision. The VTP process sends a Summary Advertisement containing the higher config revision.</source>
-        <translation>Özet Duyurusundaki yapılandırma revizyonu, yerel yapılandırma revizyonundan daha düşüktür. VTP işlemi, daha yüksek yapılandırma revizyonunu içeren bir Özet İlan gönderir.</translation>
+        <translation>Özet Duyurusundaki yapılandırma revizyonu, yerel yapılandırma revizyonundan daha düşüktür. VTP işlemi, daha yüksek yapılandırma revizyonunu içeren bir Özet Duyuru gönderir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1862" />
@@ -47074,12 +47074,12 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2677" />
         <source>Trap Receivers</source>
-        <translation>Tuzak Alıcıları</translation>
+        <translation>Trap Alıcıları</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2678" />
         <source>Trap Receiver</source>
-        <translation>Tuzak Alıcısı</translation>
+        <translation>Trap Alıcısı</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2679" />
@@ -47094,7 +47094,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2684" />
         <source>SNMP Trap Controls</source>
-        <translation>SNMP Tuzak Denetimleri</translation>
+        <translation>SNMP Trap Denetimleri</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2685" />
@@ -47988,7 +47988,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2613" />
         <source>Coverage Range</source>
-        <translation>Kapsama Aralığı</translation>
+        <translation>Kapsama Menzili</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2671" />
@@ -48284,7 +48284,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2190" />
         <source>Rack</source>
-        <translation>Raf</translation>
+        <translation>Kabin (Rack)</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2196" />
@@ -54215,12 +54215,12 @@ FTP sunucusu, dosyanın var olup olmadığını kontrol eder ve yeniden adlandı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3237" />
         <source>The true/false value to be placed into the 'managed address configuration' flag field in Router advertisements sent from this interface.</source>
-        <translation>Bu arayüzden gönderilen Yönlendirici ilanlarındaki 'yönetilen adres yapılandırması' bayrak alanına yerleştirilecek true/false değeri.</translation>
+        <translation>Bu arayüzden gönderilen Yönlendirici duyurularındaki 'yönetilen adres yapılandırması' bayrak alanına yerleştirilecek true/false değeri.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3238" />
         <source>The true/false value to be placed into the 'other stateful configuration' flag field in Router advertisements sent from this interface.</source>
-        <translation>Bu arayüzden gönderilen Yönlendirici ilanlarındaki 'diğer durum bilgisi içeren yapılandırma' bayrak alanına yerleştirilecek true/false değeri.</translation>
+        <translation>Bu arayüzden gönderilen Yönlendirici duyurularındaki 'diğer durum bilgisi içeren yapılandırma' bayrak alanına yerleştirilecek true/false değeri.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3239" />
@@ -54235,12 +54235,12 @@ FTP sunucusu, dosyanın var olup olmadığını kontrol eder ve yeniden adlandı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3241" />
         <source>The value to be placed in the retransmit timer field in Router advertisements sent from this interface. A value of zero in the router advertisement indicates that the advertisement isn't specifying a value for retrans time.</source>
-        <translation>Bu arayüzden gönderilen yönlendirici duyurularında (Router Advertisements) "yeniden iletim zamanlayıcısı" alanına yerleştirilecek değer. Yönlendirici ilanında sıfır değeri, ilanın yeniden iletim süresi için bir değer belirtmediğini gösterir.</translation>
+        <translation>Bu arayüzden gönderilen yönlendirici duyurularında (Router Advertisements) "yeniden iletim zamanlayıcısı" alanına yerleştirilecek değer. Yönlendirici duyurusunda sıfır değeri, duyurunun yeniden iletim süresi için bir değer belirtmediğini gösterir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3242" />
         <source>The default value to be placed in the current hop limit field in Router advertisements sent from this interface. The value should be set to the current diameter of the Internet. A value of zero in the router advertisement indicates that the advertisement isn't specifying a value for curHopLimit. The default should be set to the value specified in the IANA web pages (www.iana.org) at the time of implementation.</source>
-        <translation>Bu arayüzden gönderilen yönlendirici duyurularında (Router Advertisements) "mevcut atlama sınırı" alanına yerleştirilecek varsayılan değer. Bu değer, İnternet'in o andaki çapına ayarlanmalıdır. Yönlendirici ilanında sıfır değeri, ilanın curHopLimit için bir değer belirtmediğini gösterir. Varsayılan değer, uygulama sırasında IANA web sayfalarında (www.iana.org) belirtilen değere ayarlanmalıdır.</translation>
+        <translation>Bu arayüzden gönderilen yönlendirici duyurularında (Router Advertisements) "mevcut atlama sınırı" alanına yerleştirilecek varsayılan değer. Bu değer, İnternet'in o andaki çapına ayarlanmalıdır. Yönlendirici duyurusunda sıfır değeri, duyurunun curHopLimit için bir değer belirtmediğini gösterir. Varsayılan değer, uygulama sırasında IANA web sayfalarında (www.iana.org) belirtilen değere ayarlanmalıdır.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3243" />
@@ -55089,7 +55089,7 @@ FTP sunucusu, dosyanın var olup olmadığını kontrol eder ve yeniden adlandı
         <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="344" />
         <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="350" />
         <source>Running Config</source>
-        <translation>Çalışma Yapılandırması</translation>
+        <translation>Çalışan Yapılandırma</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="369" />
@@ -55118,7 +55118,7 @@ FTP sunucusu, dosyanın var olup olmadığını kontrol eder ve yeniden adlandı
         <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="422" />
         <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="428" />
         <source>Display Name</source>
-        <translation>Adı Göster</translation>
+        <translation>Görünen Ad</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="450" />
@@ -55163,12 +55163,12 @@ FTP sunucusu, dosyanın var olup olmadığını kontrol eder ve yeniden adlandı
     <message>
         <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="591" />
         <source>Save Running Configuration to NVRAM</source>
-        <translation>Çalışan Yapılandırmayı NVRAM'a Kaydet</translation>
+        <translation>Çalışan Yapılandırmayı NVRAM'e Kaydet</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="594" />
         <source>Save Running config to NVRAM</source>
-        <translation>Çalışan yapılandırmayı NVRAM'a kaydet</translation>
+        <translation>Çalışan yapılandırmayı NVRAM'e kaydet</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="600" />
@@ -56574,12 +56574,12 @@ End the expression with: ")</source>
         <location filename="../gui/Workspace/Workspace.cpp" line="2790" />
         <location filename="../gui/Workspace/Workspace.cpp" line="4960" />
         <source>Rack</source>
-        <translation>Raf</translation>
+        <translation>Kabin (Rack)</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Workspace.cpp" line="1186" />
         <source> is only allowed via drag and drop within its rack.</source>
-        <translation>yalnızca kendi kabini/rafı içinde sürükle-bırak ile taşınabilir.</translation>
+        <translation>yalnızca kendi kabini içinde sürükle-bırak ile taşınabilir.</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Workspace.cpp" line="2628" />
@@ -56624,22 +56624,22 @@ End the expression with: ")</source>
     <message>
         <location filename="../gui/MainWindow/WorkspaceList.cpp" line="173" />
         <source>Origination Port</source>
-        <translation>Kaynak Limanı</translation>
+        <translation>Kaynak Bağlantı Noktası (Port)</translation>
     </message>
     <message>
         <location filename="../gui/MainWindow/WorkspaceList.cpp" line="174" />
         <source>Origination Port Status</source>
-        <translation>Kaynak Liman Durumu</translation>
+        <translation>Kaynak Bağlantı Noktası Durumu</translation>
     </message>
     <message>
         <location filename="../gui/MainWindow/WorkspaceList.cpp" line="175" />
         <source>Destination Port</source>
-        <translation>Hedef Liman</translation>
+        <translation>Hedef Bağlantı Noktası (Port)</translation>
     </message>
     <message>
         <location filename="../gui/MainWindow/WorkspaceList.cpp" line="176" />
         <source>Destination Port Status</source>
-        <translation>Hedef Liman Durumu</translation>
+        <translation>Hedef Bağlantı Noktası Durumu</translation>
     </message>
     <message>
         <location filename="../gui/MainWindow/WorkspaceList.cpp" line="222" />
@@ -56888,7 +56888,7 @@ End the expression with: ")</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationBluetooth.cpp" line="87" />
         <source>Coverage Range (meters)</source>
-        <translation>Kapsama Aralığı (metre)</translation>
+        <translation>Kapsama Menzili (metre)</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationBluetooth.cpp" line="92" />
@@ -62520,7 +62520,7 @@ Bir komut dosyası modülü oluşturmanın genel sırası şöyledir:</translati
     <message>
         <location filename="../gui/Workspace/Physical/RackView/RackAccessible.cpp" line="114" />
         <source>Rack cabinet bay </source>
-        <translation>Raf dolabı bölmesi</translation>
+        <translation>Kabin dolabı bölmesi</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/RackView/RackAccessible.cpp" line="116" />
@@ -62547,7 +62547,7 @@ Bir komut dosyası modülü oluşturmanın genel sırası şöyledir:</translati
     <message>
         <location filename="../gui/Workspace/Physical/RackView/RackAccessible.cpp" line="253" />
         <source>Rack cabinets house routers, switches and other network devices.</source>
-        <translation>Raf dolapları, yönlendiricileri, anahtarları ve diğer ağ cihazlarını barındırır.</translation>
+        <translation>Sistem kabinleri, yönlendiricileri, anahtarları ve diğer ağ cihazlarını barındırır.</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/RackView/RackAccessible.cpp" line="297" />
