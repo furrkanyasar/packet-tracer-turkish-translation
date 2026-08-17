@@ -48,7 +48,7 @@
     <message>
         <location filename="../engine/activity/CAssessmentModelScriptInterface.cpp" line="392" />
         <source>In Progress</source>
-        <translation>İşlemde</translation>
+        <translation>Devam Ediyor</translation>
     </message>
     <message>
         <location filename="../engine/activity/CAssessmentModelScriptInterface.cpp" line="395" />
@@ -487,7 +487,7 @@ Daha ayrıntılı bilgi için lütfen Etkinlik Sihirbazı yardım dosyalarına b
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="290" />
         <source>Scripting</source>
-        <translation>Komut Dosyası (Scripting)</translation>
+        <translation>Komut Dosyası</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="321" />
@@ -4657,7 +4657,7 @@ Yazar: Michael Wang
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseCableViewPopWidget.ui" line="150" />
         <source>SrcDevice &gt; SrcPort</source>
-        <translation>Kaynak Aygıt &gt; Kaynak Bağlantı Noktası</translation>
+        <translation>Kaynak Cihaz &gt; Kaynak Bağlantı Noktası</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseCableViewPopWidget.ui" line="236" />
@@ -5289,7 +5289,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1781" />
         <source>Radius Shared Secret</source>
-        <translation>RADIUS Ortak Gizli Anahtarı</translation>
+        <translation>RADIUS Paylaşılan Gizli Parolası</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1823" />
@@ -5521,7 +5521,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1169" />
         <source>Devices</source>
-        <translation>Aygıtlar</translation>
+        <translation>Cihazlar</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1196" />
@@ -8301,7 +8301,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3304" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3307" />
         <source>Show Device Dialog Taskbar</source>
-        <translation>Aygıt İletişim Kutusu Görev Çubuğunu Göster</translation>
+        <translation>Cihaz İletişim Kutusu Görev Çubuğunu Göster</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="2621" />
@@ -8315,14 +8315,14 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="129" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="132" />
         <source>Show Device Model Labels</source>
-        <translation>Aygıt Modeli Etiketlerini Göster</translation>
+        <translation>Cihaz Modeli Etiketlerini Göster</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="142" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="145" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="148" />
         <source>Show Device Name Labels</source>
-        <translation>Aygıt Adı Etiketlerini Göster</translation>
+        <translation>Cihaz Adı Etiketlerini Göster</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="158" />
@@ -8366,7 +8366,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="301" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="304" />
         <source>Use CLI as Device Default Tab</source>
-        <translation>Aygıt Varsayılan Sekmesi Olarak CLI'yi Kullan</translation>
+        <translation>Cihaz Varsayılan Sekmesi Olarak CLI'yi Kullan</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="314" />
@@ -8420,7 +8420,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="1112" />
         <source>Hide the Physical tab on device dialogs.</source>
-        <translation>Aygıt iletişim kutularında Fiziksel sekmesini gizle.</translation>
+        <translation>Cihaz iletişim kutularında Fiziksel sekmesini gizle.</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="1115" />
@@ -8432,7 +8432,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="1131" />
         <source>Hide the Config tab on device dialogs.</source>
-        <translation>Aygıt iletişim kutularındaki Yapılandırma sekmesini gizle.</translation>
+        <translation>Cihaz iletişim kutularındaki Yapılandırma sekmesini gizle.</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="1134" />
@@ -8444,7 +8444,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="1150" />
         <source>Hide the CLI tab on device dialogs.</source>
-        <translation>Aygıt iletişim kutularındaki CLI sekmesini gizle.</translation>
+        <translation>Cihaz iletişim kutularındaki CLI sekmesini gizle.</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="1153" />
@@ -8470,7 +8470,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="1195" />
         <source>Hide the Services tab on device dialogs.</source>
-        <translation>Aygıt iletişim kutularındaki Hizmetler sekmesini gizle.</translation>
+        <translation>Cihaz iletişim kutularındaki Hizmetler sekmesini gizle.</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="1198" />
@@ -9176,7 +9176,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3332" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3335" />
         <source>Enable External Network Access from All Script Modules and Device Scripts</source>
-        <translation>Tüm Komut Dosyası Modülleri ve Aygıt Komut Dosyalarından Harici Ağ Erişimini Etkinleştir</translation>
+        <translation>Tüm Komut Dosyası Modülleri ve Cihaz Komut Dosyalarından Harici Ağ Erişimini Etkinleştir</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3342" />
@@ -10753,7 +10753,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11772" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14057" />
         <source>Duplex</source>
-        <translation>Dubleks</translation>
+        <translation>Çift Yönlü (Duplex)</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="6547" />
@@ -11787,7 +11787,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="9120" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14922" />
         <source>Subnet mask</source>
-        <translation>Alt ağ maskesi</translation>
+        <translation>Alt Ağ Maskesi</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="8868" />
@@ -11920,14 +11920,14 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12795" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="15052" />
         <source>Device Type</source>
-        <translation>Aygıt Türü</translation>
+        <translation>Cihaz Türü</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="9446" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12809" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="15066" />
         <source>Device Model</source>
-        <translation>Aygıt Modeli</translation>
+        <translation>Cihaz Modeli</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="9460" />
@@ -11939,7 +11939,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12837" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="15108" />
         <source>Custom Device Properties</source>
-        <translation>Özel Aygıt Özellikleri</translation>
+        <translation>Özel Cihaz Özellikleri</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="9488" />
@@ -12601,7 +12601,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="15205" />
         <source>Beacon Frequency</source>
-        <translation>İşaret Sıklığı</translation>
+        <translation>Beacon Frekansı</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="15219" />
@@ -13028,7 +13028,7 @@ Bağlantı Noktası</translation>
         <location filename="../gui/AppWindow.cpp" line="937" />
         <location filename="../gui/AppWindow.cpp" line="1995" />
         <source>Custom Devices Dialog</source>
-        <translation>Özel Aygıtlar İletişim Kutusu</translation>
+        <translation>Özel Cihazlar İletişim Kutusu</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="737" />
@@ -16649,7 +16649,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/BaseCommandLogListView.ui" line="46" />
         <source>Device</source>
-        <translation>Aygıt</translation>
+        <translation>Cihaz</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseCommandLogListView.ui" line="51" />
@@ -17032,7 +17032,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="103" />
         <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="106" />
         <source>To create a Template Device, press the "Select" button and then select a device from the workspace.</source>
-        <translation>Bir Şablon Aygıt oluşturmak için "Seç" düğmesine basın ve ardından çalışma alanından bir aygıt seçin.</translation>
+        <translation>Bir Şablon Cihaz oluşturmak için "Seç" düğmesine basın ve ardından çalışma alanından bir cihaz seçin.</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="122" />
@@ -17049,7 +17049,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="155" />
         <source>Device Template</source>
-        <translation>Aygıt Şablonu</translation>
+        <translation>Cihaz Şablonu</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceTemplateManager.ui" line="185" />
@@ -17310,7 +17310,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="361" />
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="542" />
         <source>Physical Device View</source>
-        <translation>Fiziksel Aygıt Görünümü</translation>
+        <translation>Fiziksel Cihaz Görünümü</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="441" />
@@ -17336,7 +17336,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="567" />
         <source>Customize Device Image in Physical View</source>
-        <translation>Fiziksel Görünümde Aygıt Görüntüsünü Özelleştir</translation>
+        <translation>Fiziksel Görünümde Cihaz Görüntüsünü Özelleştir</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="570" />
@@ -18937,14 +18937,14 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorPreferencesDlg.ui" line="35" />
         <source>Device Name</source>
-        <translation>Aygıt Adı</translation>
+        <translation>Cihaz Adı</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorPreferencesDlg.ui" line="47" />
         <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorPreferencesDlg.ui" line="50" />
         <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorPreferencesDlg.ui" line="53" />
         <source>Use Network Adapter to generate Device Name</source>
-        <translation>Aygıt Adını oluşturmak için Ağ Bağdaştırıcısını kullan</translation>
+        <translation>Cihaz Adını oluşturmak için Ağ Bağdaştırıcısını kullan</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorPreferencesDlg.ui" line="69" />
@@ -18963,7 +18963,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorPreferencesDlg.ui" line="106" />
         <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorPreferencesDlg.ui" line="109" />
         <source>Device Name:</source>
-        <translation>Aygıt Adı:</translation>
+        <translation>Cihaz Adı:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorPreferencesDlg.ui" line="122" />
@@ -18977,7 +18977,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorPreferencesDlg.ui" line="144" />
         <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorPreferencesDlg.ui" line="147" />
         <source>Use this Device Name</source>
-        <translation>Bu Aygıt Adını Kullan</translation>
+        <translation>Bu Cihaz Adını Kullan</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorPreferencesDlg.ui" line="165" />
@@ -21749,7 +21749,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2375" />
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2378" />
         <source>Subnet Mask:</source>
-        <translation>Alt ağ maskesi:</translation>
+        <translation>Alt Ağ Maskesi:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1127" />
@@ -25142,12 +25142,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="565" />
         <source>Tether</source>
-        <translation>Bağla</translation>
+        <translation>İnternet Paylaşımı</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="572" />
         <source>Untether</source>
-        <translation>Bağlantıyı kes</translation>
+        <translation>İnternet Paylaşımını Sonlandır</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="584" />
@@ -26262,7 +26262,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/scripting/CConfigCustomInterfaces.cpp" line="52" />
         <source>New Devices</source>
-        <translation>Yeni Aygıtlar</translation>
+        <translation>Yeni Cihazlar</translation>
     </message>
     <message>
         <location filename="../gui/scripting/CConfigCustomInterfaces.cpp" line="106" />
@@ -27205,13 +27205,13 @@ Publisher Certificate Information:
     <message>
         <location filename="../gui/NetworkComponentBox/DeviceSpecificBox.cpp" line="74" />
         <source>List of device models</source>
-        <translation>Aygıt modelleri listesi</translation>
+        <translation>Cihaz modelleri listesi</translation>
     </message>
     <message>
         <location filename="../gui/NetworkComponentBox/DeviceSpecificBox.cpp" line="81" />
         <location filename="../gui/NetworkComponentBox/DeviceSpecificBox.cpp" line="586" />
         <source> (Select a Device to Drag and Drop to the Workspace) </source>
-        <translation>(Çalışma Alanına Sürükleyip Bırakmak için Bir Aygıt Seçin)</translation>
+        <translation>(Çalışma Alanına Sürükleyip Bırakmak için Bir Cihaz Seçin)</translation>
     </message>
     <message>
         <location filename="../gui/NetworkComponentBox/DeviceSpecificBox.cpp" line="244" />
@@ -27536,7 +27536,7 @@ damgası</translation>
     <message>
         <location filename="../gui/DeviceTable/DeviceTableImpl.h" line="44" />
         <source>Device Table</source>
-        <translation>Aygıt Tablosu</translation>
+        <translation>Cihaz Tablosu</translation>
     </message>
     <message>
         <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="401" />
@@ -27554,7 +27554,7 @@ damgası</translation>
     <message>
         <location filename="../gui/DesignerFiles/DeviceTableBase.ui" line="25" />
         <source> Device Table</source>
-        <translation>Aygıt Tablosu</translation>
+        <translation>Cihaz Tablosu</translation>
     </message>
 </context>
 <context>
@@ -27567,7 +27567,7 @@ damgası</translation>
     <message>
         <location filename="../gui/Workspace/Logical/DeviceTemplateManager.cpp" line="554" />
         <source> Custom Device Template File (*.ptd)</source>
-        <translation>Özel Aygıt Şablon Dosyası (*.ptd)</translation>
+        <translation>Özel Cihaz Şablon Dosyası (*.ptd)</translation>
     </message>
 </context>
 <context>
@@ -27575,7 +27575,7 @@ damgası</translation>
     <message>
         <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="62" />
         <source>List of device categories</source>
-        <translation>Aygıt kategorileri listesi</translation>
+        <translation>Cihaz kategorileri listesi</translation>
     </message>
     <message>
         <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="176" />
@@ -28808,7 +28808,7 @@ ve önceki tüm ayarlar silinecektir.</translation>
     <message>
         <location filename="../gui/Workspace/Physical/GeoIconLabel.cpp" line="94" />
         <source>Duplicate device names are not allowed.</source>
-        <translation>Aygıt adlarının tekrarlanmasına izin verilmez.</translation>
+        <translation>Cihaz adlarının tekrarlanmasına izin verilmez.</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoIconLabel.cpp" line="94" />
@@ -31578,7 +31578,7 @@ etkinliği sıfırlamak istiyor musunuz?</translation>
     <message>
         <location filename="../gui/activity/LockingTree.cpp" line="363" />
         <source>Create Devices</source>
-        <translation>Aygıt Oluştur</translation>
+        <translation>Cihaz Oluştur</translation>
     </message>
     <message>
         <location filename="../gui/activity/LockingTree.cpp" line="364" />
@@ -32133,12 +32133,12 @@ etkinliği sıfırlamak istiyor musunuz?</translation>
     <message>
         <location filename="../gui/activity/LockingTree.cpp" line="676" />
         <source>Device Tooltip</source>
-        <translation>Aygıt Açıklama Balonu</translation>
+        <translation>Cihaz Açıklama Balonu</translation>
     </message>
     <message>
         <location filename="../gui/activity/LockingTree.cpp" line="684" />
         <source>Open Device Dialog on Start</source>
-        <translation>Başlangıçta Aygıt İletişim Kutusunu Aç</translation>
+        <translation>Başlangıçta Cihaz İletişim Kutusunu Aç</translation>
     </message>
     <message>
         <location filename="../gui/activity/LockingTree.cpp" line="686" />
@@ -33893,7 +33893,7 @@ Lütfen farklı bir bağlantı noktası kullanmayı deneyin.</translation>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="1692" />
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="1756" />
         <source>Subnet Mask</source>
-        <translation>Alt ağ maskesi</translation>
+        <translation>Alt Ağ Maskesi</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="1404" />
@@ -34260,7 +34260,7 @@ Lütfen farklı bir bağlantı noktası kullanmayı deneyin.</translation>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkSettings.cpp" line="77" />
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkSettings.cpp" line="99" />
         <source>Subnet Mask</source>
-        <translation>Alt ağ maskesi</translation>
+        <translation>Alt Ağ Maskesi</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkSettings.cpp" line="78" />
@@ -37446,7 +37446,7 @@ Please wait until it is finished.</source>
         <location filename="../gui/DesignerFiles/Routing/ServiceDhcpRouter.ui" line="73" />
         <location filename="../gui/DesignerFiles/Routing/ServiceDhcpRouter.ui" line="76" />
         <source>Subnet Mask:</source>
-        <translation>Alt ağ maskesi:</translation>
+        <translation>Alt Ağ Maskesi:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/ServiceDhcpRouter.ui" line="397" />
@@ -38501,7 +38501,7 @@ Ek Genişletmeler-&gt;Komut Dosyası-&gt;Komut Dosyası Modüllerini Yapılandı
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDhcpv6PoolConfig.cpp" line="186" />
         <source>Invalid ipv6 prefix input</source>
-        <translation>Geçersiz IPv6 önek girişi</translation>
+        <translation>Geçersiz IPv6 öneki girişi</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDhcpv6PoolConfig.cpp" line="195" />
@@ -38511,7 +38511,7 @@ Ek Genişletmeler-&gt;Komut Dosyası-&gt;Komut Dosyası Modüllerini Yapılandı
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDhcpv6PoolConfig.cpp" line="202" />
         <source>Ipv6 Prefix Length field cannot be empty</source>
-        <translation>IPv6 Önek Uzunluğu alanı boş bırakılamaz</translation>
+        <translation>IPv6 Öneki Uzunluğu alanı boş bırakılamaz</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDhcpv6PoolConfig.cpp" line="207" />
@@ -39355,7 +39355,7 @@ Desteklenen dosya uzantıları: .html .htm .php .css .js</translation>
         <location filename="../gui/DesignerFiles/Server/ServiceDhcpv6.ui" line="680" />
         <location filename="../gui/DesignerFiles/Server/ServiceDhcpv6.ui" line="683" />
         <source>IPv6 Prefix-Delegation</source>
-        <translation>IPv6 Önek Yetkilendirmesi</translation>
+        <translation>IPv6 Öneki Yetkilendirmesi</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceDhcpv6.ui" line="576" />
@@ -39611,12 +39611,12 @@ Desteklenen dosya uzantıları: .html .htm .php .css .js</translation>
         <location filename="../gui/DesignerFiles/Server/ServiceDhcpv6PoolConfig.ui" line="176" />
         <location filename="../gui/DesignerFiles/Server/ServiceDhcpv6PoolConfig.ui" line="179" />
         <source>IPv6 Prefix Delegation:</source>
-        <translation>IPv6 Önek Ataması:</translation>
+        <translation>IPv6 Öneki Ataması:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceDhcpv6PoolConfig.ui" line="189" />
         <source>IPv6 Prefix</source>
-        <translation>IPv6 Önek</translation>
+        <translation>IPv6 Öneki</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceDhcpv6PoolConfig.ui" line="209" />
@@ -39694,7 +39694,7 @@ Desteklenen dosya uzantıları: .html .htm .php .css .js</translation>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceDhcpv6PoolConfig.ui" line="351" />
         <source>IPv6 Prefix Pool</source>
-        <translation>IPv6 Önek Havuzu</translation>
+        <translation>IPv6 Öneki Havuzu</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceDhcpv6PoolConfig.ui" line="365" />
@@ -42332,7 +42332,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="512" />
         <source>Subnet mask</source>
-        <translation>Alt ağ maskesi</translation>
+        <translation>Alt Ağ Maskesi</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="514" />
@@ -42827,7 +42827,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="726" />
         <source>Duplex</source>
-        <translation>Dubleks</translation>
+        <translation>Çift Yönlü (Duplex)</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="727" />
@@ -43995,12 +43995,12 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1288" />
         <source>The frame's DLCI number is not found in the Frame Relay map table. The device drops the packet.</source>
-        <translation>Çerçevenin DLCI numarası, Frame Relay eşleme tablosunda bulunamadı. Aygıt, paketi atar.</translation>
+        <translation>Çerçevenin DLCI numarası, Frame Relay eşleme tablosunda bulunamadı. Cihaz, paketi atar.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1289" />
         <source>The frame's encapsulation type does not match the encapsulation type of the map entry in the Frame Relay map table. The device drops the frame.</source>
-        <translation>Çerçevenin kapsülleme türü, Frame Relay eşleme tablosundaki eşleme girdisinin kapsülleme türüyle eşleşmiyor. Aygıt, çerçeveyi atar.</translation>
+        <translation>Çerçevenin kapsülleme türü, Frame Relay eşleme tablosundaki eşleme girdisinin kapsülleme türüyle eşleşmiyor. Cihaz, çerçeveyi atar.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1290" />
@@ -44025,7 +44025,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1294" />
         <source>The device de-encapsulates the Frame Relay frame and sends it to the upper layer.</source>
-        <translation>Aygıt, Frame Relay çerçevesini kapsüleme işlemini kaldırır ve üst katmana gönderir.</translation>
+        <translation>Cihaz, Frame Relay çerçevesini kapsüleme işlemini kaldırır ve üst katmana gönderir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1295" />
@@ -44036,7 +44036,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1296" />
         <source>The device encapsulates the packet into a Frame Relay header.</source>
-        <translation>Aygıt, paketi bir Frame Relay başlığına kapsüller.</translation>
+        <translation>Cihaz, paketi bir Frame Relay başlığına kapsüller.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1297" />
@@ -44863,7 +44863,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="513" />
         <source>(deprecated) Subnet mask</source>
-        <translation>(kullanımdan kaldırıldı) Alt ağ maskesi</translation>
+        <translation>(kullanımdan kaldırıldı) Alt Ağ Maskesi</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="515" />
@@ -46207,7 +46207,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1801" />
         <source>The device receives a TCP [[FLAGS]] segment on server port [[PORT]].</source>
-        <translation>Aygıt, sunucu [[PORT]] numaralı bağlantı noktasında bir TCP [[FLAGS]] segmenti alır.</translation>
+        <translation>Cihaz, sunucu [[PORT]] numaralı bağlantı noktasında bir TCP [[FLAGS]] segmenti alır.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1802" />
@@ -46232,27 +46232,27 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1806" />
         <source>The buffer has more segments to send. The device sends the next segment in the buffer.</source>
-        <translation>Tamponda gönderilecek başka segmentler var. Aygıt, tampondaki bir sonraki segmenti gönderir.</translation>
+        <translation>Tamponda gönderilecek başka segmentler var. Cihaz, tampondaki bir sonraki segmenti gönderir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1807" />
         <source>The device sends a TCP [[FLAGS]] segment.</source>
-        <translation>Aygıt, bir TCP [[FLAGS]] segmenti gönderir.</translation>
+        <translation>Cihaz, bir TCP [[FLAGS]] segmenti gönderir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1808" />
         <source>The device retransmit a TCP [[FLAGS]] segment.</source>
-        <translation>Aygıt, bir TCP [[FLAGS]] segmentini yeniden gönderir.</translation>
+        <translation>Cihaz, bir TCP [[FLAGS]] segmentini yeniden gönderir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1809" />
         <source>The server port accepts only SYN segments. The device sends back a RST and drops the segment.</source>
-        <translation>Sunucu bağlantı noktası yalnızca SYN segmentlerini kabul eder. Aygıt bir RST gönderir ve segmenti atar.</translation>
+        <translation>Sunucu bağlantı noktası yalnızca SYN segmentlerini kabul eder. Cihaz bir RST gönderir ve segmenti atar.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1810" />
         <source>The device sets the connection state to [[STATE]].</source>
-        <translation>Aygıt, bağlantı durumunu [[STATE]] olarak ayarlar.</translation>
+        <translation>Cihaz, bağlantı durumunu [[STATE]] olarak ayarlar.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1811" />
@@ -47462,7 +47462,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1613" />
         <source>The packet's acknowledgment number does not match the first packet in the neighbor's output queue. The device ignores the acknowledgment.</source>
-        <translation>Paketin onay numarası, komşunun çıkış kuyruğundaki ilk paketle eşleşmiyor. Aygıt, onayı yok sayar.</translation>
+        <translation>Paketin onay numarası, komşunun çıkış kuyruğundaki ilk paketle eşleşmiyor. Cihaz, onayı yok sayar.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2006" />
@@ -47657,7 +47657,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2145" />
         <source>Radius Shared Secret</source>
-        <translation>RADIUS Paylaşılan Gizli Anahtarı</translation>
+        <translation>RADIUS Paylaşılan Gizli Parolası</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2147" />
@@ -47793,7 +47793,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2183" />
         <source>Beacon Frequency</source>
-        <translation>İşaret Sıklığı</translation>
+        <translation>Beacon Frekansı</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2184" />
@@ -49065,12 +49065,12 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2554" />
         <source>The device sends an IP fragment with the FO [[FO]], a payload length [[LENGTH]] bytes, and a total length [[PKT_LEN]] bytes.</source>
-        <translation>Aygıt, FO [[FO]], [[LENGTH]] bayt yük uzunluğu ve [[PKT_LEN]] bayt toplam uzunluğa sahip bir IP parçacığı gönderir.</translation>
+        <translation>Cihaz, FO [[FO]], [[LENGTH]] bayt yük uzunluğu ve [[PKT_LEN]] bayt toplam uzunluğa sahip bir IP parçacığı gönderir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2555" />
         <source>The device sends the last IP fragment with the FO [[FO]] and a total length of [[LENGTH]] bytes.</source>
-        <translation>Aygıt, FO [[FO]] ve [[LENGTH]] bayt toplam uzunluğa sahip son IP parçasını gönderir.</translation>
+        <translation>Cihaz, FO [[FO]] ve [[LENGTH]] bayt toplam uzunluğa sahip son IP parçasını gönderir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2556" />
@@ -49091,7 +49091,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2559" />
         <source>IP doesn't do source fragmentation at the source device or if the device is not a gateway. IP sends the datagram to the lower process.</source>
-        <translation>IP, kaynak aygıtta veya aygıt bir ağ geçidi değilse kaynak parçalama işlemi yapmaz. IP, datagramı alt işleme gönderir.</translation>
+        <translation>IP, kaynak aygıtta veya cihaz bir ağ geçidi değilse kaynak parçalama işlemi yapmaz. IP, datagramı alt işleme gönderir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2560" />
@@ -49111,17 +49111,17 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2564" />
         <source>The device drops this IPv6 packet ([[size]] bytes) because it is larger than the MTU ([[mtu_size]] bytes) allowed.</source>
-        <translation>Aygıt, izin verilen MTU ([[mtu_size]] bayt) değerinden daha büyük olduğu için bu IPv6 paketini ([[size]] bayt) atar.</translation>
+        <translation>Cihaz, izin verilen MTU ([[mtu_size]] bayt) değerinden daha büyük olduğu için bu IPv6 paketini ([[size]] bayt) atar.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2565" />
         <source>The device starts to do source fragmenting on the packet.</source>
-        <translation>Aygıt, paket üzerinde kaynak parçalama işlemine başlar.</translation>
+        <translation>Cihaz, paket üzerinde kaynak parçalama işlemine başlar.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2566" />
         <source>The source device sends out an IPv6 fragment (FO: [[FO]], payload length [[LEN]] bytes, and total length [[PKT_LEN]] bytes).</source>
-        <translation>Kaynak aygıt bir IPv6 parçacığı (FO: [[FO]], yük uzunluğu [[LEN]] bayt ve toplam uzunluk [[PKT_LEN]] bayt) gönderir.</translation>
+        <translation>Kaynak cihaz bir IPv6 parçacığı (FO: [[FO]], yük uzunluğu [[LEN]] bayt ve toplam uzunluk [[PKT_LEN]] bayt) gönderir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2568" />
@@ -49136,7 +49136,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2570" />
         <source>Device receives the first fragment.  IPv6 creates a resource for further reassemble of fragments. The resource identification is: [[SRCADDR]] [[DESTADDR]] [[PROTOCOL]] [[ID]].</source>
-        <translation>Aygıt ilk parçayı alır.  IPv6, parçaların daha sonra yeniden birleştirilmesi için bir kaynak oluşturur. Kaynak tanımlayıcısı şöyledir: [[SRCADDR]] [[DESTADDR]] [[PROTOCOL]] [[ID]].</translation>
+        <translation>Cihaz ilk parçayı alır.  IPv6, parçaların daha sonra yeniden birleştirilmesi için bir kaynak oluşturur. Kaynak tanımlayıcısı şöyledir: [[SRCADDR]] [[DESTADDR]] [[PROTOCOL]] [[ID]].</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2571" />
@@ -49268,7 +49268,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2623" />
         <source>RADIUS Shared Secret</source>
-        <translation>RADIUS Paylaşılan Gizli Anahtarı</translation>
+        <translation>RADIUS Paylaşılan Gizli Parolası</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2630" />
@@ -51256,7 +51256,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1678" />
         <source>The device updates its neighbors with the new route information on network [[NETWORK]]/[[MASK_BITS]].</source>
-        <translation>Aygıt, [[NETWORK]]/[[MASK_BITS]] ağındaki yeni yol bilgileriyle komşularını günceller.</translation>
+        <translation>Cihaz, [[NETWORK]]/[[MASK_BITS]] ağındaki yeni yol bilgileriyle komşularını günceller.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1679" />
@@ -51642,7 +51642,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2014" />
         <source>The device removes and sends buffered packets waiting for this Neighbor Advertisement.</source>
-        <translation>Aygıt, bu Komşu Duyurusunu bekleyen tamponlanmış paketleri kaldırır ve gönderir.</translation>
+        <translation>Cihaz, bu Komşu Duyurusunu bekleyen tamponlanmış paketleri kaldırır ve gönderir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2015" />
@@ -53195,7 +53195,7 @@ ipRouteDest değeri 0.0.0.0 (varsayılan yol) ise, maske değeri de 0.0.0.0 olur
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="204" />
         <source>Wireless End Device</source>
-        <translation>Kablosuz Uç Aygıt</translation>
+        <translation>Kablosuz Uç Cihaz</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="205" />
@@ -55622,7 +55622,7 @@ Kablo Türü: %6</translation>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="1146" />
         <source>Incompatible Device -- %1</source>
-        <translation>Uyumsuz Aygıt -- %1</translation>
+        <translation>Uyumsuz Cihaz -- %1</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="1176" />
@@ -56525,7 +56525,7 @@ End the expression with: ")</source>
         <location filename="../gui/Workspace/Workspace.cpp" line="3848" />
         <location filename="../gui/Workspace/Workspace.cpp" line="3990" />
         <source>Unable to Add Device</source>
-        <translation>Aygıt Eklenemiyor</translation>
+        <translation>Cihaz Eklenemiyor</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Workspace.cpp" line="3849" />
@@ -57467,7 +57467,7 @@ Bağlantı Noktası</translation>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="325" />
         <source>The Subnet Mask address is invalid.</source>
-        <translation>Alt ağ maskesi adresi geçersiz.</translation>
+        <translation>Alt Ağ Maskesi adresi geçersiz.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="345" />
@@ -59400,7 +59400,7 @@ Tablodaki hücreleri tek tek işaretleyip işaretini kaldırarak birden fazla et
     <message>
         <location filename="../gui/DesignerFiles/scripting/ConfigCustomInterfaces.ui" line="23" />
         <source>Devices</source>
-        <translation>Aygıtlar</translation>
+        <translation>Cihazlar</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/scripting/ConfigCustomInterfaces.ui" line="28" />
@@ -60234,7 +60234,7 @@ Değişikliklerinizi kaydetmek istiyor musunuz?</translation>
         <location filename="../gui/DesignerFiles/MainGUIComponents/ObjectPosList.ui" line="26" />
         <location filename="../gui/DesignerFiles/MainGUIComponents/ObjectPosList.ui" line="39" />
         <source>Devices</source>
-        <translation>Aygıtlar</translation>
+        <translation>Cihazlar</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/ObjectPosList.ui" line="67" />
@@ -60653,7 +60653,7 @@ Değişikliklerinizi kaydetmek istiyor musunuz?</translation>
     <message>
         <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="36" />
         <source>Device, Project &amp; CPU</source>
-        <translation>&amp;Aygıt, Proje ve CPU</translation>
+        <translation>&amp;Cihaz, Proje ve CPU</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="58" />
