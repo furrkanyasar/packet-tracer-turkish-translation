@@ -34,7 +34,7 @@
         <location filename="../gui/DesignerFiles/APClientStatus.ui" line="19" />
         <location filename="../gui/DesignerFiles/APClientStatus.ui" line="21" />
         <source>Refresh Status</source>
-        <translation>Yenile Durumu</translation>
+        <translation>Durumu Yenile</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/APClientStatus.ui" line="26" />
@@ -3500,7 +3500,7 @@ Yorumlar:</translation>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12950" />
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12953" />
         <source>Time (ms) to forward Answer Network:</source>
-        <translation>Answer Network'ü iletme süresi (ms):</translation>
+        <translation>Cevap Ağı'nı iletme süresi (ms):</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13142" />
@@ -8532,7 +8532,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="1326" />
         <source>Hide Wireless Coverage Range Spinbox</source>
-        <translation>Kablosuz Kapsama Alanı Dönme Kutusu'nu Gizle</translation>
+        <translation>Kablosuz Kapsama Alanı Sayısal Değer Kutusunu Gizle</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="1333" />
@@ -10059,7 +10059,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="4728" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11283" />
         <source>Service Password Encryption</source>
-        <translation>Hizmet Şifre Şifreleme</translation>
+        <translation>Hizmet Parolası Şifrelemesi (Service Password Encryption)</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="4742" />
@@ -11531,7 +11531,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="8354" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12417" />
         <source>Enable Secret</source>
-        <translation>Gizli Anahtarı Etkinleştir</translation>
+        <translation>Enable Gizli Parolası (Enable Secret)</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="8396" />
@@ -11543,7 +11543,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="8429" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="8443" />
         <source>Easy VPN Server</source>
-        <translation>Kolay VPN Sunucusu</translation>
+        <translation>Easy VPN Sunucusu</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="8423" />
@@ -12366,7 +12366,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14225" />
         <source>ISATAP Router</source>
-        <translation>ISATAP Yönlendirici</translation>
+        <translation>ISATAP Yönlendiricisi</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14239" />
@@ -12533,7 +12533,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14730" />
         <source>DNS Server IP</source>
-        <translation>DNS Sunucusu IP</translation>
+        <translation>DNS Sunucusu IP Adresi</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14744" />
@@ -13540,7 +13540,7 @@ Bağlantı Noktası</translation>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1748" />
         <source>command log dock window</source>
-        <translation>Komut Günlüğü Bağlantı Penceresi</translation>
+        <translation>Komut Günlüğü Sabitlenebilir Paneli</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1761" />
@@ -35053,15 +35053,13 @@ Lütfen farklı bir bağlantı noktası kullanmayı deneyin.</translation>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="271" />
         <source>Removes a header or a header and trailer from this
 layer's PDU to create the PDU at the next higher layer.</source>
-        <translation>Bu katmandaki bir başlığı veya bir başlığı ve son eki kaldırır
-katmanın PDU'sundan bir başlık veya bir başlık ve son ek kaldırarak bir üst katmanda PDU oluşturur.</translation>
+        <translation>Bir üst katmanda PDU oluşturmak için bu katmanın PDU'sundan başlığı veya başlık ve son eki kaldırır.</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="272" />
         <source>Adds a header or a header and trailer to this layer's
 PDU to create the PDU at the next lower layer.</source>
-        <translation>Bu katmanın PDU'suna bir başlık veya bir başlık ve son ek ekleyerek
-PDU'suna bir başlık veya bir başlık ve son ek ekleyerek bir alt katmandaki PDU'yu oluşturur.</translation>
+        <translation>Bir alt katmanda PDU oluşturmak için bu katmanın PDU'suna bir başlık veya başlık ve son ek ekler.</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="273" />
@@ -36176,7 +36174,7 @@ Kablo Türü: %6</translation>
     <message>
         <location filename="../gui/Workspace/PhysicalLocationListView.cpp" line="342" />
         <source> is only allowed via drag and drop within its rack.</source>
-        <translation>yalnızca kendi rafı içinde sürükle ve bırak yoluyla taşınabilir.</translation>
+        <translation>yalnızca kendi kabini/rafı içinde sürükle-bırak ile taşınabilir.</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/PhysicalLocationListView.cpp" line="354" />
@@ -42579,7 +42577,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="610" />
         <source>Service Password Encryption</source>
-        <translation>Hizmet Şifre Şifreleme</translation>
+        <translation>Hizmet Parolası Şifrelemesi (Service Password Encryption)</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="611" />
@@ -42633,7 +42631,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="642" />
         <source>Enable Secret</source>
-        <translation>Gizli Şifreyi Etkinleştir</translation>
+        <translation>Enable Gizli Parolası (Enable Secret)</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="643" />
@@ -45045,7 +45043,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="747" />
         <source>Authentication Port-Control Auto</source>
-        <translation>Kimlik Doğrulama Bağlantı Noktası Kontrolü Otomatik</translation>
+        <translation>Kimlik Doğrulama Port Kontrolü: Otomatik</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="749" />
@@ -45075,7 +45073,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="862" />
         <source>dot1x Password</source>
-        <translation>dot1x Şifresi</translation>
+        <translation>802.1X Parolası</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="863" />
@@ -46465,7 +46463,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1858" />
         <source>The config revision in the Summary Advertisement is greater than the local config revision.</source>
-        <translation>Özet İlanındaki yapılandırma revizyonu, yerel yapılandırma revizyonundan daha büyüktür.</translation>
+        <translation>Özet Duyurusundaki yapılandırma revizyonu, yerel yapılandırma revizyonundan daha büyüktür.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1859" />
@@ -46480,17 +46478,17 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1861" />
         <source>The config revision in the Summary Advertisement is lower than the local config revision. The VTP process sends a Summary Advertisement containing the higher config revision.</source>
-        <translation>Özet İlanındaki yapılandırma revizyonu, yerel yapılandırma revizyonundan daha düşüktür. VTP işlemi, daha yüksek yapılandırma revizyonunu içeren bir Özet İlan gönderir.</translation>
+        <translation>Özet Duyurusundaki yapılandırma revizyonu, yerel yapılandırma revizyonundan daha düşüktür. VTP işlemi, daha yüksek yapılandırma revizyonunu içeren bir Özet İlan gönderir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1862" />
         <source>The MD5 digest in the Summary Advertisement does not match the calculated MD5 digest. The VTP process drops the frame.</source>
-        <translation>Özet İlanındaki MD5 özeti, hesaplanan MD5 özetiyle eşleşmiyor. VTP işlemi çerçeveyi atar.</translation>
+        <translation>Özet Duyurusundaki MD5 özeti, hesaplanan MD5 özetiyle eşleşmiyor. VTP işlemi çerçeveyi atar.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1863" />
         <source>The domain name in the Summary Advertisement does not match the configured domain name. The VTP process drops the frame.</source>
-        <translation>Özet İlanındaki etki alanı adı, yapılandırılan etki alanı adıyla eşleşmiyor. VTP işlemi çerçeveyi atar.</translation>
+        <translation>Özet Duyurusundaki etki alanı adı, yapılandırılan etki alanı adıyla eşleşmiyor. VTP işlemi çerçeveyi atar.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1864" />
@@ -46555,7 +46553,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1876" />
         <source>The VTP process sends out an Advertisement Request.</source>
-        <translation>VTP işlemi bir İlan İsteği gönderir.</translation>
+        <translation>VTP işlemi bir Duyuru İsteği gönderir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1877" />
@@ -50069,7 +50067,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="255" />
         <source>ISATAP Router</source>
-        <translation>ISATAP Yönlendirici</translation>
+        <translation>ISATAP Yönlendiricisi</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="256" />
@@ -51553,7 +51551,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1918" />
         <source>The received BPDU does not have superior information.</source>
-        <translation>Alınan BPDU'da üst düzey bilgi bulunmamaktadır.</translation>
+        <translation>Alınan BPDU'da daha üstün BPDU bilgisi bulunmamaktadır.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1919" />
@@ -53025,7 +53023,7 @@ ipRouteDest değeri 0.0.0.0 (varsayılan yol) ise, maske değeri de 0.0.0.0 olur
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3293" />
         <source>This field is the checksum of the complete contents of the advertisement, excepting the age field. The age field is excepted so that an advertisement's age can be incremented without updating the checksum. The checksum used is the same that is used for ISO connectionless datagrams; it is commonly referred to as the Fletcher checksum.</source>
-        <translation>Bu alan, yaş alanı hariç olmak üzere ilanın tüm içeriğinin sağlama toplamıdır. Yaş alanı hariç tutulur; böylece ilanın yaşı, sağlama toplamı güncellenmeden artırılabilir. Kullanılan sağlama toplamı, ISO bağlantısız datagramlar için kullanılanla aynıdır; buna genellikle Fletcher sağlama toplamı denir.</translation>
+        <translation>Bu alan, yaş alanı hariç olmak üzere duyurunun tüm içeriğinin sağlama toplamıdır. Yaş alanı hariç tutulur; böylece duyurunun yaşı, sağlama toplamı güncellenmeden artırılabilir. Kullanılan sağlama toplamı, ISO bağlantısız datagramlar için kullanılanla aynıdır; buna genellikle Fletcher sağlama toplamı denir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3294" />
@@ -53557,7 +53555,7 @@ ipRouteDest değeri 0.0.0.0 (varsayılan yol) ise, maske değeri de 0.0.0.0 olur
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2027" />
         <source>The Router Solicitation packet is dropped because the interface [[PORT]] is a loopback.</source>
-        <translation>[[PORT]] arabirimi bir döngü geri bağlantısı olduğu için Router Solicitation paketi reddedilir.</translation>
+        <translation>[[PORT]] arabirimi bir geri döngü (loopback) olduğu için Router Solicitation paketi reddedilir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2052" />
@@ -54202,7 +54200,7 @@ FTP sunucusu, dosyanın var olup olmadığını kontrol eder ve yeniden adlandı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3234" />
         <source>A flag indicating whether the router sends periodic Router advertisements and responds to router solicitations on this interface.</source>
-        <translation>Yönlendiricinin bu arayüz üzerinden periyodik Yönlendirici ilanları gönderip göndermediğini ve yönlendirici taleplerine yanıt verip vermediğini belirten bir bayrak.</translation>
+        <translation>Yönlendiricinin bu arayüz üzerinden periyodik Yönlendirici duyuruları (Router Advertisements) gönderip göndermediğini ve yönlendirici taleplerine yanıt verip vermediğini belirten bir bayrak.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3235" />
@@ -54237,17 +54235,17 @@ FTP sunucusu, dosyanın var olup olmadığını kontrol eder ve yeniden adlandı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3241" />
         <source>The value to be placed in the retransmit timer field in Router advertisements sent from this interface. A value of zero in the router advertisement indicates that the advertisement isn't specifying a value for retrans time.</source>
-        <translation>Bu arayüzden gönderilen yönlendirici ilanlarında "yeniden iletim zamanlayıcısı" alanına yerleştirilecek değer. Yönlendirici ilanında sıfır değeri, ilanın yeniden iletim süresi için bir değer belirtmediğini gösterir.</translation>
+        <translation>Bu arayüzden gönderilen yönlendirici duyurularında (Router Advertisements) "yeniden iletim zamanlayıcısı" alanına yerleştirilecek değer. Yönlendirici ilanında sıfır değeri, ilanın yeniden iletim süresi için bir değer belirtmediğini gösterir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3242" />
         <source>The default value to be placed in the current hop limit field in Router advertisements sent from this interface. The value should be set to the current diameter of the Internet. A value of zero in the router advertisement indicates that the advertisement isn't specifying a value for curHopLimit. The default should be set to the value specified in the IANA web pages (www.iana.org) at the time of implementation.</source>
-        <translation>Bu arayüzden gönderilen yönlendirici ilanlarında "mevcut atlama sınırı" alanına yerleştirilecek varsayılan değer. Bu değer, İnternet'in o andaki çapına ayarlanmalıdır. Yönlendirici ilanında sıfır değeri, ilanın curHopLimit için bir değer belirtmediğini gösterir. Varsayılan değer, uygulama sırasında IANA web sayfalarında (www.iana.org) belirtilen değere ayarlanmalıdır.</translation>
+        <translation>Bu arayüzden gönderilen yönlendirici duyurularında (Router Advertisements) "mevcut atlama sınırı" alanına yerleştirilecek varsayılan değer. Bu değer, İnternet'in o andaki çapına ayarlanmalıdır. Yönlendirici ilanında sıfır değeri, ilanın curHopLimit için bir değer belirtmediğini gösterir. Varsayılan değer, uygulama sırasında IANA web sayfalarında (www.iana.org) belirtilen değere ayarlanmalıdır.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3243" />
         <source>The value to be placed in the router lifetime field of Router advertisements sent from this interface. This value MUST be either 0 or between ipv6RouterAdvertMaxInterval and 9000 seconds. A value of zero indicates that the Router is not to be used as a default Router. The default is 3 * ipv6RouterAdvertMaxInterval.</source>
-        <translation>Bu arayüzden gönderilen Yönlendirici ilanlarının yönlendirici ömrü alanına yerleştirilecek değer. Bu değer İLLA ki 0 olmalı ya da ipv6RouterAdvertMaxInterval ile 9000 saniye arasında olmalıdır. Sıfır değeri, Yönlendiricinin varsayılan Yönlendirici olarak kullanılmayacağını belirtir. Varsayılan değer 3 * ipv6RouterAdvertMaxInterval'dir.</translation>
+        <translation>Bu arayüzden gönderilen Yönlendirici duyurularının yönlendirici ömrü alanına yerleştirilecek değer. Bu değer İLLA ki 0 olmalı ya da ipv6RouterAdvertMaxInterval ile 9000 saniye arasında olmalıdır. Sıfır değeri, Yönlendiricinin varsayılan Yönlendirici olarak kullanılmayacağını belirtir. Varsayılan değer 3 * ipv6RouterAdvertMaxInterval'dir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3260" />
@@ -55048,7 +55046,7 @@ FTP sunucusu, dosyanın var olup olmadığını kontrol eder ve yeniden adlandı
     <message>
         <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="14" />
         <source>Switch Global Settings</source>
-        <translation>Genel Ayarları Değiştir</translation>
+        <translation>Switch Genel Ayarları</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="89" />
@@ -56581,7 +56579,7 @@ End the expression with: ")</source>
     <message>
         <location filename="../gui/Workspace/Workspace.cpp" line="1186" />
         <source> is only allowed via drag and drop within its rack.</source>
-        <translation>yalnızca kendi rafı içinde sürükle ve bırak yoluyla taşınabilir.</translation>
+        <translation>yalnızca kendi kabini/rafı içinde sürükle-bırak ile taşınabilir.</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Workspace.cpp" line="2628" />
