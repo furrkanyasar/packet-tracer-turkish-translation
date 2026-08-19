@@ -63,7 +63,7 @@ Bu belge; **Cisco Packet Tracer Türkçe Dil Paketi** projesinde kullanılan tek
 | **Encryption / Cipher** | Şifreleme | Kriptografik veri koruma işlemi |
 | **802.1X / dot1x** | 802.1X | Port tabanlı ağ erişim kontrol standardı |
 | **Access Control List (ACL)** | Erişim Kontrol Listesi (ACL) | Paket filtreleme kuralları |
-| **Port Security** | Port Güvenliği (Port-Security) | MAC adresi sınırlandırma özelliği |
+| **Port Security** | Port Güvenliği / Bağlantı Noktası Güvenliği | MAC adresi sınırlandırma özelliği (UI ve CLI bağlamı) |
 
 ---
 

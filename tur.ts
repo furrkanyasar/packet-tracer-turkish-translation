@@ -7170,7 +7170,7 @@ Başlangıç Ağını Değiştirmek İster Misiniz?</translation>
     <message>
         <location filename="../gui/DeviceConfig/Router/AdminManagement.cpp" line="132" />
         <source>Firmware Upgrade</source>
-        <translation>Yazılım Güncellemesi</translation>
+        <translation>Firmware Güncellemesi</translation>
     </message>
 </context>
 <context>
@@ -10283,7 +10283,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="5272" />
         <source>Global</source>
-        <translation>Global</translation>
+        <translation>Genel</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="5287" />
@@ -12219,7 +12219,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="10593" />
         <source>Accounting</source>
-        <translation>Hesaplama</translation>
+        <translation>Muhasebe (Accounting)</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="10608" />
@@ -14205,7 +14205,7 @@ Bağlantı Noktası</translation>
     <message>
         <location filename="../gui/AppWindow.cpp" line="5095" />
         <source>Please enter the script module password: </source>
-        <translation>Lütfen komut dosyası modülü şifresini girin:</translation>
+        <translation>Lütfen komut dosyası modülü parolasını girin:</translation>
     </message>
 </context>
 <context>
@@ -17623,7 +17623,7 @@ Komut</translation>
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="4182" />
         <source>Open the AAA Accounting viewer.</source>
-        <translation>AAA Hesaplama görüntüleyicisini açın.</translation>
+        <translation>AAA Muhasebe (Accounting) görüntüleyicisini açın.</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="4340" />
@@ -17778,7 +17778,7 @@ Yapılandırma</translation>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="4204" />
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="4210" />
         <source>AAA Accounting</source>
-        <translation>AAA Hesaplama</translation>
+        <translation>AAA Muhasebe (Accounting)</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="3720" />
@@ -17915,7 +17915,7 @@ Yapılandırma</translation>
         <location filename="../gui/DesignerFiles/Routing/BaseDhcpClientTable.ui" line="993" />
         <location filename="../gui/DesignerFiles/Routing/BaseDhcpClientTable.ui" line="1001" />
         <source>Firmware Version: v0.93.3</source>
-        <translation>Yazılım Sürümü: v0.93.3</translation>
+        <translation>Firmware Sürümü: v0.93.3</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseDhcpClientTable.ui" line="1195" />
@@ -18043,7 +18043,7 @@ Yapılandırma</translation>
         <location filename="../gui/DesignerFiles/Routing/BaseDhcpReservation.ui" line="1107" />
         <location filename="../gui/DesignerFiles/Routing/BaseDhcpReservation.ui" line="1119" />
         <source>Firmware Version: v0.93.3</source>
-        <translation>Yazılım Sürümü: v0.93.3</translation>
+        <translation>Firmware Sürümü: v0.93.3</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseDhcpReservation.ui" line="1279" />
@@ -18370,14 +18370,14 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseFirmwareUpgrade.ui" line="320" />
         <location filename="../gui/DesignerFiles/Routing/BaseFirmwareUpgrade.ui" line="323" />
         <source>Firmware Upgrade</source>
-        <translation>Yazılım Güncellemesi</translation>
+        <translation>Firmware Güncellemesi</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseFirmwareUpgrade.ui" line="588" />
         <source>Warning: Upgrading firmware may take a few minutes, 
 please don't turn off the  power or press the reset 
 button.</source>
-        <translation>Uyarı: Yazılım güncellemesi birkaç dakika sürebilir, 
+        <translation>Uyarı: Firmware güncellemesi birkaç dakika sürebilir, 
 lütfen cihazın  gücünü kapatmayın veya sıfırlama 
 düğmesine basmayın.</translation>
     </message>
@@ -19436,7 +19436,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseLinkSysGUI.ui" line="715" />
         <location filename="../gui/DesignerFiles/Routing/BaseLinkSysGUI.ui" line="724" />
         <source>Firmware Version: v0.93.3</source>
-        <translation>Yazılım Sürümü: v0.93.3</translation>
+        <translation>Firmware Sürümü: v0.93.3</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseLinkSysGUI.ui" line="892" />
@@ -20068,7 +20068,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1134" />
         <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1146" />
         <source>Firmware Version: v0.93.3</source>
-        <translation>Yazılım Sürümü: v0.93.3</translation>
+        <translation>Firmware Sürümü: v0.93.3</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1533" />
@@ -21040,7 +21040,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="575" />
         <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="578" />
         <source>Firmware Version:</source>
-        <translation>Yazılım Sürümü:</translation>
+        <translation>Firmware Sürümü:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="320" />
@@ -28355,7 +28355,7 @@ ve önceki tüm ayarlar silinecektir.</translation>
     <message>
         <location filename="../gui/FileTreeView.cpp" line="58" />
         <source>Please Select a File to Upgrade Firmware</source>
-        <translation>Yazılımı Güncellemek İçin Lütfen Bir Dosya Seçin</translation>
+        <translation>Firmware'i Güncellemek İçin Lütfen Bir Dosya Seçin</translation>
     </message>
     <message>
         <location filename="../gui/FileTreeView.cpp" line="67" />
@@ -28848,7 +28848,7 @@ ve önceki tüm ayarlar silinecektir.</translation>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="4707" />
         <source>Multiuser connections can't be recabled.  You must delete and recreate.</source>
-        <translation>Çok kullanıcılı bağlantılar yeniden yapılandırılamaz.  Silip yeniden oluşturmanız gerekir.</translation>
+        <translation>Çok kullanıcılı bağlantılar yeniden kablolanamaz.  Silip yeniden oluşturmanız gerekir.</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="4707" />
@@ -31743,7 +31743,7 @@ etkinliği sıfırlamak istiyor musunuz?</translation>
     <message>
         <location filename="../gui/activity/LockingTree.cpp" line="431" />
         <source>Remove Scenarios</source>
-        <translation>Senaryoları Sil</translation>
+        <translation>Senaryoları Kaldır</translation>
     </message>
     <message>
         <location filename="../gui/activity/LockingTree.cpp" line="432" />
@@ -31763,7 +31763,7 @@ etkinliği sıfırlamak istiyor musunuz?</translation>
     <message>
         <location filename="../gui/activity/LockingTree.cpp" line="435" />
         <source>Remove PDUs</source>
-        <translation>PDU'ları Sil</translation>
+        <translation>PDU'ları Kaldır</translation>
     </message>
     <message>
         <location filename="../gui/activity/LockingTree.cpp" line="437" />
@@ -32434,7 +32434,7 @@ etkinliği sıfırlamak istiyor musunuz?</translation>
     <message>
         <location filename="../gui/activity/LockingTree.cpp" line="839" />
         <source>Remove Note/Annotation</source>
-        <translation>Notu/Açıklamayı Sil</translation>
+        <translation>Notu/Açıklamayı Kaldır</translation>
     </message>
     <message>
         <location filename="../gui/activity/LockingTree.cpp" line="1139" />
@@ -32836,12 +32836,12 @@ etkinliği sıfırlamak istiyor musunuz?</translation>
     <message>
         <location filename="../gui/DeviceConfig/IoE/CMCUDialog.cpp" line="337" />
         <source> does not support adding more than 1 wireless module on End Devices.</source>
-        <translation>Son Aygıtlara 1'den fazla kablosuz modül eklenmesini desteklemez.</translation>
+        <translation>Uç Cihazlara 1'den fazla kablosuz modül eklenmesini desteklemez.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/IoE/CMCUDialog.cpp" line="345" />
         <source>More than 1 cellular module installed on End Devices is not supported -- %1</source>
-        <translation>Son Aygıtlara 1'den fazla hücresel modül takılması desteklenmez -- %1</translation>
+        <translation>Uç Cihazlara 1'den fazla hücresel modül takılması desteklenmez -- %1</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/IoE/CMCUDialog.cpp" line="345" />
@@ -33076,7 +33076,7 @@ etkinliği sıfırlamak istiyor musunuz?</translation>
         <location filename="../gui/Multiuser/MultiUserConnectDlg.cpp" line="272" />
         <location filename="../gui/Multiuser/MultiUserConnectDlg.cpp" line="297" />
         <source>Disconnect</source>
-        <translation>Bağlantı kesildi</translation>
+        <translation>Bağlantıyı Kes</translation>
     </message>
     <message>
         <location filename="../gui/Multiuser/MultiUserConnectDlg.cpp" line="92" />
@@ -36435,7 +36435,7 @@ Total Area: scaleless</source>
         <source>Variables in the scoring model all have a name, value, description, and expression. We are typically interested the value.
  &lt;name&gt;.value, i.e., r0power.value</source>
         <translation>Puanlama modelindeki tüm değişkenlerin bir adı, değeri, açıklaması ve ifadesi vardır. Genellikle değerle ilgileniriz.
- &lt;ad&gt;.değer, örneğin r0power.değer</translation>
+ &lt;ad&gt;.value, örneğin r0power.value</translation>
     </message>
     <message>
         <location filename="../gui/activity/Wizard/ProficiencyModelPopup.cpp" line="166" />
@@ -37568,7 +37568,7 @@ Please wait until it is finished.</source>
         <location filename="../gui/DeviceConfig/Router/RouterStatus.cpp" line="328" />
         <location filename="../gui/DeviceConfig/Router/RouterStatus.cpp" line="359" />
         <source>Disconnect</source>
-        <translation>Bağlantı kesildi</translation>
+        <translation>Bağlantıyı Kes</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/RouterStatus.cpp" line="327" />
@@ -45897,7 +45897,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1657" />
         <source>After updating topology table, the network becomes unreachable or there is no feasible successor to the network.</source>
-        <translation>Topoloji tablosu güncellendikten sonra, ağa erişilemez hale gelir veya ağ için uygun bir halef bulunmaz.</translation>
+        <translation>Topoloji tablosu güncellendikten sonra, ağa erişilemez hale gelir veya ağ için uygun bir feasible successor bulunmaz.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1667" />
@@ -48003,7 +48003,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3141" />
         <source>RADIUS CLIENT: Receive accounting response</source>
-        <translation>RADIUS İSTEMCİSİ: Hesaplama yanıtını al</translation>
+        <translation>RADIUS İSTEMCİSİ: Muhasebe (Accounting) yanıtını al</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3170" />
@@ -49971,7 +49971,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="88" />
         <source>The dual-serial port WAN interface cards (WICs) feature Cisco`s new, compact, high-density Smart Serial connector to support a wide variety of electrical interfaces when used with the appropriate transition cable. Two cables are required to support the two ports on the WIC. Each port on a WIC is a different physical interface and can support different protocols such as Point-to-Point protocol (PPP) or Frame Relay and Data Terminal Equipment/Data Communications Equipment (DTE/DCE).</source>
-        <translation>Çift seri bağlantı noktalı WAN arayüz kartları (WIC'ler), uygun geçiş kablosuyla kullanıldığında çok çeşitli elektriksel arabirimleri desteklemek üzere Cisco'nun yeni, kompakt, yüksek yoğunluklu Akıllı Seri konektörüne sahiptir. WIC üzerindeki iki bağlantı noktasını desteklemek için iki kablo gereklidir. WIC üzerindeki her bağlantı noktası farklı bir fiziksel arabirimdir ve Noktadan Noktaya protokolü (PPP) veya Frame Relay ve Veri Terminali Ekipmanı/Veri İletişim Ekipmanı (DTE/DCE) gibi farklı protokolleri destekleyebilir.</translation>
+        <translation>Çift seri bağlantı noktalı WAN arayüz kartları (WIC'ler), uygun geçiş kablosuyla kullanıldığında çok çeşitli elektriksel arayüzleri desteklemek üzere Cisco'nun yeni, kompakt, yüksek yoğunluklu Akıllı Seri konektörüne sahiptir. WIC üzerindeki iki bağlantı noktasını desteklemek için iki kablo gereklidir. WIC üzerindeki her bağlantı noktası farklı bir fiziksel arayüzdür ve Noktadan Noktaya protokolü (PPP) veya Frame Relay ve Veri Terminali Ekipmanı/Veri İletişim Ekipmanı (DTE/DCE) gibi farklı protokolleri destekleyebilir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="99" />
@@ -51178,7 +51178,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1658" />
         <source>After updating the topology table, the network has a worse metric. The device adds all the new successors to the routing table.</source>
-        <translation>Topoloji tablosu güncellendikten sonra, ağın metriği daha kötü hale gelir. Cihaz, tüm yeni halefleri yönlendirme tablosuna ekler.</translation>
+        <translation>Topoloji tablosu güncellendikten sonra, ağın metriği daha kötü hale gelir. Cihaz, tüm yeni successor'ları yönlendirme tablosuna ekler.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1659" />
@@ -52026,7 +52026,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2824" />
         <source>Accounting</source>
-        <translation>Hesaplama</translation>
+        <translation>Muhasebe (Accounting)</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2826" />
@@ -52171,12 +52171,12 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3113" />
         <source>TACACS CLIENT: Receive accounting response</source>
-        <translation>TACACS İSTEMCİSİ: Hesaplama yanıtı alındı</translation>
+        <translation>TACACS İSTEMCİSİ: Muhasebe (Accounting) yanıtı alındı</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3114" />
         <source>TACACS CLIENT: Send accounting request</source>
-        <translation>TACACS İSTEMCİSİ: Hesaplama isteği gönderiliyor</translation>
+        <translation>TACACS İSTEMCİSİ: Muhasebe (Accounting) isteği gönderiliyor</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3115" />
@@ -52792,7 +52792,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3206" />
         <source>The index value which uniquely identifies the local interface through which the next hop of this route should be reached. The interface identified by a particular value of this index is the same interface as identified by the same value of ifIndex.</source>
-        <translation>Bu yolun bir sonraki atlama noktasına ulaşılması gereken yerel arayüzü benzersiz bir şekilde tanımlayan dizin değeri. Bu dizinin belirli bir değeri ile tanımlanan arayüz, ifIndex'in aynı değeri ile tanımlanan arabirimle aynıdır.</translation>
+        <translation>Bu yolun bir sonraki atlama noktasına ulaşılması gereken yerel arayüzü benzersiz bir şekilde tanımlayan dizin değeri. Bu dizinin belirli bir değeri ile tanımlanan arayüz, ifIndex'in aynı değeri ile tanımlanan arayüzle aynıdır.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3207" />
@@ -52933,7 +52933,7 @@ ipRouteDest değeri 0.0.0.0 (varsayılan yol) ise, maske değeri de 0.0.0.0 olur
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3259" />
         <source>A successor is the next routing hop for a path to the destination IP network number for a single route in the topology table in the AS. There can be several potential successors if there are multiple paths to the destination. This is the total number of successors for a topology entry.</source>
-        <translation>Halef, AS'deki topoloji tablosundaki tek bir yol için hedef IP ağ numarasına giden yolun bir sonraki yönlendirme atlamasıdır. Hedefe giden birden fazla yol varsa, birkaç potansiyel halef olabilir. Bu, bir topoloji girdisi için toplam halef sayısıdır.</translation>
+        <translation>Successor, AS'deki topoloji tablosundaki tek bir yol için hedef IP ağ numarasına giden yolun bir sonraki yönlendirme atlamasıdır. Hedefe giden birden fazla yol varsa, birkaç potansiyel successor olabilir. Bu, bir topoloji girdisi için toplam successor sayısıdır.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3261" />
@@ -54250,7 +54250,7 @@ FTP sunucusu, dosyanın var olup olmadığını kontrol eder ve yeniden adlandı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3260" />
         <source>The feasibility (best) distance is the minimum distance from this Router to the destination IP network in this topology entry. The feasibility distance is used in determining the best successor for a path to the destination network.</source>
-        <translation>Uygulanabilirlik (en iyi) mesafesi, bu topoloji girdisindeki hedef IP ağına bu yönlendiriciden olan minimum mesafedir. Uygulanabilirlik mesafesi, hedef ağa giden bir yol için en iyi halefi belirlemede kullanılır.</translation>
+        <translation>Uygulanabilirlik (en iyi) mesafesi, bu topoloji girdisindeki hedef IP ağına bu yönlendiriciden olan minimum mesafedir. Uygulanabilirlik mesafesi, hedef ağa giden bir yol için en iyi successor'ı belirlemede kullanılır.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3262" />
@@ -56767,7 +56767,7 @@ End the expression with: ")</source>
     <message>
         <location filename="../gui/MainWindow/WorkspaceList.cpp" line="916" />
         <source> does not support adding more than 1 wireless module on End Devices.</source>
-        <translation>Son Aygıtlara 1'den fazla kablosuz modül eklenmesi desteklenmez.</translation>
+        <translation>Uç Cihazlara 1'den fazla kablosuz modül eklenmesi desteklenmez.</translation>
     </message>
     <message>
         <location filename="../gui/MainWindow/WorkspaceList.cpp" line="921" />
@@ -56928,17 +56928,17 @@ End the expression with: ")</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationBluetooth.cpp" line="220" />
         <source>Cannot tether to another Bluetooth device when Bluetooth tethering is enabled.</source>
-        <translation>Bluetooth paylaşımı etkinleştirildiğinde başka bir Bluetooth cihazına bağlanılamıyor.</translation>
+        <translation>Bluetooth internet paylaşımı etkinleştirildiğinde başka bir Bluetooth cihazına internet paylaşımı yapılamaz.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationBluetooth.cpp" line="229" />
         <source>Cannot tether while it is trying to tether to another Bluetooth device.</source>
-        <translation>Başka bir Bluetooth cihazına bağlanmaya çalışırken internet paylaşımı yapılamıyor.</translation>
+        <translation>Başka bir Bluetooth cihazına internet paylaşımı yapılmaya çalışılırken internet paylaşımı yapılamaz.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationBluetooth.cpp" line="234" />
         <source>Already tethered to another Bluetooth device.</source>
-        <translation>Zaten başka bir Bluetooth cihazına bağlı.</translation>
+        <translation>Zaten başka bir Bluetooth cihazıyla internet paylaşımı yapılıyor.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationBluetooth.cpp" line="237" />
@@ -56948,7 +56948,7 @@ End the expression with: ")</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationBluetooth.cpp" line="255" />
         <source>Not tethered to this Bluetooth device.</source>
-        <translation>Bu Bluetooth cihazına bağlı değil.</translation>
+        <translation>Bu Bluetooth cihazıyla internet paylaşımı yapılmıyor.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationBluetooth.cpp" line="280" />
@@ -58990,7 +58990,7 @@ Değişikliklerinizi kaydetmek istiyor musunuz?</translation>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationWebBrowser.cpp" line="936" />
         <source>Firmware Version: </source>
-        <translation>Yazılım Sürümü:</translation>
+        <translation>Firmware Sürümü:</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationWebBrowser.cpp" line="1812" />
@@ -62542,7 +62542,7 @@ Bir komut dosyası modülü oluşturmanın genel sırası şöyledir:</translati
     <message>
         <location filename="../gui/Workspace/Physical/RackView/RackAccessible.cpp" line="252" />
         <source>Wiring closet rack cabinet.</source>
-        <translation>Kablolama dolabı sistem kabini.</translation>
+        <translation>Kablolama dolabı kabini.</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/RackView/RackAccessible.cpp" line="253" />
