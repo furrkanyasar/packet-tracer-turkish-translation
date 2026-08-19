@@ -4131,7 +4131,7 @@ Silmek için: Silinecek satırın herhangi bir yerine tıklayın ve Delete tuşu
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="395" />
         <source>&amp;Test Activity</source>
-        <translation>&amp;Test Etkinliği</translation>
+        <translation>&amp;Etkinliği Test Et</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="398" />
@@ -6007,7 +6007,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/BaseSelectPhysicalImage.ui" line="13" />
         <source>Customize Physical Images of an End Device</source>
-        <translation>Bir Son Aygıtın Fiziksel Görüntülerini Özelleştir</translation>
+        <translation>Bir Uç Cihazın Fiziksel Görüntülerini Özelleştir</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseSelectPhysicalImage.ui" line="42" />
@@ -14732,8 +14732,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2316" />
         <source>only three applications can be blocked per
 policy.</source>
-        <translation>politika başına yalnızca üç uygulama engellenebilir
-ilke başına yalnızca üç uygulama engellenebilir.</translation>
+        <translation>İlke başına yalnızca üç uygulama engellenebilir.</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2330" />
@@ -20418,7 +20417,7 @@ Hedef:</translation>
         <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="885" />
         <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="888" />
         <source>De-encapsulate</source>
-        <translation>Kapsülamayı kaldır</translation>
+        <translation>Kapsüllemeyi kaldır</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="904" />
@@ -21410,7 +21409,7 @@ Bağlantısı&lt;/b&gt;&lt;/p&gt;</translation>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="568" />
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="571" />
         <source>Volume</source>
-        <translation>Ses seviyesi</translation>
+        <translation>Hacim</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="574" />
@@ -22012,8 +22011,8 @@ Sunucusu:</translation>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2589" />
         <source>Maximum number
 of Users:</source>
-        <translation>Maksimum
-:</translation>
+        <translation>Maksimum Kullanıcı
+Sayısı:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2636" />
@@ -23080,7 +23079,7 @@ Ayarı&lt;/p&gt;</translation>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="235" />
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="right"&gt;Access Resolution&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="right"&gt;Erişim Çözünürlüğü&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align="right"&gt;Erişim Kuralı&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="229" />
@@ -25907,12 +25906,12 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/DesignerFiles/Cloud/CloudCableConnectionsBase.ui" line="157" />
         <source>From Port</source>
-        <translation>Bağlantı Noktasından</translation>
+        <translation>Kaynak Bağlantı Noktası</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Cloud/CloudCableConnectionsBase.ui" line="162" />
         <source>To Port</source>
-        <translation>Hedefe</translation>
+        <translation>Hedef Bağlantı Noktası</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Cloud/CloudCableConnectionsBase.ui" line="191" />
@@ -26037,12 +26036,12 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/DesignerFiles/Cloud/CloudDSLConnectionsBase.ui" line="227" />
         <source>From Port</source>
-        <translation>Bağlantı Noktasından</translation>
+        <translation>Kaynak Bağlantı Noktası</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Cloud/CloudDSLConnectionsBase.ui" line="232" />
         <source>To Port</source>
-        <translation>Hedefe</translation>
+        <translation>Hedef Bağlantı Noktası</translation>
     </message>
 </context>
 <context>
@@ -26508,7 +26507,7 @@ Publisher Certificate Information:
     <message>
         <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="637" />
         <source>The time entered is invalid.</source>
-        <translation>Girilen saat geçersiz.</translation>
+        <translation>Girilen zaman geçersiz.</translation>
     </message>
     <message>
         <location filename="../gui/Simulation/CreateCustomPDU/CreateCustomPDU.cpp" line="1000" />
@@ -28889,7 +28888,7 @@ ve önceki tüm ayarlar silinecektir.</translation>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="407" />
         <source>Inspect Front</source>
-        <translation>Ön Tarafı İnceleme</translation>
+        <translation>Ön Tarafı İncele</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="408" />
@@ -32075,7 +32074,7 @@ etkinliği sıfırlamak istiyor musunuz?</translation>
         <location filename="../gui/activity/LockingTree.cpp" line="399" />
         <location filename="../gui/activity/LockingTree.cpp" line="671" />
         <source>Use Programming Tab</source>
-        <translation>Programlama Sekmesini Kullanma</translation>
+        <translation>Programlama Sekmesini Kullan</translation>
     </message>
     <message>
         <location filename="../gui/activity/LockingTree.cpp" line="400" />
@@ -32270,7 +32269,7 @@ etkinliği sıfırlamak istiyor musunuz?</translation>
     <message>
         <location filename="../gui/activity/LockingTree.cpp" line="719" />
         <source>Cisco IP Communicator Read Only</source>
-        <translation>Cisco IP İletişim Aracı Salt Okunur</translation>
+        <translation>Cisco IP Communicator Salt Okunur</translation>
     </message>
     <message>
         <location filename="../gui/activity/LockingTree.cpp" line="720" />
@@ -36029,7 +36028,7 @@ Total Cable Length: %1</source>
     <message>
         <location filename="../gui/Workspace/Physical/RackView/PhysicalCable.cpp" line="218" />
         <source>%6 cable connecting device %1 port %2 with device %3 Port %4</source>
-        <translation>%6 kablo, %1 bağlantı noktasını %2 cihazla %3 bağlantı noktası %4'e bağlar</translation>
+        <translation>%1 cihazının %2 bağlantı noktasını, %3 cihazının %4 bağlantı noktasına bağlayan %6 kablosu</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/RackView/PhysicalCable.cpp" line="219" />
@@ -36999,7 +36998,7 @@ Bluetooth Tether AP: %1
         <location filename="../gui/Workspace/Physical/RackView/RackView.cpp" line="562" />
         <location filename="../gui/Workspace/Physical/RackView/RackView.cpp" line="601" />
         <source>Cables connected to a device on table cannot be managed.</source>
-        <translation>Tablodaki bir cihaza bağlı kablolar yönetilemez.</translation>
+        <translation>Masadaki bir cihaza bağlı kablolar yönetilemez.</translation>
     </message>
 </context>
 <context>
@@ -38170,7 +38169,7 @@ Komut dosyasını yeniden imzalayıp düzenlemek mi, yoksa imzalanmamış halde 
     <message>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="688" />
         <source>Passwords do not match.</source>
-        <translation>Şifreler eşleşmiyor.</translation>
+        <translation>Parolalar eşleşmiyor.</translation>
     </message>
     <message>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="728" />
@@ -38256,7 +38255,7 @@ Yeni komut dosyası modülleri, başlatılmadan önce kalıcı komut dosyası mo
         <source>Script module added as a persistent script module.
 See Extensions-&gt;Scripting-&gt;Configure Script Modules ...</source>
         <translation>Komut dosyası modülü kalıcı komut dosyası modülü olarak eklendi.
-Ek Genişletmeler-&gt;Komut Dosyası-&gt;Komut Dosyası Modüllerini Yapılandır... bölümüne bakın.</translation>
+Uzantılar-&gt;Komut Dosyası-&gt;Komut Dosyası Modüllerini Yapılandır... bölümüne bakın.</translation>
     </message>
     <message>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="967" />
@@ -40883,7 +40882,7 @@ Yeni sürümü kullanmak ister misiniz?</translation>
     <message>
         <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="155" />
         <source>Last Device</source>
-        <translation>Uç Cihaz</translation>
+        <translation>Son Cihaz</translation>
     </message>
     <message>
         <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="155" />
@@ -41036,7 +41035,7 @@ Ağı sıfırlamak ister misiniz?</translation>
     <message>
         <location filename="../gui/switches/SimulationToolbar.cpp" line="155" />
         <source>Capture then Forward (Option+C)</source>
-        <translation>Kaydet ve İlet (Option+C)</translation>
+        <translation>Yakala ve İlet (Option+C)</translation>
     </message>
     <message>
         <location filename="../gui/switches/SimulationToolbar.cpp" line="156" />
@@ -41071,7 +41070,7 @@ Ağı sıfırlamak ister misiniz?</translation>
     <message>
         <location filename="../gui/switches/SimulationToolbar.cpp" line="167" />
         <source>Time</source>
-        <translation>Saat</translation>
+        <translation>Zaman</translation>
     </message>
     <message>
         <location filename="../gui/switches/SimulationToolbar.cpp" line="168" />
@@ -41398,7 +41397,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/TrafficGenerator.cpp" line="567" />
         <source>The time entered is invalid.</source>
-        <translation>Girilen saat geçersiz.</translation>
+        <translation>Girilen zaman geçersiz.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/TrafficGenerator.cpp" line="560" />
