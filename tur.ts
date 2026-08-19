@@ -11320,13 +11320,13 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7849" />
         <source>Crypto Map Sets</source>
-        <translation>Şifreleme Harita Kümeleri</translation>
+        <translation>Crypto Map Kümeleri</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7863" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7882" />
         <source>Crypto ISAKMP Policy</source>
-        <translation>Şifreleme ISAKMP Politikası</translation>
+        <translation>Crypto ISAKMP Politikası</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7876" />
@@ -11372,17 +11372,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7975" />
         <source>Crypto ISAKMP Key Address Pairs</source>
-        <translation>Kripto ISAKMP Anahtar-Adres Çiftleri</translation>
+        <translation>Crypto ISAKMP Anahtar-Adres Çiftleri</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7989" />
         <source>Crypto IpSec Transform Sets</source>
-        <translation>Kripto IPsec Dönüşüm Kümeleri</translation>
+        <translation>Crypto IPsec Transform Kümeleri</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="8003" />
         <source>Crypto Dynamic Maps</source>
-        <translation>Kripto Dinamik Eşlemeler</translation>
+        <translation>Crypto Dynamic Map'ler</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="8018" />
@@ -12837,7 +12837,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="81" />
         <source>Send 'Do'</source>
-        <translation>'Do' Gönder</translation>
+        <translation>'Do' gönder</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="82" />
@@ -16263,7 +16263,7 @@ Aralık: 256-2346)</translation>
         <location filename="../gui/DesignerFiles/AnalogPhone/BaseAnalogPhoneGUI.ui" line="411" />
         <location filename="../gui/DesignerFiles/AnalogPhone/BaseAnalogPhoneGUI.ui" line="417" />
         <source>Do</source>
-        <translation>Yap</translation>
+        <translation>Do</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AnalogPhone/BaseAnalogPhoneGUI.ui" line="477" />
@@ -18583,7 +18583,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorAnsweredCall.ui" line="813" />
         <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorAnsweredCall.ui" line="819" />
         <source>Do</source>
-        <translation>Yap</translation>
+        <translation>Do</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BaseIPCommunicatorAnsweredCall.ui" line="879" />
@@ -19207,7 +19207,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/IPPhone/BaseIPPhoneGUI.ui" line="1174" />
         <location filename="../gui/DesignerFiles/IPPhone/BaseIPPhoneGUI.ui" line="1179" />
         <source>Do</source>
-        <translation>Yap</translation>
+        <translation>Do</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IPPhone/BaseIPPhoneGUI.ui" line="1237" />
@@ -23086,7 +23086,7 @@ Ayarı&lt;/p&gt;</translation>
         <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="229" />
         <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="232" />
         <source>Access Resolution</source>
-        <translation>Erişim Çözünürlüğü</translation>
+        <translation>Erişim Kuralı</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseMacFilter.ui" line="391" />
@@ -25976,7 +25976,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/DesignerFiles/Cloud/CloudConnectionsBase.ui" line="336" />
         <source>To Port</source>
-        <translation>Hedefe</translation>
+        <translation>Hedef Bağlantı Noktası</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Cloud/CloudConnectionsBase.ui" line="373" />
@@ -33249,13 +33249,13 @@ etkinliği sıfırlamak istiyor musunuz?</translation>
         <location filename="../gui/NetworkComponentBox/NetworkComponentBox.cpp" line="236" />
         <location filename="../gui/NetworkComponentBox/NetworkComponentBox.cpp" line="348" />
         <source>Copper Straight-Through</source>
-        <translation>Bakır Düz Bağlantı</translation>
+        <translation>Bakır Düz Kablo</translation>
     </message>
     <message>
         <location filename="../gui/NetworkComponentBox/NetworkComponentBox.cpp" line="246" />
         <location filename="../gui/NetworkComponentBox/NetworkComponentBox.cpp" line="359" />
         <source>Copper Cross-Over</source>
-        <translation>Bakır Çapraz Bağlantı</translation>
+        <translation>Bakır Çapraz Kablo</translation>
     </message>
     <message>
         <location filename="../gui/NetworkComponentBox/NetworkComponentBox.cpp" line="256" />
@@ -34589,7 +34589,7 @@ Lütfen farklı bir bağlantı noktası kullanmayı deneyin.</translation>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="198" />
         <source>WPA2-Enterprise</source>
-        <translation>WPA2-Enterprise</translation>
+        <translation>WPA2-Kurumsal</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="203" />
@@ -35664,7 +35664,7 @@ Bu katmanda cihaz kararı nedir?</translation>
     <message>
         <location filename="../gui/UserCreatedPDU/PDUListWindow.cpp" line="58" />
         <source>Fire</source>
-        <translation>Yangın</translation>
+        <translation>Tetikle</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/PDUListWindow.cpp" line="58" />
@@ -36617,12 +36617,12 @@ Komut İstemi Komutları: %7</translation>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="98" />
         <source>Down</source>
-        <translation>Aşağı</translation>
+        <translation>Kapalı</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="99" />
         <source>Up</source>
-        <translation>Yukarı</translation>
+        <translation>Açık</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="100" />
@@ -49689,12 +49689,12 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2900" />
         <source>Crypto IpSec Transform Sets</source>
-        <translation>Şifreleme IPsec Dönüşüm Kümeleri</translation>
+        <translation>Crypto IPsec Transform Kümeleri</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2901" />
         <source>Crypto Map Sets</source>
-        <translation>Şifreleme Harita Kümeleri</translation>
+        <translation>Crypto Map Kümeleri</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2903" />
@@ -49704,7 +49704,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2904" />
         <source>Crypto Dynamic Maps</source>
-        <translation>Crypto Dinamik Eşlemeler</translation>
+        <translation>Crypto Dynamic Map'ler</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2905" />
@@ -49757,17 +49757,17 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2936" />
         <source>AH Transform</source>
-        <translation>AH Dönüşümü</translation>
+        <translation>AH Transform</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2937" />
         <source>ESP Authentication Transform</source>
-        <translation>ESP Kimlik Doğrulama Dönüşümü</translation>
+        <translation>ESP Authentication Transform</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2938" />
         <source>ESP Encryption Transform</source>
-        <translation>ESP Şifreleme Dönüşümü</translation>
+        <translation>ESP Encryption Transform</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2941" />
@@ -52071,7 +52071,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2914" />
         <source>Transform Sets</source>
-        <translation>Dönüştürme Kümeleri</translation>
+        <translation>Transform Kümeleri</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3009" />
@@ -52101,7 +52101,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1955" />
         <source>This SSTP BPDU VLAN ID does not equal the native vlan ID, sending this BPDU to be processed by the spanning-tree of the VLAN in the BPDU.</source>
-        <translation>Bu SSTP BPDU VLAN kimliği, yerel VLAN kimliğiyle eşleşmiyor; bu BPDU, BPDU'daki VLAN'ın spanning-tree'si tarafından işlenmek üzere gönderiliyor.</translation>
+        <translation>Bu SSTP BPDU VLAN kimliği, yerel VLAN kimliğiyle eşleşmiyor; bu BPDU, BPDU'daki VLAN'ın Kapsayan Ağaç (STP) protokolü tarafından işlenmek üzere gönderiliyor.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1956" />
@@ -52471,7 +52471,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3397" />
         <source>Received HSRP resign message</source>
-        <translation>Alınan HSRP istifa mesajı</translation>
+        <translation>Alınan HSRP aktif rolü bırakma mesajı</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3398" />
@@ -56908,12 +56908,12 @@ End the expression with: ")</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationBluetooth.cpp" line="139" />
         <source>Tether Access Point</source>
-        <translation>Tether Erişim Noktası</translation>
+        <translation>İnternet Paylaşımı Erişim Noktası</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationBluetooth.cpp" line="141" />
         <source>Tether User</source>
-        <translation>Tether Kullanıcısı</translation>
+        <translation>İnternet Paylaşımı Kullanıcısı</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationBluetooth.cpp" line="144" />
@@ -58389,7 +58389,7 @@ Akış bilgisi:</translation>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationSshClientConfigurationBase.ui" line="195" />
         <location filename="../gui/DesignerFiles/Workstation/WorkstationSshClientConfigurationBase.ui" line="198" />
         <source>Parity:</source>
-        <translation>Parite:</translation>
+        <translation>Eşlik:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationSshClientConfigurationBase.ui" line="201" />
@@ -60343,7 +60343,7 @@ Değişikliklerinizi kaydetmek istiyor musunuz?</translation>
     <message>
         <location filename="../gui/DesignerFiles/Login/login.ui" line="636" />
         <source>Skills for All with Cisco</source>
-        <translation>Cisco ile Herkes İçin Beceriler</translation>
+        <translation>Cisco ile Skills for All</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/login.ui" line="688" />
@@ -60396,7 +60396,7 @@ Değişikliklerinizi kaydetmek istiyor musunuz?</translation>
     <message>
         <location filename="../gui/DesignerFiles/Login/login.ui" line="893" />
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;DOWNLOADING, INSTALLING, OR USING THE CISCO PACKET TRACER SOFTWARE CONSTITUTES ACCEPTANCE OF THE CISCO END USER LICENSE AGREEMENT (“EULA” &lt;a href="https://www.cisco.com/c/en/us/about/legal/cloud-and-software/end_user_license_agreement.html"&gt;&lt;span style=" font-family:'Calibri','sans-serif'; text-decoration: underline; color:#0563c1;"&gt;https://www.cisco.com/c/en/us/about/legal/cloud-and-software/end_user_license_agreement.html&lt;/span&gt;&lt;/a&gt;) AND THE SUPPLEMENTAL END USER LICENSE AGREEMENT FOR CISCO PACKET TRACER (“SEULA” &lt;a href="https://www.cisco.com/c/dam/en_us/about/doing_business/legal/seula/cisco-packet-tracer-software.pdf"&gt;&lt;span style=" font-family:'Calibri','sans-serif'; text-decoration: underline; color:#0563c1;"&gt;https://www.cisco.com/c/dam/en_us/about/doing_business/legal/seula/cisco-packet-tracer-software.pdf&lt;/span&gt;&lt;/a&gt;). IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THE EULA AND SEULA, THEN CISCO SYSTEMS, INC. (“CISCO”) IS UNWILLING TO LICENSE THE SOFTWARE TO YOU AND YOU ARE NOT AUTHORIZED TO DOWNLOAD, INSTALL OR USE THE SOFTWARE.​&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;CISCO PACKET TRACER YAZILIMINI İNDİRMEK, KURMAK VEYA KULLANMAK, CISCO SON KULLANICI LİSANS SÖZLEŞMESİNİ (“EULA”) KABUL ETMEK ANLAMINA GELİR &lt;a href="https://www.cisco.com/c/en/us/about/legal/cloud-and-software/end_user_license_agreement.html"&gt;&lt;span style=" font-family:'Calibri','sans-serif'; text-decoration: underline; color:#0563c1;"&gt;https://www.cisco.com/c/en/us/about/legal/cloud-and-software/end_user_license_agreement.html&lt;/span&gt;&lt;/a&gt;) İLE CISCO PACKET TRACER İÇİN EK SON KULLANICI LİSANS SÖZLEŞMESİNİ (“SEULA” &lt;a href="https://www.cisco.com/c/dam/en_us/about/doing_business/legal/seula/cisco-packet-tracer-software.pdf"&gt;&lt;span style=" font-family:'Calibri','sans-serif'; text-decoration: underline; color:#0563c1;"&gt;https://www.cisco.com/c/dam/en_us/about/doing_business/legal/seula/cisco-packet-tracer-software.pdf&lt;/span&gt;&lt;/a&gt;). EULA VE SEULA'NIN TÜM ŞARTLARINI KABUL ETMİYORSANIZ, CISCO SYSTEMS, INC. (“CISCO”) YAZILIMI SİZE LİSANSLAMAK İSTEMEZ VE YAZILIMI İNDİRME, KURMA VEYA KULLANMA YETKİNİZ BULUNMAZ.​&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;CISCO PACKET TRACER YAZILIMINI İNDİRMEK, KURMAK VEYA KULLANMAK, CISCO SON KULLANICI CISCO SON KULLANICI LİSANS SÖZLEŞMESİNİ (“EULA” &lt;a href="https://www.cisco.com/c/en/us/about/legal/cloud-and-software/end_user_license_agreement.html"&gt;&lt;span style=" font-family:'Calibri','sans-serif'; text-decoration: underline; color:#0563c1;"&gt;https://www.cisco.com/c/en/us/about/legal/cloud-and-software/end_user_license_agreement.html&lt;/span&gt;&lt;/a&gt;)) İLE CISCO PACKET TRACER İÇİN EK SON KULLANICI LİSANS SÖZLEŞMESİNİ (“SEULA” &lt;a href="https://www.cisco.com/c/dam/en_us/about/doing_business/legal/seula/cisco-packet-tracer-software.pdf"&gt;&lt;span style=" font-family:'Calibri','sans-serif'; text-decoration: underline; color:#0563c1;"&gt;https://www.cisco.com/c/dam/en_us/about/doing_business/legal/seula/cisco-packet-tracer-software.pdf&lt;/span&gt;&lt;/a&gt;). EULA VE SEULA'NIN TÜM ŞARTLARINI KABUL ETMİYORSANIZ, CISCO SYSTEMS, INC. (“CISCO”) YAZILIMI SİZE LİSANSLAMAK İSTEMEZ VE YAZILIMI İNDİRME, KURMA VEYA KULLANMA YETKİNİZ BULUNMAZ.​&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -61370,7 +61370,7 @@ Bir komut dosyası modülü oluşturmanın genel sırası şöyledir:</translati
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="468" />
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="471" />
         <source>Debug</source>
-        <translation>Hata ayıklama</translation>
+        <translation>Hata Ayıklama</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="484" />
@@ -62542,7 +62542,7 @@ Bir komut dosyası modülü oluşturmanın genel sırası şöyledir:</translati
     <message>
         <location filename="../gui/Workspace/Physical/RackView/RackAccessible.cpp" line="252" />
         <source>Wiring closet rack cabinet.</source>
-        <translation>Kablolama dolabı raf kabini.</translation>
+        <translation>Kablolama dolabı sistem kabini.</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/RackView/RackAccessible.cpp" line="253" />
