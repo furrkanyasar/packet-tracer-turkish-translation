@@ -4667,7 +4667,7 @@ Yazar: Michael Wang
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseCableViewPopWidget.ui" line="391" />
         <source>Intercity &gt; Home City &gt; Corporate Office &gt; Main Wiring Closet</source>
-        <translation>Şehirlerarası &gt; Ana Şehir &gt; Şirket Merkezi &gt; Ana Kablo Dolabı</translation>
+        <translation>Şehirlerarası &gt; Ana Şehir &gt; Şirket Merkezi &gt; Ana Kablolama Dolabı</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseCableViewPopWidget.ui" line="417" />
@@ -5548,7 +5548,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1273" />
         <source>Beacon Broadcasting</source>
-        <translation>İşaret Yayını</translation>
+        <translation>Beacon Yayını</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1282" />
@@ -9846,7 +9846,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="5567" />
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11422" />
         <source>Tx Ring Limit</source>
-        <translation>Tx Zil Sınırı</translation>
+        <translation>Tx Halka Sınırı</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="4335" />
@@ -12611,7 +12611,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="15233" />
         <source>Beacon Broadcasting</source>
-        <translation>İşaret Yayınlama</translation>
+        <translation>Beacon Yayını</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="15304" />
@@ -13782,7 +13782,7 @@ Bağlantı Noktası</translation>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3081" />
         <source>    Issued By: %1</source>
-        <translation>Düzenleyen: %1</translation>
+        <translation>Veren: %1</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3082" />
@@ -16270,7 +16270,7 @@ Aralık: 256-2346)</translation>
         <location filename="../gui/DesignerFiles/AnalogPhone/BaseAnalogPhoneGUI.ui" line="480" />
         <location filename="../gui/DesignerFiles/AnalogPhone/BaseAnalogPhoneGUI.ui" line="486" />
         <source>Re</source>
-        <translation>Yeniden</translation>
+        <translation>Re</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AnalogPhone/BaseAnalogPhoneGUI.ui" line="546" />
@@ -19213,13 +19213,13 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/IPPhone/BaseIPPhoneGUI.ui" line="1237" />
         <location filename="../gui/DesignerFiles/IPPhone/BaseIPPhoneGUI.ui" line="1242" />
         <source>Re</source>
-        <translation>Yeniden</translation>
+        <translation>Re</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IPPhone/BaseIPPhoneGUI.ui" line="1300" />
         <location filename="../gui/DesignerFiles/IPPhone/BaseIPPhoneGUI.ui" line="1305" />
         <source>Mi</source>
-        <translation>Karıştır</translation>
+        <translation>Mi</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IPPhone/BaseIPPhoneGUI.ui" line="1325" />
@@ -19231,7 +19231,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/IPPhone/BaseIPPhoneGUI.ui" line="1340" />
         <source>S No</source>
-        <translation>S Hayır</translation>
+        <translation>S No</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IPPhone/BaseIPPhoneGUI.ui" line="1345" />
@@ -19584,7 +19584,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Switches/BaseLogicalToolbar.ui" line="180" />
         <location filename="../gui/DesignerFiles/Switches/BaseLogicalToolbar.ui" line="183" />
         <source>Go Back One Level (Alt+Left)</source>
-        <translation>Bir Seviye Geri Git (Alt+Sol)</translation>
+        <translation>Bir Seviye Geri Git (Alt+Left)</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Switches/BaseLogicalToolbar.ui" line="205" />
@@ -20607,7 +20607,7 @@ Hedef:</translation>
         <location filename="../gui/DesignerFiles/Switches/BasePhysicalToolbar.ui" line="171" />
         <location filename="../gui/DesignerFiles/Switches/BasePhysicalToolbar.ui" line="174" />
         <source>Back level (Alt+Left)</source>
-        <translation>Bir önceki seviyeye dön (Alt+Sola)</translation>
+        <translation>Bir önceki seviyeye dön (Alt+Left)</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Switches/BasePhysicalToolbar.ui" line="177" />
@@ -22344,7 +22344,7 @@ Ayarı&lt;/p&gt;</translation>
         <location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="80" />
         <location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="108" />
         <source>List of PDU Columns Visibility Time(seconds) Last Device At Device Type</source>
-        <translation>PDU Sütunları Listesi Görünürlük Süresi (saniye) Son Cihaz Cihazda Cihaz Türü</translation>
+        <translation>PDU Sütunları Listesi Görünürlük Süresi (saniye) Uç Cihaz Cihazda Cihaz Türü</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="83" />
@@ -25152,7 +25152,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="584" />
         <source>Beacon Broadcasting</source>
-        <translation>İşaret Yayınlama</translation>
+        <translation>Beacon Yayını</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="598" />
@@ -26302,7 +26302,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/scripting/CConfigPublishers.cpp" line="35" />
         <source>Issued By</source>
-        <translation>Düzenleyen</translation>
+        <translation>Veren</translation>
     </message>
     <message>
         <location filename="../gui/scripting/CConfigPublishers.cpp" line="36" />
@@ -27792,7 +27792,7 @@ Adresi</translation>
         <location filename="../gui/DeviceConfig/Router/DhcpReservation.cpp" line="179" />
         <location filename="../gui/DeviceConfig/Router/DhcpReservation.cpp" line="189" />
         <source>Client Name</source>
-        <translation>Müşteri Adı</translation>
+        <translation>İstemci Adı</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/DhcpReservation.cpp" line="179" />
@@ -28894,7 +28894,7 @@ ve önceki tüm ayarlar silinecektir.</translation>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="408" />
         <source>Inspect Rear</source>
-        <translation>Arkayı İncel</translation>
+        <translation>Arkayı İncele</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="409" />
@@ -29185,7 +29185,7 @@ ve önceki tüm ayarlar silinecektir.</translation>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/IPCommunicatorAnsweredCallScreen.cpp" line="74" />
         <source>Send 'Do'</source>
-        <translation>'Yap'ı gönder</translation>
+        <translation>'Do' gönder</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/IPCommunicatorAnsweredCallScreen.cpp" line="75" />
@@ -31837,7 +31837,7 @@ etkinliği sıfırlamak istiyor musunuz?</translation>
     <message>
         <location filename="../gui/activity/LockingTree.cpp" line="629" />
         <source>Add/Change Interfaces</source>
-        <translation>Arabirim Ekle/Değiştir</translation>
+        <translation>Arayüz Ekle/Değiştir</translation>
     </message>
     <message>
         <location filename="../gui/activity/LockingTree.cpp" line="595" />
@@ -32831,7 +32831,7 @@ etkinliği sıfırlamak istiyor musunuz?</translation>
     <message>
         <location filename="../gui/DeviceConfig/IoE/CMCUDialog.cpp" line="337" />
         <source>More than 1 wireless module installed on End Devices is not supported -- %1</source>
-        <translation>Son Cihazlara 1'den fazla kablosuz modül takılması desteklenmemektedir -- %1</translation>
+        <translation>Uç Cihazlara 1'den fazla kablosuz modül takılması desteklenmemektedir -- %1</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/IoE/CMCUDialog.cpp" line="337" />
@@ -32846,7 +32846,7 @@ etkinliği sıfırlamak istiyor musunuz?</translation>
     <message>
         <location filename="../gui/DeviceConfig/IoE/CMCUDialog.cpp" line="345" />
         <source> does not support adding more than 1 cellular module on End Devices.</source>
-        <translation>Son Cihazlara 1'den fazla hücresel modül eklenmesini desteklemez.</translation>
+        <translation>Uç Cihazlara 1'den fazla hücresel modül eklenmesini desteklemez.</translation>
     </message>
 </context>
 <context>
@@ -33014,17 +33014,17 @@ etkinliği sıfırlamak istiyor musunuz?</translation>
     <message>
         <location filename="../gui/DeviceConfig/Physical/ModuleTarget.cpp" line="1379" />
         <source> does not support adding more than 1 wireless module on End Devices.</source>
-        <translation>Son Cihazlara 1'den fazla kablosuz modül eklenmesini desteklemez.</translation>
+        <translation>Uç Cihazlara 1'den fazla kablosuz modül eklenmesini desteklemez.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Physical/ModuleTarget.cpp" line="1385" />
         <source>More than 1 cellular module installed on End Devices is not supported -- %1</source>
-        <translation>Son Cihazlara 1'den fazla hücresel modül takılması desteklenmez -- %1</translation>
+        <translation>Uç Cihazlara 1'den fazla hücresel modül takılması desteklenmez -- %1</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Physical/ModuleTarget.cpp" line="1385" />
         <source> does not support adding more than 1 cellular module on End Devices.</source>
-        <translation>Son Cihazlara 1'den fazla hücresel modül eklenmesi desteklenmez.</translation>
+        <translation>Uç Cihazlara 1'den fazla hücresel modül eklenmesi desteklenmez.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Physical/ModuleTarget.cpp" line="1390" />
@@ -35864,7 +35864,7 @@ Bu katmanda cihaz kararı nedir?</translation>
         <location filename="../gui/DesignerFiles/Workstation/BasePCFirewallSettings.ui" line="396" />
         <location filename="../gui/DesignerFiles/Workstation/BasePCFirewallSettings.ui" line="399" />
         <source>Local Port</source>
-        <translation>Bağlantı-Yerel (Link-Local) Noktası</translation>
+        <translation>Yerel Bağlantı Noktası</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BasePCFirewallSettings.ui" line="483" />
@@ -35994,7 +35994,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Workstation/BasePCIPV6FirewallSettings.ui" line="414" />
         <location filename="../gui/DesignerFiles/Workstation/BasePCIPV6FirewallSettings.ui" line="417" />
         <source>Local Port</source>
-        <translation>Bağlantı-Yerel (Link-Local) Noktası</translation>
+        <translation>Yerel Bağlantı Noktası</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BasePCIPV6FirewallSettings.ui" line="441" />
@@ -36076,7 +36076,7 @@ Kablo Türü: %6</translation>
     <message>
         <location filename="../gui/Workspace/PhysicalLocationDialog.cpp" line="108" />
         <source>Wiring Closet</source>
-        <translation>Kablo Dolabı</translation>
+        <translation>Kablolama Dolabı</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/PhysicalLocationDialog.cpp" line="109" />
@@ -36905,7 +36905,7 @@ Bluetooth Tether AP: %1
     <message>
         <location filename="../gui/Workspace/Physical/RackView/RackView.cpp" line="134" />
         <source>Inspect Rear</source>
-        <translation>Arkayı incele</translation>
+        <translation>Arkayı İncele</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/RackView/RackView.cpp" line="135" />
@@ -37215,7 +37215,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="1295" />
         <source>Cell Tower</source>
-        <translation>Baz istasyonu</translation>
+        <translation>Baz İstasyonu</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="1300" />
@@ -37838,7 +37838,7 @@ Do you want to allow it?</source>
     <message>
         <location filename="../engine/scripting/CScriptModule.cpp" line="1470" />
         <source>        Issued By: %1</source>
-        <translation>Düzenleyen: %1</translation>
+        <translation>Veren: %1</translation>
     </message>
     <message>
         <location filename="../engine/scripting/CScriptModule.cpp" line="1471" />
@@ -40753,7 +40753,7 @@ Parola</translation>
     <message>
         <location filename="../gui/Workspace/SetBGImageDlg.cpp" line="203" />
         <source>Setting the background image for a Wiring Closet is not allowed.</source>
-        <translation>Kablo Dolabı için arka plan görüntüsü ayarlanamaz.</translation>
+        <translation>Kablolama Dolabı için arka plan görüntüsü ayarlanamaz.</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/SetBGImageDlg.cpp" line="249" />
@@ -40883,7 +40883,7 @@ Yeni sürümü kullanmak ister misiniz?</translation>
     <message>
         <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="155" />
         <source>Last Device</source>
-        <translation>Son Cihaz</translation>
+        <translation>Uç Cihaz</translation>
     </message>
     <message>
         <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="155" />
@@ -41106,7 +41106,7 @@ Ağı sıfırlamak ister misiniz?</translation>
     <message>
         <location filename="../gui/switches/SimulationToolbar.cpp" line="228" />
         <source>Time: %1</source>
-        <translation>Süre: %1</translation>
+        <translation>Zaman: %1</translation>
     </message>
 </context>
 <context>
@@ -41441,27 +41441,27 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="73" />
         <source>The [[MODULE_NAME]] Module provides one Fast-Ethernet interface for use with fiber media. Ideal for a wide range of LAN applications, the Fast Ethernet network modules support many internetworking features and standards. Single port network modules offer autosensing 10/100BaseTX or 100BaseFX Ethernet.</source>
-        <translation>[[MODULE_NAME]] Modülü, fiber ortamlarla kullanım için bir adet Fast Ethernet arabirimi sunar. Çok çeşitli LAN uygulamaları için ideal olan Fast Ethernet ağ modülleri, birçok ağ iletişimi özelliğini ve standardını destekler. Tek bağlantı noktalı ağ modülleri, otomatik algılamalı 10/100BaseTX veya 100BaseFX Ethernet sunar.</translation>
+        <translation>[[MODULE_NAME]] Modülü, fiber ortamlarla kullanım için bir adet Fast Ethernet arayüzü sunar. Çok çeşitli LAN uygulamaları için ideal olan Fast Ethernet ağ modülleri, birçok ağ iletişimi özelliğini ve standardını destekler. Tek bağlantı noktalı ağ modülleri, otomatik algılamalı 10/100BaseTX veya 100BaseFX Ethernet sunar.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="74" />
         <source>The [[MODULE_NAME]] Module provides one Fast-Ethernet interface for use with copper media. Ideal for a wide range of LAN applications, the Fast Ethernet network modules support many internetworking features and standards. Single port network modules offer autosensing 10/100BaseTX or 100BaseFX Ethernet. The TX (copper) version supports virtual LAN (VLAN) deployment.</source>
-        <translation>[[MODULE_NAME]] Modülü, bakır ortamlarla kullanım için bir adet Fast Ethernet arabirimi sağlar. Çok çeşitli LAN uygulamaları için ideal olan Fast Ethernet ağ modülleri, birçok ağ iletişimi özelliğini ve standardını destekler. Tek bağlantı noktalı ağ modülleri, otomatik algılamalı 10/100BaseTX veya 100BaseFX Ethernet sunar. TX (bakır) sürümü, sanal LAN (VLAN) dağıtımını destekler.</translation>
+        <translation>[[MODULE_NAME]] Modülü, bakır ortamlarla kullanım için bir adet Fast Ethernet arayüzü sağlar. Çok çeşitli LAN uygulamaları için ideal olan Fast Ethernet ağ modülleri, birçok ağ iletişimi özelliğini ve standardını destekler. Tek bağlantı noktalı ağ modülleri, otomatik algılamalı 10/100BaseTX veya 100BaseFX Ethernet sunar. TX (bakır) sürümü, sanal LAN (VLAN) dağıtımını destekler.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="75" />
         <source>The [[MODULE_NAME]] Module provides one Fast-Ethernet interface for use with copper media, in addition to two Wan Interface Card expansion slots. Ideal for a wide range of LAN applications, the Fast Ethernet network modules support many internetworking features and standards. Single port network modules offer autosensing 10/100BaseTX or 100BaseFX Ethernet. The TX (copper) version supports virtual LAN (VLAN) deployment.</source>
-        <translation>[[MODULE_NAME]] Modülü, iki WAN Arabirim Kartı genişletme yuvasına ek olarak, bakır ortamla kullanım için bir adet Fast Ethernet arabirimi sağlar. Çok çeşitli LAN uygulamaları için ideal olan Fast Ethernet ağ modülleri, birçok ağ iletişimi özelliğini ve standardını destekler. Tek bağlantı noktalı ağ modülleri, otomatik algılamalı 10/100BaseTX veya 100BaseFX Ethernet sunar. TX (bakır) sürümü, sanal LAN (VLAN) dağıtımını destekler.</translation>
+        <translation>[[MODULE_NAME]] Modülü, iki WAN Arayüz Kartı genişletme yuvasına ek olarak, bakır ortamla kullanım için bir adet Fast Ethernet arayüzü sağlar. Çok çeşitli LAN uygulamaları için ideal olan Fast Ethernet ağ modülleri, birçok ağ iletişimi özelliğini ve standardını destekler. Tek bağlantı noktalı ağ modülleri, otomatik algılamalı 10/100BaseTX veya 100BaseFX Ethernet sunar. TX (bakır) sürümü, sanal LAN (VLAN) dağıtımını destekler.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="76" />
         <source>The single-port Cisco Gigabit Ethernet Network Module (part number [[MODULE_NAME]]) provides Gigabit Ethernet copper connectivity for access routers. The module is supported by the Cisco 2691, Cisco 3660, Cisco 3725, and Cisco 3745 series routers. This network module has one gigabit interface converter (GBIC) slot to carry any standard copper or optical Cisco GBIC.</source>
-        <translation>Tek bağlantı noktalı Cisco Gigabit Ethernet Ağ Modülü (parça numarası [[MODULE_NAME]]) erişim yönlendiricileri için Gigabit Ethernet bakır bağlantısı sağlar. Modül, Cisco 2691, Cisco 3660, Cisco 3725 ve Cisco 3745 serisi yönlendiriciler tarafından desteklenir. Bu ağ modülünde, herhangi bir standart bakır veya optik Cisco GBIC'yi barındırabilen bir gigabit arabirim dönüştürücü (GBIC) yuvası bulunur.</translation>
+        <translation>Tek bağlantı noktalı Cisco Gigabit Ethernet Ağ Modülü (parça numarası [[MODULE_NAME]]) erişim yönlendiricileri için Gigabit Ethernet bakır bağlantısı sağlar. Modül, Cisco 2691, Cisco 3660, Cisco 3725 ve Cisco 3745 serisi yönlendiriciler tarafından desteklenir. Bu ağ modülünde, herhangi bir standart bakır veya optik Cisco GBIC'yi barındırabilen bir gigabit arayüz dönüştürücü (GBIC) yuvası bulunur.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="77" />
         <source>The single-port Cisco Gigabit Ethernet Network Module (part number [[MODULE_NAME]]) provides Gigabit Ethernet optical connectivity for access routers. The module is supported by the Cisco 2691, Cisco 3660, Cisco 3725, and Cisco 3745 series routers. This network module has one gigabit interface converter (GBIC) slot to carry any standard copper or optical Cisco GBIC.</source>
-        <translation>Tek bağlantı noktalı Cisco Gigabit Ethernet Ağ Modülü (parça numarası [[MODULE_NAME]]), erişim yönlendiricileri için Gigabit Ethernet fiber bağlantı sağlar. Modül, Cisco 2691, Cisco 3660, Cisco 3725 ve Cisco 3745 serisi yönlendiriciler tarafından desteklenmektedir. Bu ağ modülü, herhangi bir standart bakır veya optik Cisco GBIC'yi barındırabilen bir adet gigabit arabirim dönüştürücü (GBIC) yuvasına sahiptir.</translation>
+        <translation>Tek bağlantı noktalı Cisco Gigabit Ethernet Ağ Modülü (parça numarası [[MODULE_NAME]]), erişim yönlendiricileri için Gigabit Ethernet fiber bağlantı sağlar. Modül, Cisco 2691, Cisco 3660, Cisco 3725 ve Cisco 3745 serisi yönlendiriciler tarafından desteklenmektedir. Bu ağ modülü, herhangi bir standart bakır veya optik Cisco GBIC'yi barındırabilen bir adet gigabit arayüz dönüştürücü (GBIC) yuvasına sahiptir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="78" />
@@ -41471,12 +41471,12 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="79" />
         <source>The [[MODULE_NAME]] Module provides two Fast-Ethernet interfaces for use with copper media, in addition to two Wan Interface Card expansion slots. Ideal for a wide range of LAN applications, the Fast Ethernet network modules support many internetworking features and standards.</source>
-        <translation>[[MODULE_NAME]] Modülü, iki WAN Arabirim Kartı genişletme yuvasına ek olarak, bakır ortamlarla kullanım için iki adet Fast Ethernet arabirimi sunar. Çok çeşitli LAN uygulamaları için ideal olan Fast Ethernet ağ modülleri, birçok ağ iletişimi özelliğini ve standardını destekler.</translation>
+        <translation>[[MODULE_NAME]] Modülü, iki WAN Arayüz Kartı genişletme yuvasına ek olarak, bakır ortamlarla kullanım için iki adet Fast Ethernet arayüzü sunar. Çok çeşitli LAN uygulamaları için ideal olan Fast Ethernet ağ modülleri, birçok ağ iletişimi özelliğini ve standardını destekler.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="80" />
         <source>The [[MODULE_NAME]] Module provides two WAN Interface Card expansion slots. It can be used with a broad range of interface cards, supporting a diverse array of physical media and network protocols.</source>
-        <translation>[[MODULE_NAME]] Modülü, iki WAN Arabirim Kartı genişletme yuvası sunar. Çok çeşitli arabirim kartlarıyla kullanılabilir ve çok çeşitli fiziksel ortamları ve ağ protokollerini destekler.</translation>
+        <translation>[[MODULE_NAME]] Modülü, iki WAN Arayüz Kartı genişletme yuvası sunar. Çok çeşitli arayüz kartlarıyla kullanılabilir ve çok çeşitli fiziksel ortamları ve ağ protokollerini destekler.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="81" />
@@ -41506,7 +41506,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="86" />
         <source>The [[MODULE_NAME]] is a single-port 10 Mbps Ethernet interface card, for use with 10BASE-T Ethernet LANs.</source>
-        <translation>[[MODULE_NAME]], 10BASE-T Ethernet LAN'larla kullanılmak üzere tasarlanmış, tek bağlantı noktalı 10 Mbps Ethernet arabirim kartıdır.</translation>
+        <translation>[[MODULE_NAME]], 10BASE-T Ethernet LAN'larla kullanılmak üzere tasarlanmış, tek bağlantı noktalı 10 Mbps Ethernet arayüz kartıdır.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="87" />
@@ -42877,7 +42877,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="738" />
         <source>Tx Ring Limit</source>
-        <translation>Tx Zil Sınırı</translation>
+        <translation>Tx Halka Sınırı</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="751" />
@@ -43478,7 +43478,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1113" />
         <source>The active VLAN interface is not up. The ARP process ignores the frame.</source>
-        <translation>Etkin VLAN arabirimi çalışmıyor. ARP işlemi çerçeveyi yok sayar.</translation>
+        <translation>Etkin VLAN arayüzü çalışmıyor. ARP işlemi çerçeveyi yok sayar.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1114" />
@@ -45243,7 +45243,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1230" />
         <source>The vlan [[VLAN_NUM]] interface is configured with a primary DHCP server [[DHCP_SERVER_ADDRESS]] that is not the same address of the management interface.  The device drops the packet.</source>
-        <translation>[[VLAN_NUM]] VLAN arabirimi, yönetim arabiriminin adresiyle aynı olmayan bir birincil DHCP sunucusu [[DHCP_SERVER_ADDRESS]] ile yapılandırılmıştır.  Cihaz, paketi reddeder.</translation>
+        <translation>[[VLAN_NUM]] VLAN arayüzü, yönetim arayüzünün adresiyle aynı olmayan bir birincil DHCP sunucusu [[DHCP_SERVER_ADDRESS]] ile yapılandırılmıştır.  Cihaz, paketi reddeder.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1240" />
@@ -46012,7 +46012,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1759" />
         <source>The [[DEVICE_TYPE]] drops the frame because there is no active VLAN interface.</source>
-        <translation>[[DEVICE_TYPE]], aktif bir VLAN arabirimi olmadığı için çerçeveyi atar.</translation>
+        <translation>[[DEVICE_TYPE]], aktif bir VLAN arayüzü olmadığı için çerçeveyi atar.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1760" />
@@ -46613,7 +46613,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1889" />
         <source>The LLDP process does not forward traffic since LLDP is not enabled on the interface [[PORT_NAME]].</source>
-        <translation>LLDP, [[PORT_NAME]] arabiriminde etkinleştirilmediğinden LLDP işlemi trafiği iletmez.</translation>
+        <translation>LLDP, [[PORT_NAME]] arayüzünde etkinleştirilmediğinden LLDP işlemi trafiği iletmez.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1890" />
@@ -46628,7 +46628,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1892" />
         <source>The LLDP process drops received traffic since LLDP is not enabled on the interface [[PORT NAME]].</source>
-        <translation>LLDP, [[PORT NAME]] arabiriminde etkinleştirilmediğinden, LLDP işlemi alınan trafiği atar.</translation>
+        <translation>LLDP, [[PORT NAME]] arayüzünde etkinleştirilmediğinden, LLDP işlemi alınan trafiği atar.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1893" />
@@ -47788,7 +47788,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2182" />
         <source>Beacon Broadcasting</source>
-        <translation>İşaret Yayını</translation>
+        <translation>Beacon Yayını</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2183" />
@@ -49333,7 +49333,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2704" />
         <source>Global Alert</source>
-        <translation>Global Uyarı</translation>
+        <translation>Genel Uyarı</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2705" />
@@ -49971,7 +49971,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="88" />
         <source>The dual-serial port WAN interface cards (WICs) feature Cisco`s new, compact, high-density Smart Serial connector to support a wide variety of electrical interfaces when used with the appropriate transition cable. Two cables are required to support the two ports on the WIC. Each port on a WIC is a different physical interface and can support different protocols such as Point-to-Point protocol (PPP) or Frame Relay and Data Terminal Equipment/Data Communications Equipment (DTE/DCE).</source>
-        <translation>Çift seri bağlantı noktalı WAN arabirim kartları (WIC'ler), uygun geçiş kablosuyla kullanıldığında çok çeşitli elektriksel arabirimleri desteklemek üzere Cisco'nun yeni, kompakt, yüksek yoğunluklu Akıllı Seri konektörüne sahiptir. WIC üzerindeki iki bağlantı noktasını desteklemek için iki kablo gereklidir. WIC üzerindeki her bağlantı noktası farklı bir fiziksel arabirimdir ve Noktadan Noktaya protokolü (PPP) veya Frame Relay ve Veri Terminali Ekipmanı/Veri İletişim Ekipmanı (DTE/DCE) gibi farklı protokolleri destekleyebilir.</translation>
+        <translation>Çift seri bağlantı noktalı WAN arayüz kartları (WIC'ler), uygun geçiş kablosuyla kullanıldığında çok çeşitli elektriksel arabirimleri desteklemek üzere Cisco'nun yeni, kompakt, yüksek yoğunluklu Akıllı Seri konektörüne sahiptir. WIC üzerindeki iki bağlantı noktasını desteklemek için iki kablo gereklidir. WIC üzerindeki her bağlantı noktası farklı bir fiziksel arabirimdir ve Noktadan Noktaya protokolü (PPP) veya Frame Relay ve Veri Terminali Ekipmanı/Veri İletişim Ekipmanı (DTE/DCE) gibi farklı protokolleri destekleyebilir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="99" />
@@ -49986,7 +49986,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="108" />
         <source>The [[MODULE_NAME]] is a Cisco 2-Port Serial High-Speed WAN Interface Card, providing 2 serial ports.</source>
-        <translation>[[MODULE_NAME]], 2 seri bağlantı noktası sağlayan bir Cisco 2 Bağlantı Noktalı Seri Yüksek Hızlı WAN Arabirim Kartıdır.</translation>
+        <translation>[[MODULE_NAME]], 2 seri bağlantı noktası sağlayan bir Cisco 2 Bağlantı Noktalı Seri Yüksek Hızlı WAN Arayüz Kartıdır.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="109" />
@@ -50052,7 +50052,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="214" />
         <source>Cell Tower</source>
-        <translation>Baz istasyonu</translation>
+        <translation>Baz İstasyonu</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="215" />
@@ -50724,7 +50724,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1368" />
         <source>The device does not have an active VLAN interface. It drops the packet.</source>
-        <translation>Cihazda etkin bir VLAN arabirimi yoktur. Paketi düşürür.</translation>
+        <translation>Cihazda etkin bir VLAN arayüzü yoktur. Paketi düşürür.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1388" />
@@ -50931,12 +50931,12 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1593" />
         <source>The outgoing interface is a Null interface. The device drops the packet.</source>
-        <translation>Giden arabirim bir Null arabirimidir. Cihaz paketi düşürür.</translation>
+        <translation>Giden arayüz bir Null arayüzüdür. Cihaz paketi düşürür.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1594" />
         <source>The outgoing interface is not specified. The device drops the packet.</source>
-        <translation>Giden arabirim belirtilmemiştir. Cihaz paketi atar.</translation>
+        <translation>Giden arayüz belirtilmemiştir. Cihaz paketi atar.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1596" />
@@ -51093,7 +51093,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1634" />
         <source>[[PORT_NAME]] is configured as an EIGRP passive interface for this AS. The device drops the packet.</source>
-        <translation>[[PORT_NAME]], bu AS için bir EIGRP pasif arabirimi olarak yapılandırılmıştır. Cihaz, paketi atar.</translation>
+        <translation>[[PORT_NAME]], bu AS için bir EIGRP pasif arayüzü olarak yapılandırılmıştır. Cihaz, paketi atar.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1636" />
@@ -51326,7 +51326,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1692" />
         <source>[[PORT_NAME]] is configured as an OSPF passive interface for this process. The device drops the packet.</source>
-        <translation>[[PORT_NAME]], bu işlem için pasif bir OSPF arabirimi olarak yapılandırılmıştır. Cihaz, paketi atar.</translation>
+        <translation>[[PORT_NAME]], bu işlem için pasif bir OSPF arayüzü olarak yapılandırılmıştır. Cihaz, paketi atar.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1697" />
@@ -51607,7 +51607,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1997" />
         <source>The active VLAN interface is not up. The NDP process ignores the packet.</source>
-        <translation>Etkin VLAN arabirimi çalışmıyor. NDP süreci paketi yok sayar.</translation>
+        <translation>Etkin VLAN arayüzü çalışmıyor. NDP süreci paketi yok sayar.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1998" />
@@ -51737,7 +51737,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2089" />
         <source>PPPoE is not enabled on the receiving port or no Virtual-Template interface configured. The packet is dropped.</source>
-        <translation>Alıcı bağlantı noktasında PPPoE etkinleştirilmemiştir veya yapılandırılmış Sanal Şablon arabirimi yoktur. Paket atılır.</translation>
+        <translation>Alıcı bağlantı noktasında PPPoE etkinleştirilmemiştir veya yapılandırılmış Sanal Şablon arayüzü yoktur. Paket atılır.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2091" />
@@ -52351,12 +52351,12 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3163" />
         <source>The number of network interfaces (regardless of their current state) present on this system.</source>
-        <translation>Bu sistemde bulunan ağ arabirimlerinin sayısı (mevcut durumlarından bağımsız olarak).</translation>
+        <translation>Bu sistemde bulunan ağ arayüzlerinin sayısı (mevcut durumlarından bağımsız olarak).</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3164" />
         <source>A list of interface entries. The number of entries is given by the value of ifNumber.</source>
-        <translation>Arabirim girişlerinin listesi. Giriş sayısı, ifNumber değeriyle belirtilir.</translation>
+        <translation>Arayüz girişlerinin listesi. Giriş sayısı, ifNumber değeriyle belirtilir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3165" />
@@ -52371,7 +52371,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3167" />
         <source>A textual string containing information about the interface. This string should include the name of the manufacturer, the product name and the version of the interface hardware/software.</source>
-        <translation>Arabirim hakkında bilgi içeren bir metin dizesi. Bu dize, üreticinin adını, ürün adını ve arabirim donanımının/yazılımının sürümünü içermelidir.</translation>
+        <translation>Arayüz hakkında bilgi içeren bir metin dizesi. Bu dize, üreticinin adını, ürün adını ve arayüz donanımının/yazılımının sürümünü içermelidir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3168" />
@@ -52431,7 +52431,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3180" />
         <source>For packet-oriented interfaces, the number of packets received via the interface which was discarded because of an unknown or unsupported protocol. For character-oriented or fixed-length interfaces that support protocol multiplexing the number of transmission units received via the interface which were discarded because of an unknown or unsupported protocol. For any interface that does not support protocol multiplexing, this counter will always be 0.</source>
-        <translation>Paket tabanlı arabirimler için, bilinmeyen veya desteklenmeyen bir protokol nedeniyle atılan ve arabirim üzerinden alınan paketlerin sayısı. Protokol çoklamasını destekleyen karakter tabanlı veya sabit uzunluklu arabirimler için, bilinmeyen veya desteklenmeyen bir protokol nedeniyle atılan ve arabirim üzerinden alınan iletim birimlerinin sayısı. Protokol çoklamasını desteklemeyen herhangi bir arabirim için bu sayaç her zaman 0 olacaktır.</translation>
+        <translation>Paket tabanlı arayüzler için, bilinmeyen veya desteklenmeyen bir protokol nedeniyle atılan ve arayüz üzerinden alınan paketlerin sayısı. Protokol çoklamasını destekleyen karakter tabanlı veya sabit uzunluklu arayüzler için, bilinmeyen veya desteklenmeyen bir protokol nedeniyle atılan ve arayüz üzerinden alınan iletim birimlerinin sayısı. Protokol çoklamasını desteklemeyen herhangi bir arayüz için bu sayaç her zaman 0 olacaktır.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3181" />
@@ -52456,7 +52456,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3185" />
         <source>For packet-oriented interfaces, the number of outbound packets that could not be transmitted because of errors. For character-oriented or fixed-length interfaces, the number of outbound transmission units that could not be transmitted because of errors.</source>
-        <translation>Paket tabanlı arabirimler için, hatalar nedeniyle iletilemeyen giden paketlerin sayısı. Karakter tabanlı veya sabit uzunluklu arabirimler için, hatalar nedeniyle iletilemeyen giden iletim birimlerinin sayısı.</translation>
+        <translation>Paket tabanlı arayüzler için, hatalar nedeniyle iletilemeyen giden paketlerin sayısı. Karakter tabanlı veya sabit uzunluklu arayüzler için, hatalar nedeniyle iletilemeyen giden iletim birimlerinin sayısı.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3186" />
@@ -52792,7 +52792,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3206" />
         <source>The index value which uniquely identifies the local interface through which the next hop of this route should be reached. The interface identified by a particular value of this index is the same interface as identified by the same value of ifIndex.</source>
-        <translation>Bu yolun bir sonraki atlama noktasına ulaşılması gereken yerel arabirimi benzersiz bir şekilde tanımlayan dizin değeri. Bu dizinin belirli bir değeri ile tanımlanan arabirim, ifIndex'in aynı değeri ile tanımlanan arabirimle aynıdır.</translation>
+        <translation>Bu yolun bir sonraki atlama noktasına ulaşılması gereken yerel arayüzü benzersiz bir şekilde tanımlayan dizin değeri. Bu dizinin belirli bir değeri ile tanımlanan arayüz, ifIndex'in aynı değeri ile tanımlanan arabirimle aynıdır.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3207" />
@@ -52843,7 +52843,7 @@ ipRouteDest değeri 0.0.0.0 (varsayılan yol) ise, maske değeri de 0.0.0.0 olur
         <location filename="../gui/CTranslationDB.cpp" line="3217" />
         <location filename="../gui/CTranslationDB.cpp" line="3224" />
         <source>The index value that uniquely identifies the interface to which this entry is applicable. The interface identified by a particular value of this index is the same interface as identified by the same value of the IF-MIB's ifIndex.</source>
-        <translation>Bu girişin geçerli olduğu arabirimi benzersiz bir şekilde tanımlayan dizin değeri. Bu dizinin belirli bir değeri ile tanımlanan arabirim, IF-MIB'nin ifIndex'inin aynı değeri ile tanımlanan arabirimle aynıdır.</translation>
+        <translation>Bu girişin geçerli olduğu arayüzü benzersiz bir şekilde tanımlayan dizin değeri. Bu dizinin belirli bir değeri ile tanımlanan arayüz, IF-MIB'nin ifIndex'inin aynı değeri ile tanımlanan arabirimle aynıdır.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3218" />
@@ -53175,7 +53175,7 @@ ipRouteDest değeri 0.0.0.0 (varsayılan yol) ise, maske değeri de 0.0.0.0 olur
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="103" />
         <source>The [[MODULE_NAME]] module is a High-Speed WAN Interface Card providing integrated Access Point functionality in the Cisco 1800 (Modular), Cisco 2800, and Cisco 3800 Integrated Services Routers. It supports Single Band 802.11b/g or Dual Band 802.11a/b/g radios.</source>
-        <translation>[[MODULE_NAME]] modülü, Cisco 1800 (Modüler), Cisco 2800 ve Cisco 3800 Entegre Hizmet Yönlendiricilerinde entegre Erişim Noktası işlevselliği sağlayan bir Yüksek Hızlı WAN Arabirim Kartıdır. Tek Bant 802.11b/g veya Çift Bant 802.11a/b/g radyo bağlantılarını destekler.</translation>
+        <translation>[[MODULE_NAME]] modülü, Cisco 1800 (Modüler), Cisco 2800 ve Cisco 3800 Entegre Hizmet Yönlendiricilerinde entegre Erişim Noktası işlevselliği sağlayan bir Yüksek Hızlı WAN Arayüz Kartıdır. Tek Bant 802.11b/g veya Çift Bant 802.11a/b/g radyo bağlantılarını destekler.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="191" />
@@ -53555,7 +53555,7 @@ ipRouteDest değeri 0.0.0.0 (varsayılan yol) ise, maske değeri de 0.0.0.0 olur
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2027" />
         <source>The Router Solicitation packet is dropped because the interface [[PORT]] is a loopback.</source>
-        <translation>[[PORT]] arabirimi bir geri döngü (loopback) olduğu için Router Solicitation paketi reddedilir.</translation>
+        <translation>[[PORT]] arayüzü bir geri döngü (loopback) olduğu için Router Solicitation paketi reddedilir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2052" />
@@ -56475,7 +56475,7 @@ End the expression with: ")</source>
         <location filename="../gui/Workspace/Workspace.cpp" line="1676" />
         <location filename="../gui/Workspace/Workspace.cpp" line="2557" />
         <source>Main Wiring Closet</source>
-        <translation>Ana Kablo Dolabı</translation>
+        <translation>Ana Kablolama Dolabı</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Workspace.cpp" line="885" />
@@ -56772,12 +56772,12 @@ End the expression with: ")</source>
     <message>
         <location filename="../gui/MainWindow/WorkspaceList.cpp" line="921" />
         <source>More than 1 cellular module installed on End Devices is not supported -- %1</source>
-        <translation>Son Cihazlara 1'den fazla hücresel modül takılması desteklenmez -- %1</translation>
+        <translation>Uç Cihazlara 1'den fazla hücresel modül takılması desteklenmez -- %1</translation>
     </message>
     <message>
         <location filename="../gui/MainWindow/WorkspaceList.cpp" line="921" />
         <source> does not support adding more than 1 cellular module on End Devices.</source>
-        <translation>Son Cihazlara 1'den fazla hücresel modül eklenmesi desteklenmez.</translation>
+        <translation>Uç Cihazlara 1'den fazla hücresel modül eklenmesi desteklenmez.</translation>
     </message>
     <message>
         <location filename="../gui/MainWindow/WorkspaceList.cpp" line="925" />
@@ -57016,12 +57016,12 @@ End the expression with: ")</source>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationDialog.cpp" line="1163" />
         <location filename="../gui/DeviceConfig/Workstation/WorkstationDialog.cpp" line="2266" />
         <source>This device does not have any interfaces.</source>
-        <translation>Bu cihazda herhangi bir arabirim bulunmamaktadır.</translation>
+        <translation>Bu cihazda herhangi bir arayüz bulunmamaktadır.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationDialog.cpp" line="1627" />
         <source>A modem interface is required to dial out.</source>
-        <translation>Dışarıya arama yapmak için bir modem arabirimi gereklidir.</translation>
+        <translation>Dışarıya arama yapmak için bir modem arayüzü gereklidir.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationDialog.cpp" line="1964" />
@@ -57031,7 +57031,7 @@ End the expression with: ")</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationDialog.cpp" line="2263" />
         <source>A WMP300N or WPC300N wireless interface is required to connect.</source>
-        <translation>Bağlanmak için bir WMP300N veya WPC300N kablosuz arabirimi gereklidir.</translation>
+        <translation>Bağlanmak için bir WMP300N veya WPC300N kablosuz arayüzü gereklidir.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationDialog.cpp" line="2214" />
@@ -57042,7 +57042,7 @@ End the expression with: ")</source>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationDialog.cpp" line="1163" />
         <location filename="../gui/DeviceConfig/Workstation/WorkstationDialog.cpp" line="1698" />
         <source>No Interfaces -- %1</source>
-        <translation>Arabirim Yok -- %1</translation>
+        <translation>Arayüz Yok -- %1</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationDialog.cpp" line="2220" />
@@ -57121,7 +57121,7 @@ End the expression with: ")</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationDialog.cpp" line="1698" />
         <source>This device does not have any bluetooth interfaces.</source>
-        <translation>Bu cihazda Bluetooth arabirimi bulunmamaktadır.</translation>
+        <translation>Bu cihazda Bluetooth arayüzü bulunmamaktadır.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationDialog.cpp" line="1958" />
@@ -57332,7 +57332,7 @@ End the expression with: ")</source>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="304" />
         <source>D&amp;isconnect</source>
-        <translation>D&amp;Bağlantıyı kes</translation>
+        <translation>D&amp;Bağlantıyı Kes</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="298" />
@@ -57447,7 +57447,7 @@ Bağlantı Noktası</translation>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="366" />
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="375" />
         <source>Invalid Local Port -- %1</source>
-        <translation>Geçersiz Bağlantı-Yerel (Link-Local) Noktası -- %1</translation>
+        <translation>Geçersiz Yerel Bağlantı Noktası -- %1</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="546" />
@@ -57479,7 +57479,7 @@ Bağlantı Noktası</translation>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="366" />
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="375" />
         <source>Enter a valid Number for Local Port. Valid range is 1 to 65535. Keyword "any" is supported.</source>
-        <translation>Bağlantı-Yerel (Link-Local) Noktası için geçerli bir sayı girin. Geçerli aralık 1 ile 65535 arasındadır. "any" anahtar sözcüğü desteklenmektedir.</translation>
+        <translation>Yerel Bağlantı Noktası için geçerli bir sayı girin. Geçerli aralık 1 ile 65535 arasındadır. "any" anahtar sözcüğü desteklenmektedir.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="546" />
@@ -57706,7 +57706,7 @@ Bağlantı Noktası</translation>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="366" />
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="375" />
         <source>Invalid Local Port -- %1</source>
-        <translation>Geçersiz Bağlantı-Yerel (Link-Local) Noktası -- %1</translation>
+        <translation>Geçersiz Yerel Bağlantı Noktası -- %1</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="553" />
@@ -57733,7 +57733,7 @@ Bağlantı Noktası</translation>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="366" />
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="375" />
         <source>Enter a valid Number for Local Port. Valid range is 1 to 65535. Keyword "any" is supported.</source>
-        <translation>Bağlantı-Yerel (Link-Local) Noktası için geçerli bir sayı girin. Geçerli aralık 1 ile 65535 arasındadır. "any" anahtar sözcüğü desteklenir.</translation>
+        <translation>Yerel Bağlantı Noktası için geçerli bir sayı girin. Geçerli aralık 1 ile 65535 arasındadır. "any" anahtar sözcüğü desteklenir.</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="553" />
@@ -60348,7 +60348,7 @@ Değişikliklerinizi kaydetmek istiyor musunuz?</translation>
     <message>
         <location filename="../gui/DesignerFiles/Login/login.ui" line="688" />
         <source>Skills For All Login</source>
-        <translation>Herkes İçin Beceriler Giriş</translation>
+        <translation>Skills For All Oturum Açma</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/login.ui" line="734" />
@@ -61520,7 +61520,7 @@ Bir komut dosyası modülü oluşturmanın genel sırası şöyledir:</translati
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="830" />
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="833" />
         <source>Issued By:</source>
-        <translation>Düzenleyen:</translation>
+        <translation>Veren:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="853" />
