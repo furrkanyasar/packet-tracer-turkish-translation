@@ -30818,7 +30818,7 @@ ve önceki tüm ayarlar silinecektir.</translation>
         <location filename="../gui/DeviceConfig/IPPhone/IPPhoneGUI.cpp" line="433" />
         <location filename="../gui/DeviceConfig/IPPhone/IPPhoneGUI.cpp" line="913" />
         <source>Ring Out</source>
-        <translation>Çalma Sona Erdi</translation>
+        <translation>Çalıyor (Giden Arama)</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/IPPhone/IPPhoneGUI.cpp" line="448" />
@@ -40897,7 +40897,7 @@ Yeni sürümü kullanmak ister misiniz?</translation>
     <message>
         <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="264" />
         <source>Go Back to Previous Event (Option + B).</source>
-        <translation>Önceki Olayına Geri Dön (Option + B).</translation>
+        <translation>Önceki Olaya Geri Dön (Option + B).</translation>
     </message>
     <message>
         <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="265" />
@@ -43582,7 +43582,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1135" />
         <source>The [[DEVICE_TYPE]] broadcasts a gratuitous ARP of its own IP and MAC address. </source>
-        <translation>[[DEVICE_TYPE]], kendi IP ve MAC adresi için gereksiz bir ARP yayını yapar.</translation>
+        <translation>[[DEVICE_TYPE]], kendi IP ve MAC adresi için Gratuitous ARP yayını yapar.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1136" />
@@ -43592,27 +43592,27 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1137" />
         <source>The ARP frame is a gratuitous ARP Request.</source>
-        <translation>ARP çerçevesi, gereksiz bir ARP İsteğidir.</translation>
+        <translation>ARP çerçevesi, Gratuitous ARP İsteğidir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1138" />
         <source>The ARP frame is a gratuitous ARP Reply.</source>
-        <translation>ARP çerçevesi, gereksiz bir ARP Yanıtıdır.</translation>
+        <translation>ARP çerçevesi, Gratuitous ARP Yanıtıdır.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1139" />
         <source>The ARP frame is a gratuitous ARP Request to fix the LAN hosts' ARP cache due to a duplicate IP address conflict.</source>
-        <translation>ARP çerçevesi, yinelenen IP adresi çakışması nedeniyle LAN ana bilgisayarlarının ARP önbelleğini düzeltmek için gönderilen gereksiz bir ARP İsteğidir.</translation>
+        <translation>ARP çerçevesi, yinelenen IP adresi çakışması nedeniyle LAN ana bilgisayarlarının ARP önbelleğini düzeltmek için gönderilen Gratuitous ARP İsteğidir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1140" />
         <source>The ARP frame is a gratuitous ARP Reply to notify [[MAC_ADDRESS]] the IP address [[IP_ADDRESS]] is already used in the network.</source>
-        <translation>ARP çerçevesi, [[MAC_ADDRESS]] adresine [[IP_ADDRESS]] IP adresinin ağda zaten kullanıldığını bildirmek için gönderilen gereksiz bir ARP Yanıtıdır.</translation>
+        <translation>ARP çerçevesi, [[MAC_ADDRESS]] adresine [[IP_ADDRESS]] IP adresinin ağda zaten kullanıldığını bildirmek için gönderilen Gratuitous ARP Yanıtıdır.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1141" />
         <source>The ARP frame is a gratuitous ARP Reply to notify others the IP address [[IP_ADDRESS]] is already used in the network.</source>
-        <translation>ARP çerçevesi, [[IP_ADDRESS]] IP adresinin ağda zaten kullanıldığını diğerlerine bildirmek için gönderilen gereksiz bir ARP Yanıtıdır.</translation>
+        <translation>ARP çerçevesi, [[IP_ADDRESS]] IP adresinin ağda zaten kullanıldığını diğerlerine bildirmek için gönderilen Gratuitous ARP Yanıtıdır.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1142" />
@@ -52510,12 +52510,12 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3408" />
         <source>Sending a resign hello message</source>
-        <translation>Yeniden kayıt selam mesajı gönderiliyor</translation>
+        <translation>Aktif rolü bırakma Hello mesajı gönderiliyor</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3409" />
         <source>Sending a coup hello message</source>
-        <translation>"coup" selam mesajı gönderiliyor</translation>
+        <translation>Devralma (Coup) Hello mesajı gönderiliyor</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3411" />
@@ -55526,7 +55526,7 @@ Kablo Türü: %6</translation>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="285" />
         <source>Fire</source>
-        <translation>Yangın</translation>
+        <translation>Tetikle</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="285" />
@@ -57331,7 +57331,7 @@ End the expression with: ")</source>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="304" />
         <source>D&amp;isconnect</source>
-        <translation>D&amp;Bağlantıyı Kes</translation>
+        <translation>&amp;Bağlantıyı Kes</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="298" />

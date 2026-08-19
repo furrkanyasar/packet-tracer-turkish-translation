@@ -83,6 +83,7 @@ Bu belge; **Cisco Packet Tracer Türkçe Dil Paketi** projesinde kullanılan tek
 | **Latency / Delay** | Gecikme | Verinin kaynaktan hedefe ulaşma süresi |
 | **Payload** | Veri Yükü (Payload) | Paketin taşıdığı asıl kullanıcı verisi |
 | **Hash Table** | Hash Tablosu | Bilgisayar bilimi veri yapısı ("Karma tablo" yapılmaz) |
+| **Gratuitous ARP** | Gratuitous ARP (Karşılıksız ARP) | IP çakışması ve ARP tablosu güncelleme duyurusu ("Gereksiz ARP" yapılmaz) |
 
 ---
 
