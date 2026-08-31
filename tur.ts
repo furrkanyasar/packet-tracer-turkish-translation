@@ -41224,7 +41224,7 @@ Ağı sıfırlamak ister misiniz?</translation>
     <message>
         <location filename="../gui/Workspace/Physical/RackView/StackableWidget.cpp" line="544" />
         <source>Removing the table will also delete all the devices. Continue?</source>
-        <translation>Tabloyu kaldırmak, tüm cihazları da silecektir. Devam etmek istiyor musunuz?</translation>
+        <translation>Masayı kaldırmak, tüm cihazları da silecektir. Devam etmek istiyor musunuz?</translation>
     </message>
 </context>
 <context>
