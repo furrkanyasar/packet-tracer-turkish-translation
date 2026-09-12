@@ -98,6 +98,7 @@ Bu belge; **Cisco Packet Tracer Türkçe Dil Paketi** projesinde kullanılan tek
 | **Crossover Cable** | Çapraz Kablo | Benzer cihazları bağlayan bakır kablo |
 | **Fiber Optic** | Fiber / Fiber Optik | Yüksek hızlı optik kablo |
 | **Console Cable** | Konsol Kablosu | Cihaz yönetimi için kullanılan mavi kablo |
+| **Cable Pegboard** | Kablo Askı Panosu | Kabloların asıldığı delikli duvar panosu ("Kablo Rafı" yapılmaz) |
 | **Fast Ethernet** | Fast Ethernet | 100 Mbps Ethernet port/teknolojisi |
 | **Gigabit Ethernet** | Gigabit Ethernet | 1000 Mbps Ethernet port/teknolojisi |
 | **Coverage Range** | Kapsama Menzili | Kablosuz sinyal alanı ("metre / fit") |

@@ -59,7 +59,7 @@ if not defined TARGET_DIR (
 )
 
 if not defined TARGET_DIR (
-    for /d %%D in ("%ProgramFiles%\Cisco Packet Tracer*" "D:\Cisco Packet Tracer*" "E:\Cisco Packet Tracer*") do (
+    for /d %%D in ("%ProgramFiles%\Cisco Packet Tracer*" "%ProgramFiles(x86)%\Cisco Packet Tracer*" "D:\Cisco Packet Tracer*" "E:\Cisco Packet Tracer*") do (
         if not defined TARGET_DIR if exist "%%D\languages" set "TARGET_DIR=%%D\languages"
     )
 )
@@ -86,6 +86,8 @@ if not defined TARGET_DIR (
     pause
     exit /b 1
 )
+
+if "%TARGET_DIR:~-1%"=="\" set "TARGET_DIR=%TARGET_DIR:~0,-1%"
 
 echo [OK] Packet Tracer Kurulumu Bulundu:
 echo      "%TARGET_DIR%"

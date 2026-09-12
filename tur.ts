@@ -13197,7 +13197,7 @@ Bağlantı Noktası</translation>
     <message>
         <location filename="../gui/AppWindow.cpp" line="939" />
         <source>Customize any existing device model with pre-installed modules and IOS versions.</source>
-        <translation>Önceden yüklenmiş modüller ve iOS sürümleriyle mevcut herhangi bir cihaz modelini özelleştirin.</translation>
+        <translation>Önceden yüklenmiş modüller ve IOS sürümleriyle mevcut herhangi bir cihaz modelini özelleştirin.</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="945" />
@@ -13835,7 +13835,7 @@ Bağlantı Noktası</translation>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4710" />
         <source>Use as the Answer Network? -- %1</source>
-        <translation>Cevap Ağı olarak kullan? -- %1</translation>
+        <translation>Cevap Ağı olarak kullanılsın mı? -- %1</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4970" />
@@ -13865,7 +13865,7 @@ Bağlantı Noktası</translation>
     <message>
         <location filename="../gui/AppWindow.cpp" line="6562" />
         <source>Update User Apps? -- %1</source>
-        <translation>Kullanıcı Uygulamalarını Güncelle? -- %1</translation>
+        <translation>Kullanıcı Uygulamaları Güncellensin mi? -- %1</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="6794" />
@@ -17509,7 +17509,7 @@ Yönlendirici(config)#&lt;/font&gt;</translation>
         <source>Command
 Prompt</source>
         <translation>Komut
-Komut</translation>
+İstemi</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1564" />
@@ -28354,7 +28354,7 @@ ve önceki tüm ayarlar silinecektir.</translation>
     <message>
         <location filename="../gui/FileTreeView.cpp" line="58" />
         <source>Please Select a File to Upgrade Firmware</source>
-        <translation>Firmware'i Güncellemek İçin Lütfen Bir Dosya Seçin</translation>
+        <translation>Firmware'i Yükseltmek İçin Lütfen Bir Dosya Seçin</translation>
     </message>
     <message>
         <location filename="../gui/FileTreeView.cpp" line="67" />
@@ -31699,7 +31699,7 @@ etkinliği sıfırlamak istiyor musunuz?</translation>
         <location filename="../gui/activity/LockingTree.cpp" line="390" />
         <location filename="../gui/activity/LockingTree.cpp" line="635" />
         <source>Export/Import IOS Config</source>
-        <translation>iOS Yapılandırmasını Dışa/İçe Aktar</translation>
+        <translation>IOS Yapılandırmasını Dışa/İçe Aktar</translation>
     </message>
     <message>
         <location filename="../gui/activity/LockingTree.cpp" line="394" />
@@ -35533,25 +35533,29 @@ Hedef: %3</translation>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2645" />
         <source>Layer 4: 
 </source>
-        <translation>Katman 4:</translation>
+        <translation>Katman 4: 
+</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2653" />
         <source>Layer 5: 
 </source>
-        <translation>Katman 5:</translation>
+        <translation>Katman 5: 
+</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2661" />
         <source>Layer 6: 
 </source>
-        <translation>Katman 6:</translation>
+        <translation>Katman 6: 
+</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2669" />
         <source>Layer 7: 
 </source>
-        <translation>Katman 7:</translation>
+        <translation>Katman 7: 
+</translation>
     </message>
     <message>
         <location filename="../gui/PDUInfo/PDUInfo.cpp" line="2675" />
@@ -36748,7 +36752,9 @@ Wireless Signal Strength: </source>
         <source>
 Bluetooth Tether AP: %1
 </source>
-        <translation>Bluetooth Tether AP: %1</translation>
+        <translation>
+Bluetooth Tether AP: %1
+</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="1144" />
@@ -36764,13 +36770,15 @@ Bluetooth Tether AP: %1
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="1249" />
         <source>Not connected
 </source>
-        <translation>Bağlı değil</translation>
+        <translation>Bağlı değil
+</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="1252" />
         <source>Connected to %1
 </source>
-        <translation>%1'e bağlı</translation>
+        <translation>%1'e bağlı
+</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="1253" />
@@ -36781,7 +36789,8 @@ Bluetooth Tether AP: %1
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="1255" />
         <source>None
 </source>
-        <translation>Yok</translation>
+        <translation>Yok
+</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="1279" />
@@ -36817,7 +36826,8 @@ Bluetooth Tether AP: %1
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="1383" />
         <source>Visible Ports:
 </source>
-        <translation>Görünür Bağlantı Noktaları:</translation>
+        <translation>Görünür Bağlantı Noktaları:
+</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="1395" />
@@ -40941,7 +40951,7 @@ You may clear the event list and continue from where you
 left off or adjust the filters to view previous events.</source>
         <translation>Maksimum olay sayısına ulaşıldı. 
 Olay listesini temizleyip kaldığınız yerden devam edebilir 
-devam edebilir veya filtreleri ayarlayarak önceki olayları görüntüleyebilirsiniz.</translation>
+veya filtreleri ayarlayarak önceki olayları görüntüleyebilirsiniz.</translation>
     </message>
     <message>
         <location filename="../gui/Simulation/SimulationPanel/SimulationPanel.cpp" line="684" />
@@ -41626,7 +41636,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="167" />
         <source>Erase the startup-config file?</source>
-        <translation>startup-config dosyasını silmek mi?</translation>
+        <translation>startup-config dosyası silinsin mi?</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="171" />
@@ -46196,7 +46206,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1799" />
         <source>TCP processes payload data.</source>
-        <translation>TCP, yük verilerini işler.</translation>
+        <translation>TCP, veri yükünü işler.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1800" />
@@ -46266,7 +46276,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1813" />
         <source>TCP stores the payload data for further reassembling of data from incoming segments.</source>
-        <translation>TCP, gelen segmentlerden gelen verilerin daha sonra yeniden birleştirilmesi için yük verilerini depolar.</translation>
+        <translation>TCP, gelen segmentlerden gelen verilerin daha sonra yeniden birleştirilmesi için veri yükünü depolar.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1814" />
@@ -47013,7 +47023,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2193" />
         <source>Cable Pegboard</source>
-        <translation>Kablo Rafı</translation>
+        <translation>Kablo Askı Panosu</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2427" />
@@ -48272,13 +48282,13 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2188" />
         <source>Move to </source>
-        <translation>Şuraya git</translation>
+        <translation>Şuraya taşı </translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2189" />
         <location filename="../gui/CTranslationDB.cpp" line="2192" />
         <source>Table</source>
-        <translation>Tablo</translation>
+        <translation>Masa</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2190" />
@@ -49064,7 +49074,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2554" />
         <source>The device sends an IP fragment with the FO [[FO]], a payload length [[LENGTH]] bytes, and a total length [[PKT_LEN]] bytes.</source>
-        <translation>Cihaz, FO [[FO]], [[LENGTH]] bayt yük uzunluğu ve [[PKT_LEN]] bayt toplam uzunluğa sahip bir IP parçacığı gönderir.</translation>
+        <translation>Cihaz, FO [[FO]], [[LENGTH]] bayt veri yükü uzunluğu ve [[PKT_LEN]] bayt toplam uzunluğa sahip bir IP parçacığı gönderir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2555" />
@@ -49120,7 +49130,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2566" />
         <source>The source device sends out an IPv6 fragment (FO: [[FO]], payload length [[LEN]] bytes, and total length [[PKT_LEN]] bytes).</source>
-        <translation>Kaynak cihaz bir IPv6 parçacığı (FO: [[FO]], yük uzunluğu [[LEN]] bayt ve toplam uzunluk [[PKT_LEN]] bayt) gönderir.</translation>
+        <translation>Kaynak cihaz bir IPv6 parçacığı (FO: [[FO]], veri yükü uzunluğu [[LEN]] bayt ve toplam uzunluk [[PKT_LEN]] bayt) gönderir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2568" />
@@ -50823,7 +50833,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1580" />
         <source>The routing table does not have a route to the destination IP address. The device drops the packet.</source>
-        <translation>Yönlendirme tablosunda hedef IP adresine giden bir yol bulunmamaktadır. Cihaz, paketi atar.</translation>
+        <translation>Yönlendirme tablosunda hedef IP adresine giden bir rota bulunmamaktadır. Cihaz, paketi atar.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1582" />
@@ -50980,7 +50990,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1607" />
         <source>The device does not find the route for the destination address. It sends the packet to the default-gateway.</source>
-        <translation>Cihaz, hedef adres için bir yol bulamaz. Paketi varsayılan ağ geçidine gönderir.</translation>
+        <translation>Cihaz, hedef adres için bir rota bulamaz. Paketi varsayılan ağ geçidine gönderir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1610" />
@@ -51057,7 +51067,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1627" />
         <source>The device does not have a route to the network. It replies with infinity.</source>
-        <translation>Cihazın ağa giden bir yolu yoktur. Cihaz, sonsuzluk yanıtını gönderir.</translation>
+        <translation>Cihazın ağa giden bir rotası yoktur. Cihaz, sonsuzluk yanıtını gönderir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1628" />
@@ -51147,7 +51157,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1651" />
         <source>The device creates a Poison Reverse Update packet to be sent out on the interface where the route is learned.</source>
-        <translation>Cihaz, yolun öğrenildiği arayüz üzerinden gönderilmek üzere bir Poison Reverse Update paketi oluşturur.</translation>
+        <translation>Cihaz, rotanın öğrenildiği arayüz üzerinden gönderilmek üzere bir Poison Reverse Update paketi oluşturur.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1652" />
@@ -51199,7 +51209,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1664" />
         <source>The device has a route to the network. It replies with the information in the route.</source>
-        <translation>Cihazın ağa giden bir yolu vardır. Yoldaki bilgilerle yanıt verir.</translation>
+        <translation>Cihazın ağa giden bir rotası vardır. Rotadaki bilgilerle yanıt verir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1665" />
@@ -51215,12 +51225,12 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1670" />
         <source>The reply route is better than the best route in the reply table. The device replaces the best route in the reply table.</source>
-        <translation>Yanıt yol, yanıt tablosundaki en iyi yoldan daha iyidir. Cihaz, yanıt tablosundaki en iyi yolu bu yolla değiştirir.</translation>
+        <translation>Yanıt rota, yanıt tablosundaki en iyi rotadan daha iyidir. Cihaz, yanıt tablosundaki en iyi rotayı bu rotayla değiştirir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1671" />
         <source>The device does not have a route to the network. The device drops the packet.</source>
-        <translation>Cihazın ağa giden bir yolu yoktur. Cihaz, paketi atar.</translation>
+        <translation>Cihazın ağa giden bir rotası yoktur. Cihaz, paketi atar.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1672" />
@@ -51245,7 +51255,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1676" />
         <source>The device sends a Reply packet with the best route on [[NETWORK]]/[[MASK_BITS]] to the neighbor [[NEIGHBOR_IP]].</source>
-        <translation>Cihaz, [[NETWORK]]/[[MASK_BITS]] üzerindeki en iyi yolu içeren bir Yanıt paketi komşu [[NEIGHBOR_IP]]'ye gönderir.</translation>
+        <translation>Cihaz, [[NETWORK]]/[[MASK_BITS]] üzerindeki en iyi rotayı içeren bir Yanıt paketi komşu [[NEIGHBOR_IP]]'ye gönderir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1677" />
@@ -51255,7 +51265,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1678" />
         <source>The device updates its neighbors with the new route information on network [[NETWORK]]/[[MASK_BITS]].</source>
-        <translation>Cihaz, [[NETWORK]]/[[MASK_BITS]] ağındaki yeni yol bilgileriyle komşularını günceller.</translation>
+        <translation>Cihaz, [[NETWORK]]/[[MASK_BITS]] ağındaki yeni rota bilgileriyle komşularını günceller.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1679" />
@@ -51450,7 +51460,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1727" />
         <source>This route's metric is infinity. The device ignores the update.</source>
-        <translation>Bu yolun metriği sonsuzdur. Cihaz, güncellemeyi yok sayar.</translation>
+        <translation>Bu rotanın metriği sonsuzdur. Cihaz, güncellemeyi yok sayar.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1728" />
@@ -51460,17 +51470,17 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1729" />
         <source>Network route [[ip]] is either a broadcast, class D or class E. The device ignores the update.</source>
-        <translation>[[ip]] ağ yolu ya bir yayın, ya D sınıfı ya da E sınıfıdır. Cihaz güncellemeyi yok sayar.</translation>
+        <translation>[[ip]] ağ rotası ya bir yayın, ya D sınıfı ya da E sınıfıdır. Cihaz güncellemeyi yok sayar.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1730" />
         <source>Network route [[ip]] is a directly connected route. The device ignores the update.</source>
-        <translation>[[ip]] ağ yolu, doğrudan bağlı bir yoldur. Cihaz, güncellemeyi yok sayar.</translation>
+        <translation>[[ip]] ağ rotası, doğrudan bağlı bir rotadır. Cihaz, güncellemeyi yok sayar.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1731" />
         <source>This is a new route. The device adds the route to its database and routing table.</source>
-        <translation>Bu yeni bir yoldur. Cihaz, yolu veritabanına ve yönlendirme tablosuna ekler.</translation>
+        <translation>Bu yeni bir rotadır. Cihaz, rotayı veritabanına ve yönlendirme tablosuna ekler.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1732" />
@@ -51485,7 +51495,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1734" />
         <source>After checking via auto-summary and split-horizon, there are no routes composed for the RIP RESPONSE. The device drops the packet.</source>
-        <translation>Otomatik özetleme ve bölünmüş ufuk yöntemleriyle kontrol edildikten sonra, RIP YANITI için oluşturulmuş herhangi bir yol bulunmamaktadır. Cihaz, paketi atar.</translation>
+        <translation>Otomatik özetleme ve bölünmüş ufuk yöntemleriyle kontrol edildikten sonra, RIP YANITI için oluşturulmuş herhangi bir rota bulunmamaktadır. Cihaz, paketi atar.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1736" />
@@ -51686,7 +51696,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2026" />
         <source>The Router Solicitation packet is dropped because Sending of IPv6 Router advertisements is disabled by default on tunnel interfaces.</source>
-        <translation>Tünel arayüzlerinde IPv6 Yönlendirici İlanlarının gönderilmesi varsayılan olarak devre dışı olduğundan, Yönlendirici Talep paketi atılır.</translation>
+        <translation>Tünel arayüzlerinde IPv6 Yönlendirici Duyurularının gönderilmesi varsayılan olarak devre dışı olduğundan, Yönlendirici Talep paketi atılır.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2029" />
@@ -52185,7 +52195,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3116" />
         <source>TACACS CLIENT:Receive username: as username prompt</source>
-        <translation>TACACS İSTEMCİSİ: Kullanıcı adı istemine yanıt olarak "as" kullanıcı adını aldı</translation>
+        <translation>TACACS İSTEMCİSİ: Kullanıcı adı istemi olarak "username:" bilgisini aldı</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3117" />
@@ -52225,7 +52235,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3126" />
         <source>TACACS SERVER: Send username: as username prompt</source>
-        <translation>TACACS SUNUCUSU: Kullanıcı adı istemini "kullanıcı adı" olarak gönder</translation>
+        <translation>TACACS SUNUCUSU: Kullanıcı adı istemi olarak "username:" bilgisini gönderir</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3127" />
@@ -52240,7 +52250,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3129" />
         <source>TACACS SERVER: Send password: as password prompt</source>
-        <translation>TACACS SUNUCUSU: Parola: komut satırını gönderdi</translation>
+        <translation>TACACS SUNUCUSU: Parola istemi olarak "password:" bilgisini gönderir</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3130" />
@@ -52791,12 +52801,12 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3206" />
         <source>The index value which uniquely identifies the local interface through which the next hop of this route should be reached. The interface identified by a particular value of this index is the same interface as identified by the same value of ifIndex.</source>
-        <translation>Bu yolun bir sonraki atlama noktasına ulaşılması gereken yerel arayüzü benzersiz bir şekilde tanımlayan dizin değeri. Bu dizinin belirli bir değeri ile tanımlanan arayüz, ifIndex'in aynı değeri ile tanımlanan arayüzle aynıdır.</translation>
+        <translation>Bu rotanın bir sonraki atlama noktasına ulaşılması gereken yerel arayüzü benzersiz bir şekilde tanımlayan dizin değeri. Bu dizinin belirli bir değeri ile tanımlanan arayüz, ifIndex'in aynı değeri ile tanımlanan arayüzle aynıdır.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3207" />
         <source>The primary routing metric for this route. The semantics of this metric are determined by the routing-protocol specified in the route's ipRouteProto value. If this metric is not used, its value should be set to -1.</source>
-        <translation>Bu yol için birincil yönlendirme metriği. Bu metriğin anlamı, yolun ipRouteProto değerinde belirtilen yönlendirme protokolü tarafından belirlenir. Bu metrik kullanılmıyorsa, değeri -1 olarak ayarlanmalıdır.</translation>
+        <translation>Bu rota için birincil yönlendirme metriği. Bu metriğin anlamı, rotanın ipRouteProto değerinde belirtilen yönlendirme protokolü tarafından belirlenir. Bu metrik kullanılmıyorsa, değeri -1 olarak ayarlanmalıdır.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3208" />
@@ -52806,7 +52816,7 @@ Beklemeyi durdurmak ve mevcut yanıtlanan verilerle kaydetmek için İptal'e tı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3210" />
         <source>The routing mechanism via which this route was learned. Inclusion of values for gateway routing protocols is not intended to imply that hosts should support those protocols.</source>
-        <translation>Bu yolun öğrenildiği yönlendirme mekanizması. Ağ geçidi yönlendirme protokollerine ait değerlerin dahil edilmesi, ana bilgisayarların bu protokolleri desteklemesi gerektiği anlamına gelmez.</translation>
+        <translation>Bu rotanın öğrenildiği yönlendirme mekanizması. Ağ geçidi yönlendirme protokollerine ait değerlerin dahil edilmesi, ana bilgisayarların bu protokolleri desteklemesi gerektiği anlamına gelmez.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3211" />
@@ -52826,7 +52836,7 @@ maske ağ
 255.0.0.0 sınıf-A
 255.255.0.0 sınıf-B
 255.255.255.0 sınıf-C
-ipRouteDest değeri 0.0.0.0 (varsayılan yol) ise, maske değeri de 0.0.0.0 olur. Tüm IP yönlendirme alt sistemlerinin bu mekanizmayı örtük olarak kullandığı unutulmamalıdır.</translation>
+ipRouteDest değeri 0.0.0.0 (varsayılan rota) ise, maske değeri de 0.0.0.0 olur. Tüm IP yönlendirme alt sistemlerinin bu mekanizmayı örtük olarak kullandığı unutulmamalıdır.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3213" />
@@ -52927,12 +52937,12 @@ ipRouteDest değeri 0.0.0.0 (varsayılan yol) ise, maske değeri de 0.0.0.0 olur
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3258" />
         <source>A value of true(1) indicates the route to the destination network has failed and an active (query) search for an alternative path is in progress. A value of false(2) indicates the route is stable (passive).</source>
-        <translation>true(1) değeri, hedef ağa giden yolun başarısız olduğunu ve alternatif bir yol için aktif (sorgu) arama işleminin devam ettiğini gösterir. false(2) değeri ise yolun kararlı (pasif) olduğunu gösterir.</translation>
+        <translation>true(1) değeri, hedef ağa giden rotanın başarısız olduğunu ve alternatif bir yol için aktif (sorgu) arama işleminin devam ettiğini gösterir. false(2) değeri ise rotanın kararlı (pasif) olduğunu gösterir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3259" />
         <source>A successor is the next routing hop for a path to the destination IP network number for a single route in the topology table in the AS. There can be several potential successors if there are multiple paths to the destination. This is the total number of successors for a topology entry.</source>
-        <translation>Successor, AS'deki topoloji tablosundaki tek bir yol için hedef IP ağ numarasına giden yolun bir sonraki yönlendirme atlamasıdır. Hedefe giden birden fazla yol varsa, birkaç potansiyel successor olabilir. Bu, bir topoloji girdisi için toplam successor sayısıdır.</translation>
+        <translation>Successor, AS'deki topoloji tablosundaki tek bir rota için hedef IP ağ numarasına giden yolun bir sonraki yönlendirme atlamasıdır. Hedefe giden birden fazla yol varsa, birkaç potansiyel successor olabilir. Bu, bir topoloji girdisi için toplam successor sayısıdır.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3261" />
@@ -52942,7 +52952,7 @@ ipRouteDest değeri 0.0.0.0 (varsayılan yol) ise, maske değeri de 0.0.0.0 olur
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3263" />
         <source>This is the next hop IP address for the route represented by the topology entry. The next hop is where network traffic will be routed to in order to reach the destination network for this topology entry. The format is governed by cEigrpNextHopAddressType.</source>
-        <translation>Bu, topoloji girdisi tarafından temsil edilen yolun bir sonraki atlama noktası IP adresidir. Bir sonraki atlama noktası, bu topoloji girdisi için hedef ağa ulaşmak üzere ağ trafiğinin yönlendirileceği yerdir. Biçim, cEigrpNextHopAddressType tarafından belirlenir.</translation>
+        <translation>Bu, topoloji girdisi tarafından temsil edilen rotanın bir sonraki atlama noktası IP adresidir. Bir sonraki atlama noktası, bu topoloji girdisi için hedef ağa ulaşmak üzere ağ trafiğinin yönlendirileceği yerdir. Biçim, cEigrpNextHopAddressType tarafından belirlenir.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3264" />
@@ -54264,7 +54274,7 @@ FTP sunucusu, dosyanın var olup olmadığını kontrol eder ve yeniden adlandı
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3266" />
         <source>The computed distance to the destination network in the topology entry reported to this Router by the originator of this route.</source>
-        <translation>Bu yolun kaynağı tarafından bu Yönlendiriciye bildirilen topoloji girdisindeki hedef ağa hesaplanan mesafe.</translation>
+        <translation>Bu rotanın kaynağı tarafından bu Yönlendiriciye bildirilen topoloji girdisindeki hedef ağa hesaplanan mesafe.</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3271" />
@@ -57865,17 +57875,17 @@ Bağlantı Noktası</translation>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMailBrowser.cpp" line="355" />
         <source>Sending mail to </source>
-        <translation>Konu başlığı:</translation>
+        <translation>E-posta gönderiliyor: </translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMailBrowser.cpp" line="355" />
         <source> , with subject : </source>
-        <translation>adresine, konu:</translation>
+        <translation> , konu başlığı: </translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMailBrowser.cpp" line="355" />
         <source> ..   Mail Server: </source>
-        <translation>..   Posta Sunucusu:</translation>
+        <translation> ..   Posta Sunucusu: </translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMailBrowser.cpp" line="369" />
@@ -60395,7 +60405,7 @@ Değişikliklerinizi kaydetmek istiyor musunuz?</translation>
     <message>
         <location filename="../gui/DesignerFiles/Login/login.ui" line="893" />
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;DOWNLOADING, INSTALLING, OR USING THE CISCO PACKET TRACER SOFTWARE CONSTITUTES ACCEPTANCE OF THE CISCO END USER LICENSE AGREEMENT (“EULA” &lt;a href="https://www.cisco.com/c/en/us/about/legal/cloud-and-software/end_user_license_agreement.html"&gt;&lt;span style=" font-family:'Calibri','sans-serif'; text-decoration: underline; color:#0563c1;"&gt;https://www.cisco.com/c/en/us/about/legal/cloud-and-software/end_user_license_agreement.html&lt;/span&gt;&lt;/a&gt;) AND THE SUPPLEMENTAL END USER LICENSE AGREEMENT FOR CISCO PACKET TRACER (“SEULA” &lt;a href="https://www.cisco.com/c/dam/en_us/about/doing_business/legal/seula/cisco-packet-tracer-software.pdf"&gt;&lt;span style=" font-family:'Calibri','sans-serif'; text-decoration: underline; color:#0563c1;"&gt;https://www.cisco.com/c/dam/en_us/about/doing_business/legal/seula/cisco-packet-tracer-software.pdf&lt;/span&gt;&lt;/a&gt;). IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THE EULA AND SEULA, THEN CISCO SYSTEMS, INC. (“CISCO”) IS UNWILLING TO LICENSE THE SOFTWARE TO YOU AND YOU ARE NOT AUTHORIZED TO DOWNLOAD, INSTALL OR USE THE SOFTWARE.​&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;CISCO PACKET TRACER YAZILIMINI İNDİRMEK, KURMAK VEYA KULLANMAK, CISCO SON KULLANICI CISCO SON KULLANICI LİSANS SÖZLEŞMESİNİ (“EULA” &lt;a href="https://www.cisco.com/c/en/us/about/legal/cloud-and-software/end_user_license_agreement.html"&gt;&lt;span style=" font-family:'Calibri','sans-serif'; text-decoration: underline; color:#0563c1;"&gt;https://www.cisco.com/c/en/us/about/legal/cloud-and-software/end_user_license_agreement.html&lt;/span&gt;&lt;/a&gt;)) İLE CISCO PACKET TRACER İÇİN EK SON KULLANICI LİSANS SÖZLEŞMESİNİ (“SEULA” &lt;a href="https://www.cisco.com/c/dam/en_us/about/doing_business/legal/seula/cisco-packet-tracer-software.pdf"&gt;&lt;span style=" font-family:'Calibri','sans-serif'; text-decoration: underline; color:#0563c1;"&gt;https://www.cisco.com/c/dam/en_us/about/doing_business/legal/seula/cisco-packet-tracer-software.pdf&lt;/span&gt;&lt;/a&gt;). EULA VE SEULA'NIN TÜM ŞARTLARINI KABUL ETMİYORSANIZ, CISCO SYSTEMS, INC. (“CISCO”) YAZILIMI SİZE LİSANSLAMAK İSTEMEZ VE YAZILIMI İNDİRME, KURMA VEYA KULLANMA YETKİNİZ BULUNMAZ.​&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;CISCO PACKET TRACER YAZILIMINI İNDİRMEK, KURMAK VEYA KULLANMAK, CISCO SON KULLANICI LİSANS SÖZLEŞMESİ (“EULA” &lt;a href="https://www.cisco.com/c/en/us/about/legal/cloud-and-software/end_user_license_agreement.html"&gt;&lt;span style=" font-family:'Calibri','sans-serif'; text-decoration: underline; color:#0563c1;"&gt;https://www.cisco.com/c/en/us/about/legal/cloud-and-software/end_user_license_agreement.html&lt;/span&gt;&lt;/a&gt;) İLE CISCO PACKET TRACER İÇİN EK SON KULLANICI LİSANS SÖZLEŞMESİNİN (“SEULA” &lt;a href="https://www.cisco.com/c/dam/en_us/about/doing_business/legal/seula/cisco-packet-tracer-software.pdf"&gt;&lt;span style=" font-family:'Calibri','sans-serif'; text-decoration: underline; color:#0563c1;"&gt;https://www.cisco.com/c/dam/en_us/about/doing_business/legal/seula/cisco-packet-tracer-software.pdf&lt;/span&gt;&lt;/a&gt;) KABUL EDİLDİĞİ ANLAMINA GELİR. EULA VE SEULA'NIN TÜM ŞARTLARINI KABUL ETMİYORSANIZ, CISCO SYSTEMS, INC. (“CISCO”) YAZILIMI SİZE LİSANSLAMAK İSTEMEZ VE YAZILIMI İNDİRME, KURMA VEYA KULLANMA YETKİNİZ BULUNMAZ.​&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
