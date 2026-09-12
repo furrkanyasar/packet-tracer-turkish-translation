@@ -5172,7 +5172,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="898" />
         <source>148000</source>
-        <translation>148.000</translation>
+        <translation>148000</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="903" />
@@ -5187,27 +5187,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="913" />
         <source>800000</source>
-        <translation>800.000</translation>
+        <translation>800000</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="918" />
         <source>1000000</source>
-        <translation>1.000.000</translation>
+        <translation>1000000</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="923" />
         <source>1300000</source>
-        <translation>1.300.000</translation>
+        <translation>1300000</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="928" />
         <source>2000000</source>
-        <translation>2.000.000</translation>
+        <translation>2000000</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="933" />
         <source>4000000</source>
-        <translation>4.000.000</translation>
+        <translation>4000000</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="938" />
@@ -17432,7 +17432,7 @@ Modülleri Kaldırma: Modülü cihazdan modül listesine sürükleyin.</translat
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1040" />
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1043" />
         <source>Router enableRouter# configure terminalRouter(config)#</source>
-        <translation>Yönlendirici enableRouter# configure terminalRouter(config)#</translation>
+        <translation>Router enableRouter# configure terminalRouter(config)#</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1067" />
@@ -17442,11 +17442,12 @@ Router# configure terminal&lt;br&gt;
 
 Router(config)#&lt;/font&gt;
 </source>
-        <translation>&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font face="Courier"&gt;Yönlendirici&gt; etkinleştir&lt;br&gt;
+        <translation>&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font face="Courier"&gt;Router&gt; enable&lt;br&gt;
 
-Yönlendirici# configure terminal&lt;br&gt;
+Router# configure terminal&lt;br&gt;
 
-Yönlendirici(config)#&lt;/font&gt;</translation>
+Router(config)#&lt;/font&gt;
+</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="1084" />
@@ -32561,7 +32562,7 @@ etkinliği sıfırlamak istiyor musunuz?</translation>
     <message>
         <location filename="../gui/Workspace/LogicalClustersListView.cpp" line="364" />
         <source>Moving Cable Pegboard is not allowed</source>
-        <translation>Kablo delikli panonun taşınması yasaktır</translation>
+        <translation>Kablo Askı Panosunun taşınması yasaktır</translation>
     </message>
 </context>
 <context>
@@ -36160,24 +36161,24 @@ Kablo Türü: %6</translation>
         <location filename="../gui/Workspace/PhysicalLocationListView.cpp" line="342" />
         <location filename="../gui/Workspace/PhysicalLocationListView.cpp" line="405" />
         <source>Moving </source>
-        <translation>Taşınma</translation>
+        <translation> </translation>
     </message>
     <message>
         <location filename="../gui/Workspace/PhysicalLocationListView.cpp" line="265" />
         <location filename="../gui/Workspace/PhysicalLocationListView.cpp" line="405" />
         <source> to </source>
-        <translation>'ten</translation>
+        <translation> öğesini </translation>
     </message>
     <message>
         <location filename="../gui/Workspace/PhysicalLocationListView.cpp" line="265" />
         <location filename="../gui/Workspace/PhysicalLocationListView.cpp" line="405" />
         <source> is not allowed</source>
-        <translation>'e taşıma</translation>
+        <translation> hedefine taşımak yasaktır</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/PhysicalLocationListView.cpp" line="342" />
         <source> is only allowed via drag and drop within its rack.</source>
-        <translation>yalnızca kendi kabini içinde sürükle-bırak ile taşınabilir.</translation>
+        <translation> yalnızca kendi kabini içinde sürükle-bırak ile taşınabilir.</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/PhysicalLocationListView.cpp" line="354" />
@@ -36197,7 +36198,7 @@ Kablo Türü: %6</translation>
     <message>
         <location filename="../gui/Workspace/PhysicalLocationListView.cpp" line="369" />
         <source>Moving Cable Pegboard is not allowed</source>
-        <translation>Kablo delikli panonun taşınması yasaktır</translation>
+        <translation>Kablo Askı Panosunun taşınması yasaktır</translation>
     </message>
 </context>
 <context>
@@ -36313,7 +36314,7 @@ Total Area: scaleless</source>
     <message>
         <location filename="../gui/AdministrativeOptions/CPixmapViewer.cpp" line="56" />
         <source>Ensure you are no longer using this image! Deletion of utilized images will result in "file not found". Do you want to delete </source>
-        <translation>Bu görüntüyü artık kullanmadığınızdan emin olun! Kullanılan görüntülerin silinmesi "dosya bulunamadı" hatasına neden olur. Silmek istiyor musunuz?</translation>
+        <translation>Bu görüntüyü artık kullanmadığınızdan emin olun! Kullanılan görüntülerin silinmesi "dosya bulunamadı" hatasına neden olur. Silmek istediğiniz dosya: </translation>
     </message>
     <message>
         <location filename="../gui/AdministrativeOptions/CPixmapViewer.cpp" line="56" />
@@ -36670,17 +36671,17 @@ Komut İstemi Komutları: %7</translation>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="108" />
         <source>Gateway: </source>
-        <translation>Ağ Geçidi:</translation>
+        <translation>Ağ Geçidi: </translation>
     </message>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="109" />
         <source>VPN IP: </source>
-        <translation>VPN IP:</translation>
+        <translation>VPN IP: </translation>
     </message>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="190" />
         <source>Physical Location: </source>
-        <translation>Fiziksel Konum:</translation>
+        <translation>Fiziksel Konum: </translation>
     </message>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="238" />
@@ -36693,7 +36694,7 @@ Komut İstemi Komutları: %7</translation>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="1089" />
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="1184" />
         <source>Device Name: </source>
-        <translation>Cihaz Adı:</translation>
+        <translation>Cihaz Adı: </translation>
     </message>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="246" />
@@ -36706,13 +36707,13 @@ Komut İstemi Komutları: %7</translation>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="1097" />
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="1192" />
         <source>Device Model: </source>
-        <translation>Cihaz Modeli:</translation>
+        <translation>Cihaz Modeli: </translation>
     </message>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="250" />
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="584" />
         <source>Hostname: </source>
-        <translation>Ana Bilgisayar Adı:</translation>
+        <translation>Ana Bilgisayar Adı: </translation>
     </message>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="371" />
@@ -36727,25 +36728,28 @@ Komut İstemi Komutları: %7</translation>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="845" />
         <source>DNS Server: </source>
-        <translation>DNS Sunucusu:</translation>
+        <translation>DNS Sunucusu: </translation>
     </message>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="886" />
         <source>
 Cellular Signal Strength: </source>
-        <translation>Hücresel Sinyal Gücü:</translation>
+        <translation>
+Hücresel Sinyal Gücü: </translation>
     </message>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="915" />
         <source>
 Wireless Best Data Rate: </source>
-        <translation>Kablosuz En İyi Veri Hızı:</translation>
+        <translation>
+Kablosuz En İyi Veri Hızı: </translation>
     </message>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="916" />
         <source>
 Wireless Signal Strength: </source>
-        <translation>Kablosuz Sinyal Gücü:</translation>
+        <translation>
+Kablosuz Sinyal Gücü: </translation>
     </message>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="927" />
@@ -36764,7 +36768,7 @@ Bluetooth Tether AP: %1
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="1245" />
         <source>CAPWAP Status: </source>
-        <translation>CAPWAP Durumu:</translation>
+        <translation>CAPWAP Durumu: </translation>
     </message>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="1249" />
@@ -36783,7 +36787,7 @@ Bluetooth Tether AP: %1
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="1253" />
         <source>Providing WLANs: </source>
-        <translation>Sağlanan WLAN'lar:</translation>
+        <translation>Sağlanan WLAN'lar: </translation>
     </message>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="1255" />
@@ -36795,7 +36799,7 @@ Bluetooth Tether AP: %1
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="1279" />
         <source>Remote Network Name: </source>
-        <translation>Uzak Ağ Adı:</translation>
+        <translation>Uzak Ağ Adı: </translation>
     </message>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="1283" />
@@ -36833,34 +36837,34 @@ Bluetooth Tether AP: %1
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="1395" />
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="1401" />
         <source>Peer Address: </source>
-        <translation>Eş Adresi:</translation>
+        <translation>Eş Adresi: </translation>
     </message>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="1396" />
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="1402" />
         <source>Peer Port Number: </source>
-        <translation>Eş Bağlantı Noktası Numarası:</translation>
+        <translation>Eş Bağlantı Noktası Numarası: </translation>
     </message>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="1397" />
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="1403" />
         <source>Peer Network Name: </source>
-        <translation>Eş Ağ Adı:</translation>
+        <translation>Eş Ağ Adı: </translation>
     </message>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="1412" />
         <source>Local Listening Address: </source>
-        <translation>Yerel Dinleme Adresi:</translation>
+        <translation>Yerel Dinleme Adresi: </translation>
     </message>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="110" />
         <source>PPPoE IP: </source>
-        <translation>PPPoE IP:</translation>
+        <translation>PPPoE IP: </translation>
     </message>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="117" />
         <source>Line Number: </source>
-        <translation>Hat Numarası:</translation>
+        <translation>Hat Numarası: </translation>
     </message>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="244" />
@@ -36873,7 +36877,7 @@ Bluetooth Tether AP: %1
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="1095" />
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="1190" />
         <source>Custom Device Model: </source>
-        <translation>Özel Cihaz Modeli:</translation>
+        <translation>Özel Cihaz Modeli: </translation>
     </message>
 </context>
 <context>
@@ -62767,7 +62771,7 @@ Bir komut dosyası modülü oluşturmanın genel sırası şöyledir:</translati
         <location filename="../gui/main.cpp" line="1245" />
         <location filename="../gui/main.cpp" line="1250" />
         <source>The </source>
-        <translation>The </translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1218" />
@@ -62775,7 +62779,7 @@ Bir komut dosyası modülü oluşturmanın genel sırası şöyledir:</translati
         <source> test period is over.
 This application is no longer functional.
 Please contact your test coordinator.</source>
-        <translation>deneme süresi sona erdi.
+        <translation> deneme süresi sona erdi.
 Bu uygulama artık çalışmıyor.
 Lütfen test koordinatörünüzle iletişime geçin.</translation>
     </message>
@@ -62783,14 +62787,14 @@ Lütfen test koordinatörünüzle iletişime geçin.</translation>
         <location filename="../gui/main.cpp" line="1244" />
         <location filename="../gui/main.cpp" line="1249" />
         <source> Expires Soon</source>
-        <translation>Yakında Süresi Dolacak</translation>
+        <translation> Yakında Süresi Dolacak</translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1245" />
         <source> test period is over.
 This application will expire in two weeks.
 Please contact your test coordinator.</source>
-        <translation>test süresi sona erdi.
+        <translation> test süresi sona erdi.
 Bu uygulamanın süresi iki hafta içinde dolacaktır.
 Lütfen test koordinatörünüzle iletişime geçin.</translation>
     </message>
@@ -62799,7 +62803,7 @@ Lütfen test koordinatörünüzle iletişime geçin.</translation>
         <source> test period is over.
 This application will expire in %1 day(s).
 Please contact your test coordinator.</source>
-        <translation>Test süresi sona erdi.
+        <translation> test süresi sona erdi.
 Bu uygulamanın süresi %1 gün içinde dolacak.
 Lütfen test koordinatörünüzle iletişime geçin.</translation>
     </message>
@@ -62929,7 +62933,7 @@ Lütfen test koordinatörünüzle iletişime geçin.</translation>
     <message>
         <location filename="../gui/main.cpp" line="1892" />
         <source>Required Script Modules do not appear to be running. Please reinstall </source>
-        <translation>Gerekli Komut Dosyası Modülleri çalışmıyor gibi görünüyor. Lütfen</translation>
+        <translation>Gerekli Komut Dosyası Modülleri çalışmıyor gibi görünüyor. Lütfen </translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1892" />
@@ -62949,12 +62953,12 @@ Lütfen test koordinatörünüzle iletişime geçin.</translation>
     <message>
         <location filename="../gui/main.cpp" line="1919" />
         <source>Login Failed. </source>
-        <translation>Oturum açma başarısız.</translation>
+        <translation>Oturum açma başarısız. </translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1919" />
         <source> is shutting down.</source>
-        <translation>kapatılıyor.</translation>
+        <translation> kapatılıyor.</translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1960" />
